@@ -305,34 +305,6 @@
             <h1 style="font-size:50px;line-height: 50px"><b>සදහම් වර්ෂා</b></h1>
             <p> ඔබ සැමට පින්බර වෙසක් මංගල්‍යයක් වේවා..! </p>
         </div>
-        <div class="row-fluid" id="thorana">
-            <div class="span8">
-                <video  width="100%" src="<?php echo base_url() ?>assets/contents/Loop.mp4" loop muted playsinline autoplay>
-            </div>
-            <div class="span4">
-                <div class="span5" >
-                    <video width="100%" src="<?php echo base_url() ?>assets/contents/box1.mp4" controls>
-                </div>
-                <div class="span5">
-                    <video width="100%" src="<?php echo base_url() ?>assets/contents/box2.mp4" controls>
-                </div>
-                <div class="span5" >
-                    <video width="100%" src="<?php echo base_url() ?>assets/contents/box3.mp4" controls>
-                </div>
-                <div class="span5" >
-                    <video width="100%" src="<?php echo base_url() ?>assets/contents/box4.mp4" controls>
-                </div>
-                <div class="span5" >
-                    <video width="100%" src="<?php echo base_url() ?>assets/contents/box5.mp4" controls>
-                </div>
-                <div class="span5" >
-                    <video width="100%" src="<?php echo base_url() ?>assets/contents/box6.mp4" controls>
-                </div>
-                <div class="span5" >
-                    <video width="100%" src="<?php echo base_url() ?>assets/contents/box7.mp4" controls>
-                </div>
-            </div>
-        </div>
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
