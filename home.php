@@ -445,6 +445,30 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
+                <img src="<?php echo base_url() ?>assets/frontend/contents/images/hadagasma-2020.05.25.jpeg">
+            </div>
+            <div class="span4">
+                <br>
+                අප අතර සිටින තවත් එක් අහිංසක මිනිසුන් පිරිසක්ය  ඔවුන්... <br>
+                ඔවුන්ගේ හිතේ ඇති ගින්න වගේම කුසගින්නත් නිවා දමා <br>
+                ජීවන ගමනේ අපේක්ෂාවේ එළි දල්වමු.....<br>
+                <br>
+                <i>පබැදුම,<br>
+                ලියෝ ඉරෝධා සංදීපනී<br>
+                සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(නීති පීඨය)</i><br>
+                <br><b> #අපේ_හදගැස්ම<br>
+                        #talenteduocleos<br>
+                        #UOC_Leos<br>
+                        #තුම්මුල්ලේ_සිංහයෝ<br>
+                        #LeoDistrict306C1<br>
+                        #leomd306
+                    </b>
+                </p>
+            </div>
+        </div>
+
+        <div class="row-fluid" style="margin-bottom:20px">
+            <div class="span8">
                 <div class="videoWrapper">
                     <iframe width="750" height="400" src="https://www.youtube.com/embed/QS8MCuWJ7d4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
