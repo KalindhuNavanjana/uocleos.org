@@ -267,31 +267,48 @@
 <!-- Announcements section start -->
 <div id=#announcements class="section secondary-section">
 
-    <div class="triangle"></div>                  
+    <div class="triangle"></div>  
 
-    <div class="title" style="margin-top:20px" >
+    <div class="container">
+        <div class="title" style="margin-top:20px" >
 
             <h1>Announcements</h1>
             
             <p></p>
         
-    </div>
-
-    <div class="row-fluid" >
-
-        <div class="span1"></div>
-        <div class="span10">
-            <h2>Elation 2020 Most Popular Contestant Final Results<h2>
-            <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Elation_Results.jpg" padding="50px">
-            <p>Living your passion with hard work and dedication pays off in the end. Our heartiest congratulations goes towards Leo Pramod Kalhara Jagoda for being the Most popular Competitor in Elation 2020!🥇🏆<br>
-                <b><br>
-                #Elation2020<br>
-                #Spirit_of_Leos<br>
-                #MD306</b>
-            </p>
         </div>
-        <div class="span1"></div>
-    </div>
+
+        <div class="row-fluid" style="margin-bottom:20px">
+            <div class="span8">
+                <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Transition-stay tuned.jpeg" padding="50px">
+            </div>
+            <div class="span4">
+                <p class="large-text"><br>Stay tuned!<br>
+                    Let's join in hand to evoke your true potentials to conquer the world 🌍 <br>
+                    <b><br><br>
+                    #Transition<br>
+                    #UoC_Leos<br>
+                    #Leo_District_306C1</b>
+                </p>
+            </div>
+        </div>
+
+        <div class="row-fluid" style="margin-bottom:20px">
+            <h2>Elation 2020 Most Popular Contestant Final Results<h2>
+            <div class="span8">
+                
+                <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Elation_Results.jpg" padding="50px">
+            </div>
+            <div class="span4">
+                <p class="large-text"><br>Living your passion with hard work and dedication pays off in the end. Our heartiest congratulations goes towards Leo Pramod Kalhara Jagoda for being the Most popular Competitor in Elation 2020!🥇🏆<br>
+                    <b><br><br>
+                    #Elation2020<br>
+                    #Spirit_of_Leos<br>
+                    #MD306</b>
+                </p>
+            </div>
+        </div>
+    </div>                
 
 </div>               
 <!-- end of Announcements section -->
@@ -318,14 +335,12 @@
 
         <!-- <h2 style="margin-top:20px">Stay home Be Safe</h2> -->
 
-        
-
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
                 <img src="<?php echo base_url() ?>assets/frontend/contents/images/hadagasma-2020.05.25.jpeg">
             </div>
             <div class="span4">
-                <br>
+                <p><br>
                 අප අතර සිටින තවත් එක් අහිංසක මිනිසුන් පිරිසක්ය  ඔවුන්... <br>
                 ඔවුන්ගේ හිතේ ඇති ගින්න වගේම කුසගින්නත් නිවා දමා <br>
                 ජීවන ගමනේ අපේක්ෂාවේ එළි දල්වමු.....<br>
