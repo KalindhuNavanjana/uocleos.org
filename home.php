@@ -278,16 +278,44 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Transition-04.jpeg" padding="50px">
+                <img width="100%" height="auto" src="<?php echo base_url() ?>assets/contents/images/tempory/poson_flyer_2020.jpeg" padding="50px">
             </div>
             <div class="span4">
                 <p>
-                    <b>"Give yourself an opportunity to discover who you really are"</b><br>
-                    Let's join hands to discover ourselves alongside the leading personalities in the corporate world.<br><br>
-                    <b>Follow the Facebook event for more updates :-</b></p> <a src="https://facebook.com/events/s/transition/424432091773229/?ti=ia">https://facebook.com/events/s/transition/424432091773229/?ti=ia</a><br>
-                    <p><b><br><br>
-                    #Transition<br>
-                    #SavetheDate<br>
+                    අමා දම් සිසිලෙන් සිරිලක සනසා ධර්මාලෝකයෙන් සිත් අදුර දුරු කෙරූ පින්බර පොසොන් පොහෝ දින අදයි.<br>
+                    <br>
+                    සැම සිත් සනහාලන පින්බර පොසොන් මංගල්‍යක් වේවා!<br>
+                    <br>
+                    <a href="https://www.facebook.com/474989229346065/posts/1624411607737149/">https://www.facebook.com/...</a><br>
+                    <b><br><br>
+                    #තුම්මුල්ලේ_සිංහයෝ<br>
+                    #UoC_Leos<br>
+                    #Leo_District_306C1</b>
+                    #MD_306<br>
+                </p>
+            </div>
+        </div>
+        
+        <div class="row-fluid" style="margin-bottom:20px">
+            <div class="span8">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/environmental_day_2020.jpeg" padding="50px">
+            </div>
+            <div class="span4">
+                <p>
+                    Don’t you think it’s high time???<br>
+                    To be a bit more caring,<br>
+                    To show some kindness,<br>
+                    To pay a bit more attention<br>
+                    <br>
+                    TO RETURN THE LOVE MOTHER NATURE GAVE US THROUGHOUT OUR LIFETIME ....<br>
+                    <br>
+                    <b>Lets get together to celebrate World Environment Day & do our part towards saving the environment; cause together we can make a difference</b><br>
+                    <br>
+                    <a href="https://www.facebook.com/474989229346065/posts/1624498857728424/?d=n">https://www.facebook.com/...</a><br>
+                    <b><br><br>
+                    #SaveTheNature<br>
+                    #ReturntheLove<br>
+                    #LoveMotherNature<br>
                     #UoC_Leos<br>
                     #Leo_District_306C1</b>
                 </p>
@@ -296,66 +324,43 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Transition-03.jpeg" padding="50px">
+                <img src="<?php echo base_url() ?>assets/frontend/contents/images/fb_10k_likes.jpeg">
             </div>
             <div class="span4">
-                <p class="medium-text">
-                    <b>"TRANSITION"</b> has opened up an immense opportunity to meet this unstoppable supernova who has become the youngest Sri Lankan CEO as well as who is a multinational CEO with a diverse portfolio of knowledge, skills and talents ranging from global business leadership roles to modelling.<br><br>
-                    Save the date to meet up this best personality in the corporate world.<br><br>
-                    <b>Follow the Facebook event for more updates :- </b><a src="https://facebook.com/events/s/transition/424432091773229/?ti=ia">https://facebook.com/events/s/transition/424432091773229/?ti=ia</a><br>
-                    <b><br><br>
-                    #Transition<br>
-                    #SavetheDate<br>
-                    #UoC_Leos<br>
-                    #Leo_District_306C1</b>
+                <p >    <!-- style="font-size:25px;line-height: 25px" -->   
+                <b>"We've reached another milestone!"</b><br>
+                <br>
+                Working hard for an achievement is not a waste of time, but a state of mind. Team work is the fuel in the furnace of achievement !<br>
+                It's time to celebrate the achievement of 10k likes for an official FB page in leo history ! <br>
+                Leo Club of UOC, takes the lead to reach the milestone of 10000 likes in its 5th year in Leoism. <br>
+                On the significant moment of reaching 10000 likes for the official Facebook page of Leo Club of University of Colombo, we would like to extend our gratitude to everyone who collaborated with us throughout the journey !<br>
+                https://www.facebook.com/leo.uoc.306c1/<br>
+                <br>
+                <br><b> #The_Best_Gang<br>
+                        #UOC_Leos<br>
+                        #තුම්මුල්ලේ_සිංහයෝ<br>
+                        #LeoDistrict306C1
+                    </b>
                 </p>
             </div>
         </div>
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Transition-02.jpg" padding="50px">
+                <div class="videoWrapper">
+                    <iframe width="750" height="400" src="https://www.youtube.com/embed/QS8MCuWJ7d4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
             </div>
             <div class="span4">
-                <p class="medium-text">
-                    <b>"TRANSITION"</b> has opened up an immense opportunity to meet this visionary leader with close to two decades of experience in MNC's across the globe as well as a well-respected thought leader and a mentor.<br>Save the date to meet up this best personality in the corporate world.<br><br>Follow the Facebook event for more updates :- <a src="https://facebook.com/events/s/transition/424432091773229/?ti=ia">https://facebook.com/events/s/transition/424432091773229/?ti=ia</a><br>
-                    <b><br><br>
-                    #Transition<br>
-                    #UoC_Leos<br>
-                    #Leo_District_306C1</b>
-                </p>
-            </div>
-        </div>
-
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Transition-01.jpg" padding="50px">
-            </div>
-            <div class="span4">
-                <p class="medium-text">
-                    <b>"Burning desire to become successful will trigger the transition of your soul towards the eminence"</b><br>Save the date to meet up the best outstanding personalities in the corporate world 🌎 <br><br>Follow the Facebook event for more details :- <a src="https://facebook.com/events/s/transition/424432091773229/?ti=ia">https://facebook.com/events/s/transition/424432091773229/?ti=ia</a><br>
-                    <b><br><br>
-                    #Transition<br>
-                    #SavetheDate<br>
-                    #UoC_Leos<br>
-                    #Leo_District_306C1</b>
-                </p>
-            </div>
-        </div>
-
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Transition-stay tuned.jpeg" padding="50px">
-            </div>
-            <div class="span4">
-                <p class="large-text"><br>Stay tuned!<br>
-                    Let's join in hand to evoke your true potentials to conquer the world 🌍 <br>
-                    <b><br><br>
-                    #Transition<br>
-                    #SavetheDate<br>
-                    #UoC_Leos<br>
-                    #Leo_District_306C1</b>
-                </p>
+                <p >    
+                <b>"Journey towards excellence"</b><br>
+                <br>
+                To be a standout success is to take each new beginning and follow it through the end.<br>
+                Leo club of Uoc always work through each step to arrive at the next while motivating and inspiring others to press on without fail.  <br>
+                Let’s dig into some of the highlights of our Leo journey of Leoistic year 2019/20. <br>
+                We are proud to present our Leo memories this time with 3D technology.....<br>
+                <br>
+                 
             </div>
         </div>
 
@@ -403,13 +408,86 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/frontend/contents/images/hadagasma-2020.05.25.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/Transition-06.jpeg" padding="50px">
+            </div>
+            <div class="span4">
+                <p>
+                    <b>"Just one more day left for the most awaited event of Leo Club of University of Colombo"</b><br>
+                    Save the date to meet up this best personalities in a one platform.<br><br>
+                    <b>Follow the Facebook event for more updates :-</b> <a style="color:blue" href="https://facebook.com/events/s/transition/424432091773229/?ti=ia">https://www.facebook.com/...</a><br>
+                    <b><br><br>
+                    #Transition<br>
+                    #SavetheDate<br>
+                    #UoC_Leos<br>
+                    #Leo_District_306C1</b>
+                </p>
+            </div>
+        </div>
+        
+        <div class="row-fluid" style="margin-bottom:20px">
+            <div class="span8">
+                <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Transition-04.jpeg" padding="50px">
+            </div>
+            <div class="span4">
+                <p>
+                    <b>"Give yourself an opportunity to discover who you really are"</b><br>
+                    Let's join hands to discover ourselves alongside the leading personalities in the corporate world.<br><br>
+                    <b>Follow the Facebook event for more updates :-</b></p> <a style="color:blue" href="https://facebook.com/events/s/transition/424432091773229/?ti=ia">https://facebook.com/transition</a><br>
+                    <p><b><br><br>
+                    #Transition<br>
+                    #SavetheDate<br>
+                    #UoC_Leos<br>
+                    #Leo_District_306C1</b>
+                </p>
+            </div>
+        </div>
+
+        <div class="row-fluid" style="margin-bottom:20px">
+            <div class="span8">
+                <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Transition-03.jpeg" padding="50px">
+            </div>
+            <div class="span4">
+                <p class="medium-text">
+                    <b>"TRANSITION"</b> has opened up an immense opportunity to meet this unstoppable supernova who has become the youngest Sri Lankan CEO as well as who is a multinational CEO with a diverse portfolio of knowledge, skills and talents ranging from global business leadership roles to modelling.<br><br>
+                    Save the date to meet up this best personality in the corporate world.<br><br>
+                    <b>Follow the Facebook event for more updates :- </b><a style="color:blue" href="https://facebook.com/events/s/transition/424432091773229/?ti=ia">https://facebook.com/transition</a><br>
+                    <b><br><br>
+                    #Transition<br>
+                    #SavetheDate<br>
+                    #UoC_Leos<br>
+                    #Leo_District_306C1</b>
+                </p>
+            </div>
+        </div>
+
+        <div class="row-fluid" style="margin-bottom:20px">
+            <div class="span8">
+                <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Transition-02.jpg" padding="50px">
+            </div>
+            <div class="span4">
+                <p class="medium-text">
+                    <b>"TRANSITION"</b> has opened up an immense opportunity to meet this visionary leader with close to two decades of experience in MNC's across the globe as well as a well-respected thought leader and a mentor.<br>Save the date to meet up this best personality in the corporate world.<br><br>Follow the Facebook event for more updates :- <a style="color:blue" href="https://facebook.com/events/s/transition/424432091773229/?ti=ia">https://facebook.com/transition</a><br>
+                    <b><br><br>
+                    #Transition<br>
+                    #UoC_Leos<br>
+                    #Leo_District_306C1</b>
+                </p>
+            </div>
+        </div>
+
+        <div class="row-fluid" style="margin-bottom:20px">
+            <div class="span8">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.06.05.jpeg">
             </div>
             <div class="span4">
                 <p><br>
-                අප අතර සිටින තවත් එක් අහිංසක මිනිසුන් පිරිසක්ය  ඔවුන්... <br>
-                ඔවුන්ගේ හිතේ ඇති ගින්න වගේම කුසගින්නත් නිවා දමා <br>
-                ජීවන ගමනේ අපේක්ෂාවේ එළි දල්වමු.....<br>
+                මිහි මව සුවසේ නිදන<br>
+                දිනක් වේ නම් එදින<br>
+                ලොවම හිනැහී සැනහෙන<br>
+                හෙටක් වේ මැයි යම් දින<br>
+                <b><i>කොළපාට ආදරය</i></b><br>
+                ආයෙමත් දලු ලා වැඩෙන<br>
+                නැවුම් හුස්මකින් ඔබ අප සැවොම එකලෙසට සුවපත් කරන...<br>
                 <br>
                 <i>පබැදුම,<br>
                 ලියෝ ඉරෝධා සංදීපනී<br>
@@ -424,51 +502,6 @@
                 </p>
             </div>
         </div>
-
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <div class="videoWrapper">
-                    <iframe width="750" height="400" src="https://www.youtube.com/embed/QS8MCuWJ7d4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-            </div>
-            <div class="span4">
-                <p >    
-                <b>"Journey towards excellence"</b><br>
-                <br>
-                To be a standout success is to take each new beginning and follow it through the end.<br>
-                Leo club of Uoc always work through each step to arrive at the next while motivating and inspiring others to press on without fail.  <br>
-                Let’s dig into some of the highlights of our Leo journey of Leoistic year 2019/20. <br>
-                We are proud to present our Leo memories this time with 3D technology.....<br>
-                <br>
-                
-            </div>
-        </div>
-
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/frontend/contents/images/fb_10k_likes.jpeg">
-            </div>
-            <div class="span4">
-                <p >    <!-- style="font-size:25px;line-height: 25px" -->   
-                <b>"We've reached another milestone!"</b><br>
-                <br>
-                Working hard for an achievement is not a waste of time, but a state of mind. Team work is the fuel in the furnace of achievement !<br>
-                It's time to celebrate the achievement of 10k likes for an official FB page in leo history ! <br>
-                Leo Club of UOC, takes the lead to reach the milestone of 10000 likes in its 5th year in Leoism. <br>
-                On the significant moment of reaching 10000 likes for the official Facebook page of Leo Club of University of Colombo, we would like to extend our gratitude to everyone who collaborated with us throughout the journey !<br>
-                https://www.facebook.com/leo.uoc.306c1/<br>
-                <br>
-                <br><b> #The_Best_Gang<br>
-                        #UOC_Leos<br>
-                        #තුම්මුල්ලේ_සිංහයෝ<br>
-                        #LeoDistrict306C1
-                    </b>
-                </p>
-            </div>
-        </div>
-        
-
-        
 
     </div>
     
