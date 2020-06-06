@@ -363,30 +363,12 @@
         
         <h2 style="margin-bottom:20px;margin-top:40px;text-align:center">Transition</h2>
 
-        <!-- <div class="row-fluid" style="margin-bottom:20px">
-            <div class="videoWrapper">
-                <iframe></iframe>
-            </div>
-        </div> -->
-
         <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/Transition-06.jpeg" padding="50px">
-            </div>
-            <div class="span4">
-                <p>
-                    <b>"Just one more day left for the most awaited event of Leo Club of University of Colombo"</b><br>
-                    Save the date to meet up this best personalities in a one platform.<br><br>
-                    <b>Follow the Facebook event for more updates :-</b> <a style="color:blue" href="https://facebook.com/events/s/transition/424432091773229/?ti=ia">https://www.facebook.com/...</a><br>
-                    <b><br><br>
-                    #Transition<br>
-                    #SavetheDate<br>
-                    #UoC_Leos<br>
-                    #Leo_District_306C1</b>
-                </p>
+            <div class="videoWrapper">
+            <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fleo.uoc.306c1%2Fvideos%2F256756138883710%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
             </div>
         </div>
-        
+
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
                 <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Transition-04.jpeg" padding="50px">
