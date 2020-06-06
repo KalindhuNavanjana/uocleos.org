@@ -278,52 +278,6 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img width="100%" height="auto" src="<?php echo base_url() ?>assets/contents/images/tempory/poson_flyer_2020.jpeg" padding="50px">
-            </div>
-            <div class="span4">
-                <p>
-                    අමා දම් සිසිලෙන් සිරිලක සනසා ධර්මාලෝකයෙන් සිත් අදුර දුරු කෙරූ පින්බර පොසොන් පොහෝ දින අදයි.<br>
-                    <br>
-                    සැම සිත් සනහාලන පින්බර පොසොන් මංගල්‍යක් වේවා!<br>
-                    <br>
-                    <a href="https://www.facebook.com/474989229346065/posts/1624411607737149/">https://www.facebook.com/...</a><br>
-                    <b><br><br>
-                    #තුම්මුල්ලේ_සිංහයෝ<br>
-                    #UoC_Leos<br>
-                    #Leo_District_306C1</b>
-                    #MD_306<br>
-                </p>
-            </div>
-        </div>
-        
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/environmental_day_2020.jpeg" padding="50px">
-            </div>
-            <div class="span4">
-                <p>
-                    Don’t you think it’s high time???<br>
-                    To be a bit more caring,<br>
-                    To show some kindness,<br>
-                    To pay a bit more attention<br>
-                    <br>
-                    TO RETURN THE LOVE MOTHER NATURE GAVE US THROUGHOUT OUR LIFETIME ....<br>
-                    <br>
-                    <b>Lets get together to celebrate World Environment Day & do our part towards saving the environment; cause together we can make a difference</b><br>
-                    <br>
-                    <a href="https://www.facebook.com/474989229346065/posts/1624498857728424/?d=n">https://www.facebook.com/...</a><br>
-                    <b><br><br>
-                    #SaveTheNature<br>
-                    #ReturntheLove<br>
-                    #LoveMotherNature<br>
-                    #UoC_Leos<br>
-                    #Leo_District_306C1</b>
-                </p>
-            </div>
-        </div>
-
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
                 <img src="<?php echo base_url() ?>assets/frontend/contents/images/fb_10k_likes.jpeg">
             </div>
             <div class="span4">
