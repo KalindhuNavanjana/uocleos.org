@@ -371,47 +371,12 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Transition-04.jpeg" padding="50px">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/Transition-07.jpeg" padding="50px">
             </div>
             <div class="span4">
                 <p>
-                    <b>"Give yourself an opportunity to discover who you really are"</b><br>
-                    Let's join hands to discover ourselves alongside the leading personalities in the corporate world.<br><br>
-                    <b>Follow the Facebook event for more updates :-</b></p> <a style="color:blue" href="https://facebook.com/events/s/transition/424432091773229/?ti=ia">https://facebook.com/transition</a><br>
-                    <p><b><br><br>
-                    #Transition<br>
-                    #SavetheDate<br>
-                    #UoC_Leos<br>
-                    #Leo_District_306C1</b>
-                </p>
-            </div>
-        </div>
-
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Transition-03.jpeg" padding="50px">
-            </div>
-            <div class="span4">
-                <p class="medium-text">
-                    <b>"TRANSITION"</b> has opened up an immense opportunity to meet this unstoppable supernova who has become the youngest Sri Lankan CEO as well as who is a multinational CEO with a diverse portfolio of knowledge, skills and talents ranging from global business leadership roles to modelling.<br><br>
-                    Save the date to meet up this best personality in the corporate world.<br><br>
-                    <b>Follow the Facebook event for more updates :- </b><a style="color:blue" href="https://facebook.com/events/s/transition/424432091773229/?ti=ia">https://facebook.com/transition</a><br>
-                    <b><br><br>
-                    #Transition<br>
-                    #SavetheDate<br>
-                    #UoC_Leos<br>
-                    #Leo_District_306C1</b>
-                </p>
-            </div>
-        </div>
-
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Transition-02.jpg" padding="50px">
-            </div>
-            <div class="span4">
-                <p class="medium-text">
-                    <b>"TRANSITION"</b> has opened up an immense opportunity to meet this visionary leader with close to two decades of experience in MNC's across the globe as well as a well-respected thought leader and a mentor.<br>Save the date to meet up this best personality in the corporate world.<br><br>Follow the Facebook event for more updates :- <a style="color:blue" href="https://facebook.com/events/s/transition/424432091773229/?ti=ia">https://facebook.com/transition</a><br>
+                    We would like to express our sincere gratitude for everyone who has engaged with us by spending your precious time for this valubale moment.<br><br>
+                    We were able to successfully conclude our First Ever Virtual Leadership Conference in a more remarkable way with all of your immense support and great collaboration.<br>
                     <b><br><br>
                     #Transition<br>
                     #UoC_Leos<br>
