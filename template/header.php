@@ -98,6 +98,8 @@
 
                             <li><a href="#service">About</a></li>
 
+                            <li><a href="#announcements">Announcements</a></li>
+
                             <li><a href="#recents">Recents</a></li>
 
                             <li><a href="#leaders">Leaders</a></li>

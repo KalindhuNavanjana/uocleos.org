@@ -263,7 +263,7 @@
 <!-- Service section end -->
 
 <!-- Announcements section start -->
-<div id=#announcements class="section secondary-section">
+<div id=announcements class="section secondary-section">
 
     <div class="triangle"></div>  
 
@@ -361,7 +361,7 @@
         <!-- <h2 style="margin-top:20px">Transition</h2> -->
 
         
-        <h2 style="margin-top:20px">Transition</h2>
+        <h2 style="margin-bottom:20px;margin-top:40px;text-align:center">Transition</h2>
 
         <!-- <div class="row-fluid" style="margin-bottom:20px">
             <div class="videoWrapper">
@@ -439,7 +439,7 @@
         </div>
 
 
-        <h2 style="margin-top:20px">අපේ හදගැස්ම</h2>
+        <h2 style="margin-bottom:20px;margin-top:40px;text-align:center">අපේ හදගැස්ම</h2>
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
