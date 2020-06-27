@@ -276,6 +276,28 @@
         
         </div>
 
+        <div class="row-fluid" style="margin-bottom:20px">
+            <div class="span8">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/5th anniversary.jpeg">
+            </div>
+            <div class="span4">
+                <p >    <!-- style="font-size:25px;line-height: 25px" -->   
+                <b>Proudly celebrating 5 years of glorious UOC Leoism</b><br>
+                <br>
+                It's what we have been waiting for!<br>
+                Let's join hands to commemorate the 5th Anniversary of Leo Club of University of Colombo.<br>
+                We aspire to preserve the legacy of our club that have been built throughout the past 5 years and to uplift the name of Leo Club of University of Colombo to monumental standards whilst continuing to strive forward towards greater  heights.<br>
+                We would like to pay our heartfelt tribute towards everyone who has been surrounded with us to cross yet another remarkable day in the calendar of the Leo Club of University of Colombo.<br>
+                <br>
+                <br><b> #Anniversary_Celebration<br>
+                        #UOC_Leos<br>
+                        #LeoDistrict306C1<br>
+                        #MD_306
+                    </b>
+                </p>
+            </div>
+        </div>
+
         <div class="row-fluid" style="margin-bottom:20px" id=theForerunner>
             <h2>The Forerunner Registration</h2>
             <div class="span8">
