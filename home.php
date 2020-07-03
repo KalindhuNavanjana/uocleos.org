@@ -298,34 +298,6 @@
             </div>
         </div>
 
-        <div class="row-fluid" style="margin-bottom:20px" id=theForerunner>
-            <h2>The Forerunner Registration</h2>
-            <div class="span8">
-                <div class="videoWrapper" style="padding-bottom: 125%">
-                <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfp6oTd6b0Ppt5BBZyvvzVonScBGa2qVl2wVryTyozJr9Avag/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-                </div>
-            </div>
-            <div class="span3">
-                <p>
-                    The day that everyone's waiting for, with glimpses and flashes of acclaim is drawing close.<br><br>
-
-                    <b>🔥 The 15th Annual District Conference🔥</b><br>
-                    (Ceremonial Session)<br>
-                    This is the warm invitation for those who would like to participate in this glorious evening.<br><br>
-
-                    <b>THE FORERUNNER 🔥🦅🔥</b><br>
-                    - Celebration Of Service -<br>
-                    If you would like to endure the glory of this magnificent night, fill out the below form and register with us as to confirm your participation.<br>
-
-                    <b>Save the Date<br>
-                    On 26th of July 2020<br>
-                    At Renaissance Hotel - Malabe<br>
-                    A fee of Rs.2500 would be charged for entrance inclusive of Dinner.</b><br>
-                    <i>Please note that the closing date for the Registration is 30th June 2020 and be kind enough to remit your payment on or before 10th July 2020.</i><br>
-                </p> 
-            </div>
-        </div>
-
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
                 <img src="<?php echo base_url() ?>assets/frontend/contents/images/fb_10k_likes.jpeg">
@@ -436,20 +408,19 @@
         </div>
 
 
-        <h2 style="margin-bottom:20px;margin-top:40px;text-align:center">අපේ හදගැස්ම</h2>
+        <h2 id="Ape_Hadagasma" style="margin-bottom:20px;margin-top:40px;text-align:center">අපේ හදගැස්ම</h2>
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.06.21.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.07.04.jpeg">
             </div>
             <div class="span4">
                 <p>
-                දිවියම පාහේ දරුවන් වෙනුවෙන් කැප කරන, පියාණනි ඔබ හට කුමට එක් දවසක්.. <br>
-                පතන්නෙමි හැම දිනම මතු මතුත් වේවා නුඹ මගේ පියාණන්..<br><br>
-                <b>සුවහසක් ලෝක වාසී පියවරුන්ට නිරෝගිමත්, දීර්ඝායුෂ පියවරුන්ගේ දිනයක් වේවා.</b><br>
-                <br>
+                අමාවක රෑ අහසේ<br>
+                තරු තනියි ගණදුරේම....<br><br>
+                
                 <i>පබැදුම,<br>
-                ලියෝ තිලිණි මධුමාලි<br>
+                ලියෝ  තිළිණිකා<br>
                 සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(කළමනාකරණ හා මූල්‍ය පීඨය)</i><br>
                 <br><b> #අපේ_හදගැස්ම<br>
                         #talenteduocleos<br>
