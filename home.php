@@ -339,9 +339,10 @@
                  
             </div>
         </div>
-
+        
+        <h2>Elation 2020 Most Popular Contestant Final Results</h2>
         <div class="row-fluid" style="margin-bottom:20px">
-            <h2>Elation 2020 Most Popular Contestant Final Results</h2>
+            
             <div class="span8">
                 
                 <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Elation_Results.jpg" padding="50px">
@@ -382,7 +383,7 @@
 
         <!-- <h2 style="margin-top:20px">Transition</h2> -->
 
-        
+        <!-- 
         <h2 style="margin-bottom:20px;margin-top:40px;text-align:center">Transition</h2>
 
         <div class="row-fluid" style="margin-bottom:20px">
@@ -405,23 +406,23 @@
                     #Leo_District_306C1</b>
                 </p>
             </div>
-        </div>
+        </div> -->
 
 
         <h2 id="Ape_Hadagasma" style="margin-bottom:20px;margin-top:40px;text-align:center">අපේ හදගැස්ම</h2>
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.07.04.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.07.11.jpg">
             </div>
             <div class="span4">
                 <p>
-                අමාවක රෑ අහසේ<br>
-                තරු තනියි ගණදුරේම....<br><br>
+                වැස්සකට පුළුවන් හරි සීරුවට<br>
+                මතක එකින් එක අවුස්සන්න...<br><br>
                 
                 <i>පබැදුම,<br>
-                ලියෝ  තිළිණිකා<br>
-                සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(කළමනාකරණ හා මූල්‍ය පීඨය)</i><br>
+                ලියෝ ඉරෝධා සංදීපනී<br>
+                සාමාජික - කොළඹ විශ්වවිද්‍යාලීය ලියෝ සමාජය(නීති  පීඨය)</i><br>
                 <br><b> #අපේ_හදගැස්ම<br>
                         #talenteduocleos<br>
                         #UOC_Leos<br>
