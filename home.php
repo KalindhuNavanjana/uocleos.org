@@ -413,12 +413,13 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.07.11.jpg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.07.17.jpg">
             </div>
             <div class="span4">
                 <p>
-                වැස්සකට පුළුවන් හරි සීරුවට<br>
-                මතක එකින් එක අවුස්සන්න...<br><br>
+                තමන්ගේ කියා බිම් අගලක් නොමැති මුත්<br>
+                රැක්කා ඔවුන් මව්බිම<br>
+                සිය මවුන් දෙවැනි කරන්....<br><br>
                 
                 <i>පබැදුම,<br>
                 ලියෝ ඉරෝධා සංදීපනී<br>
