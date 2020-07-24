@@ -413,17 +413,18 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.07.17.jpg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.07.24.jpg">
             </div>
             <div class="span4">
                 <p>
-                තමන්ගේ කියා බිම් අගලක් නොමැති මුත්<br>
-                රැක්කා ඔවුන් මව්බිම<br>
-                සිය මවුන් දෙවැනි කරන්....<br><br>
-                
+                <b>"සෙබළ පුත සුවවෙන්න ඉක්මනින්, යළි මං පෙන්නන්න ජීවිත අපේ"</b><br>
+                <br>
+                කන්දකාඩුවෙන් ජීවිතේ ඉරණම සොයන හදවතක මිමිණෙන සුසුම් හඬ..<br>
+                සියලුම ලක් වාසී, ලෝක වාසී කොවිඩ් ආසදිතයින් හට ඉක්මන් සුව ලැබේවා.<br>
+                <br>
                 <i>පබැදුම,<br>
-                ලියෝ ඉරෝධා සංදීපනී<br>
-                සාමාජික - කොළඹ විශ්වවිද්‍යාලීය ලියෝ සමාජය(නීති  පීඨය)</i><br>
+                ලියෝ තිළිණිකා<br>
+                සාමාජික - කොළඹ විශ්වවිද්‍යාලීය ලියෝ සමාජය(කළමනාකරණ හා මූල්‍ය  පීඨය)</i><br>
                 <br><b> #අපේ_හදගැස්ම<br>
                         #talenteduocleos<br>
                         #UOC_Leos<br>
