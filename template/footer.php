@@ -492,6 +492,7 @@
 
 <script type="text/javascript" src="<?php echo base_url() ?>assets/frontend/js/projects.js"></script>
 
+
 <!-- Load google maps api and call initializeMap function defined in app.js -->
 
 <script async="" defer="" type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&callback=initializeMap"></script>

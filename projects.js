@@ -191,6 +191,14 @@
             venue:"New Arts theatre,University Of Colombo",
             discription:"<b>Elation 2020 - The Spirit of Leos<b> is a talent search initiated for Leos of Sri Lanka for the second consecutive time with the prime motive of creating the perfect platform for Leos to showcase their talents.<br>The Grand Finale of Elation 2020 was held on 8th March 2020 at the New Arts Theatre, University of Colombo.",
             category:"other"                    
+        },
+        {
+            name:"Transition",
+            leader:"Leo Ayeshmantha Gayan",
+            date:"May 2020",        //06
+            venue:"Zoom Online Meeting Platform",
+            discription:"Transition was the initiative taken by the University of Colombo Leo Club in order to face the challenges faced during the Covid- 19 pandemic situation in an innovative way. It was the first ever virtual leadership conference organized as the opening event of the Leoistic year 2020/21 under the leadership of the newly elected committee. ",
+            category:"other" 
         }
 
 
