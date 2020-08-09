@@ -394,19 +394,17 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.07.24.jpg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.08.08.jpg">
             </div>
             <div class="span4">
                 <p>
-                    <b>"සෙබළ පුත සුවවෙන්න ඉක්මනින්, යළි මං පෙන්නන්න ජීවිත අපේ"</b><br>
-                    <br>
-                    කන්දකාඩුවෙන් ජීවිතේ ඉරණම සොයන හදවතක මිමිණෙන සුසුම් හඬ..<br>
-                    සියලුම ලක් වාසී, ලෝක වාසී කොවිඩ් ආසදිතයින් හට ඉක්මන් සුව ලැබේවා.<br>
+                    <b>මමයි රජු දුෂ්ඨගාමිණී<br>නුබෙ නමින් දාගැබ් සැදූ.....</b><br>
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ තිළිණිකා<br>
-                        සාමාජික - කොළඹ විශ්වවිද්‍යාලීය ලියෝ සමාජය(කළමනාකරණ හා මූල්‍ය පීඨය)</i><br>
-                    <br><b> #අපේ_හදගැස්ම<br>
+                        ලියෝ ඉරෝධා සංදීපනී<br>
+                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය (නීති පීඨය)</i><br>
+                    <br>
+                    <b> #අපේ_හදගැස්ම<br>
                         #talenteduocleos<br>
                         #UOC_Leos<br>
                         #LeoDistrict306C1<br>
