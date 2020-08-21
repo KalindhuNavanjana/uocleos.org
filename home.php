@@ -394,15 +394,16 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.08.08.jpg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.08.22.jpeg">
             </div>
             <div class="span4">
                 <p>
-                    <b>මමයි රජු දුෂ්ඨගාමිණී<br>නුබෙ නමින් දාගැබ් සැදූ.....</b><br>
+                    <b>ඉරුණු කඩමලු පොරවාගෙන ...
+                    <br>අවුල් වැහැරුණු හිස් ඇතිව...</b><br>
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ ඉරෝධා සංදීපනී<br>
-                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය (නීති පීඨය)</i><br>
+                        ලියෝ  තිළිණිකා<br>
+                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(කළමනාකරණ හා මූල්‍ය  පීඨය)</i><br>
                     <br>
                     <b> #අපේ_හදගැස්ම<br>
                         #talenteduocleos<br>
