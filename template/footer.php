@@ -1,7 +1,6 @@
-
 <!-- Newsletter section start -->
 
-<div id= "newsletters" class="section third-section">
+<div id="newsletters" class="section third-section">
 
     <div class="container newsletter">
 
@@ -69,28 +68,28 @@
                         <p>Our_Esssence Vol02 Issue07</p>
                     </a>
                 </li>
-                
+
                 <li>
                     <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol02-Issue06.pdf">
                         <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol2-issue6.webp" alt="vol 2 - issue 6">
                         <p>Our_Esssence Vol02 Issue06</p>
                     </a>
                 </li>
-                
+
                 <li>
                     <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol02-Issue05.pdf">
                         <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol2-issue5.webp" alt="vol 2 - issue 5">
                         <p>Our_Esssence Vol02 Issue05</p>
                     </a>
                 </li>
-                
+
                 <li>
                     <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol02-Issue04.pdf">
                         <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol2-issue4.webp" alt="vol 2 - issue 4">
                         <p>Our_Esssence Vol02 Issue04</p>
                     </a>
                 </li>
-                
+
                 <li>
                     <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol02-Issue03.pdf">
                         <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol2-issue3.webp" alt="vol 2 - issue 3">
@@ -125,7 +124,7 @@
         <div class="sub-section">
             <div id="success-subscribe" class="alert alert-success invisible">
 
-                        <strong>Well done!</strong>You successfully subscribet to our newsletter.</div>
+                <strong>Well done!</strong>You successfully subscribet to our newsletter.</div>
 
             <div class="row-fluid">
 
@@ -154,9 +153,9 @@
             </div>
         </div>
 
-        
 
-        
+
+
 
     </div>
 
@@ -182,231 +181,185 @@
 
         </div>
 
-        <div class="map-wrapper">
+        <!-- fb and twitter row -->
+        <div class="row-fluid">
 
-<!--             <div class="map-canvas" id="map-canvas"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7921.824746944846!2d79.85255775314351!3d6.901082541099836!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0000000000000000%3A0x392e841fcc0f3899!2sFaculty+Of+Management+And+Finance!5e0!3m2!1sen!2slk!4v1464330214387" width="600" height="450" frameborder="0" style="border:0" allowfullscreen style="z-index:100"></iframe></div>
- -->
-            <div class="container">
+            <!-- Facebook Block -->
+            <div class="span6 centered">
+                <div class="videowrapper">
 
-                <div class="row-fluid">
-
-                    <div class="span5 contact-form centered">
-
-                        <h3>Say Hello to UOC LEOs</h3>
-
-                        <div id="successSend" class="alert alert-success invisible">
-
-                            <strong>Well done!</strong>Your message has been sent.</div>
-
-                        <div id="errorSend" class="alert alert-error invisible">There was an error.</div>
-
-                        <form id="contact-form" action="php/mail.php">
-
-                            <div class="control-group">
-
-                                <div class="controls">
-
-                                    <input class="span12" type="text" id="name" name="name" placeholder="* Your name..." />
-
-                                    <div class="error left-align" id="err-name">Please enter name.</div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="control-group">
-
-                                <div class="controls">
-
-                                    <input class="span12" type="email" name="email" id="email" placeholder="* Your email..." />
-
-                                    <div class="error left-align" id="err-email">Please enter valid email adress.</div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="control-group">
-
-                                <div class="controls">
-
-                                    <textarea class="span12" name="comment" id="comment" placeholder="* Comments..."></textarea>
-
-                                    <div class="error left-align" id="err-comment">Please enter your comment.</div>
-
-                                </div>
-
-                            </div>
-
-                            <div class="control-group">
-
-                                <div class="controls">
-
-                                    <button id="send-mail" class="message-btn">Send message</button>
-
-                                </div>
-
-                            </div>
-
-                        </form>
-
+                    <div class="fb-page" data-href="https://www.facebook.com/leo.uoc.306c1" data-tabs="timeline" data-width="500" data-height="600" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true">
+                        <div class="fb-xfbml-parse-ignore">
+                            <blockquote cite="https://www.facebook.com/leo.uoc.306c1"><a href="https://www.facebook.com/leo.uoc.306c1">Leo Club of University of Colombo</a></blockquote>
+                        </div>
                     </div>
 
+                    <div id="fb-root"></div>
+                    <script>
+                        (function(d, s, id) {
+
+                            var js, fjs = d.getElementsByTagName(s)[0];
+                            if (d.getElementById(id))
+                                return;
+                            js = d.createElement(s);
+                            js.id = id;
+                            js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
+                            fjs.parentNode.insertBefore(js, fjs);
+
+                        }(document, 'script', 'facebook-jssdk'));
+                    </script>
+
                 </div>
+
+            </div>
+
+            <!-- twitter block -->
+            <div class="span6">
+                <div class="videowrapper centered">
+                    <a class="twitter-timeline" href="https://twitter.com/UocLeosC1" data-widget-id="717781437034811393">Tweets by @Leo Club Of University Of Colombo</a>
+                </div>
+
+                <script>
+                    ! function(d, s, id) {
+
+                        var js, fjs = d.getElementsByTagName(s)[0],
+                            p = /http:/.test(d.location) ? 'http' : 'https';
+
+                        if (!d.getElementById(id)) {
+                            js = d.createElement(s);
+                            js.id = id;
+                            js.src = p + "://platform.twitter.com/widgets.js";
+                            fjs.parentNode.insertBefore(js, fjs);
+                        }
+
+                    }(document, "script", "twitter-wjs");
+                </script>
 
             </div>
 
         </div>
 
+        <div class="row-fluid" style="margin-top:10px">
 
+            <!-- send message block -->
+            <div class="videowrapper centered span6">
+                <div class="span2"></div>
+                <div class="span8 contact-form centered">
 
+                    <h3>Say Hello to UOC LEOs</h3>
 
+                    <div id="successSend" class="alert alert-success invisible">
 
-        <!--
+                        <strong>Well done!</strong>Your message has been sent.</div>
 
-        -->
+                    <div id="errorSend" class="alert alert-error invisible">There was an error.</div>
 
+                    <form id="contact-form" action="php/mail.php">
 
+                        <div class="control-group">
+                            <div class="controls">
+                                <input class="span12" type="text" id="name" name="name" placeholder="* Your name..." />
+                                <div class="error left-align" id="err-name">Please enter name.</div>
+                            </div>
+                        </div>
 
-        <div class="container">
+                        <div class="control-group">
+                            <div class="controls">
+                                <input class="span12" type="email" name="email" id="email" placeholder="* Your email..." />
+                                <div class="error left-align" id="err-email">Please enter valid email adress.</div>
+                            </div>
+                        </div>
 
+                        <div class="control-group">
+                            <div class="controls">
+                                <textarea class="span12" name="comment" id="comment" placeholder="* Comments..."></textarea>
+                                <div class="error left-align" id="err-comment">Please enter your comment.</div>
+                            </div>
+                        </div>
 
+                        <div class="control-group">
+                            <div class="controls">
+                                <button id="send-mail" class="message-btn">Send message</button>
+                            </div>
+                        </div>
 
-            <div>
-
-                <!-- Facebook Block -->
-                <div style="width:48%;float:left;margin:5px">
-
-                    <div class="fb-page" data-href="https://www.facebook.com/leo.uoc.306c1" data-tabs="timeline" data-width="470" data-height="600" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/leo.uoc.306c1"><a href="https://www.facebook.com/leo.uoc.306c1">Leo Club of University of Colombo</a></blockquote></div></div>
-
-
-
-                    <div id="fb-root"></div>
-
-                    <script>(function(d, s, id) {
-
-                            var js, fjs = d.getElementsByTagName(s)[0];
-
-                            if (d.getElementById(id))
-
-                                return;
-
-                            js = d.createElement(s);
-
-                            js.id = id;
-
-                            js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.5";
-
-                            fjs.parentNode.insertBefore(js, fjs);
-
-                        }(document, 'script', 'facebook-jssdk'));</script>
-
-
-
-
-
-                </div>
-
-                <!-- twitter block -->
-                <div style="width:48%;float:left;margin:5px">
-
-                    <a class="twitter-timeline" href="https://twitter.com/UocLeosC1" data-widget-id="717781437034811393">Tweets by @Leo Club Of University Of Colombo</a>
-
-                    <script>!function(d, s, id) {
-
-                            var js, fjs = d.getElementsByTagName(s)[0], p = /http:/.test(d.location) ? 'http' : 'https';
-
-                            if (!d.getElementById(id)) {
-
-                                js = d.createElement(s);
-
-                                js.id = id;
-
-                                js.src = p + "://platform.twitter.com/widgets.js";
-
-                                fjs.parentNode.insertBefore(js, fjs);
-
-                            }
-
-                        }(document, "script", "twitter-wjs");</script>
+                    </form>
 
                 </div>
+                <div class="span2"></div>
 
             </div>
 
-            <br/>
-
-            <br/>
-
-            <br/>
-
-            <br/><br/>
-
-            <br/>
-
-            <br/>
-
-            <br/><br/>
-
-            <br/>
-
-            <br/>
-
-            <br/>
-
-            <div class="span9 center contact-info">
-
-                <p></p>
-
-                <p><u style="color:black">Email : leoclub.uoc@gmail.com</u></p>
-
-                <p>Leo Sandun Perera (President) +94 76 739 3436</p>
-
-                <p>Leo Hasini Umasha (Secretary) +94 76 719 7083</p>
-
-                <div class="title">
-
-                    <h3>Connect with us</h3>
-
+            <!-- blogspot block -->
+            <div class="span6 centered">
+                <div class="span2"></div>
+                <div class="span8 videoWrapper" style="padding-bottom:80%;">
+                    <iframe src="https://uoc-leos.blogspot.com/" width="500px" height="600px" frameborder="0"></iframe>
                 </div>
+                <div class="span2"></div>
+            </div>
+        </div>
+
+
+        <br />
+
+        <br />
+
+        <br />
+
+        <div class="span9 center contact-info">
+
+            <p></p>
+
+            <p><u style="color:black">Email : leoclub.uoc@gmail.com</u></p>
+
+            <p>Leo Sandun Perera (President) +94 76 739 3436</p>
+
+            <p>Leo Hasini Umasha (Secretary) +94 76 719 7083</p>
+
+            <div class="title">
+
+                <h3>Connect with us</h3>
 
             </div>
 
-            <div class="row-fluid centered">
+        </div>
 
-                <ul class="social">
+        <div class="row-fluid centered">
 
-                    <li>
+            <ul class="social">
 
-                        <a href="https://www.facebook.com/leo.uoc.306c1">
+                <li>
 
-                            <span class="icon-facebook-circled"></span>
+                    <a href="https://www.facebook.com/leo.uoc.306c1">
 
-                        </a>
+                        <span class="icon-facebook-circled"></span>
 
-                    </li>
+                    </a>
 
-                    <li>
+                </li>
 
-                        <a href="https://twitter.com/leoclub_uoc">
+                <li>
 
-                            <span class="icon-twitter-circled"></span>
+                    <a href="https://twitter.com/leoclub_uoc">
 
-                        </a>
+                        <span class="icon-twitter-circled"></span>
 
-                    </li>
+                    </a>
 
-                    <!-- <li>
+                </li>
 
-                         <a href="">
+                <li>
 
-                             <span class="icon-linkedin-circled"></span>
+                    <a href="https://www.linkedin.com/in/leo-club-uoc-06b92a16b">
 
-                         </a>
+                        <span class="icon-linkedin-circled"></span>
 
-                     </li>
+                    </a>
 
-                     <li>
+                </li>
+
+                <!-- <li>
 
                          <a href="">
 
@@ -424,21 +377,19 @@
 
                          </a>
 
-                     </li>-->
+                     
 
-                    <li>
+                <li>
 
-                        <a href="https://plus.google.com/u/0/111305870238924570555/posts">
+                    <a href="https://plus.google.com/u/0/111305870238924570555/posts">
 
-                            <span class="icon-gplus-circled"></span>
+                        <span class="icon-gplus-circled"></span>
 
-                        </a>
+                    </a>
 
-                    </li>
+                </li></li>-->
 
-                </ul>
-
-            </div>
+            </ul>
 
         </div>
 
@@ -508,21 +459,19 @@
 <script type="text/javascript" src="<?php echo base_url() ?>assets/frontend/js/app.js"></script>
 
 <script type="text/javascript">
+    //                        $(document).ready(function() {
 
-//                        $(document).ready(function() {
+    //                            $("body").on("click", ".thumbnail", function(e) {
 
-//                            $("body").on("click", ".thumbnail", function(e) {
+    //                                var href = $(this).find("a").attr("href");
 
-//                                var href = $(this).find("a").attr("href");
+    //                                window.location = href;
 
-//                                window.location = href;
+    //                                //alert(href);
 
-//                                //alert(href);
+    //                            });
 
-//                            });
-
-//                        });
-
+    //                        });
 </script>
 
 </body>
@@ -532,7 +481,6 @@
 
 
 <script>
-
     $("#subscribes").click(function() {
 
         $.ajax({
@@ -570,12 +518,11 @@
         });
 
     })
-
 </script>
 
 <script>
-    function showProject(projectId,projectHeading,leader,projectDate,projectContent){
-        alert(projectId+projectHeading+leader+projectDate+projectContent);
+    function showProject(projectId, projectHeading, leader, projectDate, projectContent) {
+        alert(projectId + projectHeading + leader + projectDate + projectContent);
         /* var base = <?php echo base_url() ?>;
         var dest = '<?php echo base_url() ?>/assets/frontend/images/projects/'+ projectId +".jpg";
         document.getElementById('projectInfo').style.height = "40%";
@@ -587,9 +534,7 @@
 
     }
 
-    function hideProject(){
+    function hideProject() {
         document.getElementById('projectInfo').style.height = "0%";
     }
 </script>
-
-            
