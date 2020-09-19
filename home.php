@@ -394,16 +394,16 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.08.22.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.09.19.jpeg">
             </div>
             <div class="span4">
                 <p>
-                    <b>ඉරුණු කඩමලු පොරවාගෙන ...
-                    <br>අවුල් වැහැරුණු හිස් ඇතිව...</b><br>
+                    <b>වසන්තයේ පිපුණු මල් මත බඹරු... 
+                    <br>නේක විධ සෙල්ලම් කරද්දිත් නිරතුරු...</b><br>
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ  තිළිණිකා<br>
-                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(කළමනාකරණ හා මූල්‍ය  පීඨය)</i><br>
+                        ලියෝ ඉරෝධා සංදීපනී<br>
+                        සාමාජික -  කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය (නීති  පීඨය)</i><br>
                     <br>
                     <b> #අපේ_හදගැස්ම<br>
                         #talenteduocleos<br>
@@ -602,6 +602,186 @@
                 </div>
 
                 <!-- uoc leo Vt's block -->
+                <div class="span4">
+
+                    <div class="testimonial">
+
+                        <p>"Who so neglects learning in his youth loses the past and is dead to the future."<br /><br /><br /><br /><br /><br /></p>
+
+                        <div class="whopic">
+
+                            <div class="arrow"></div>
+
+                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/19Vt.jpg" class="centered" alt="client 2">
+
+                            <strong>Leo Nisalanka Nipun
+
+                                <small>
+
+                                    Assistant Treasurer <br />
+                                    Leo Club of University of Colombo
+
+                                </small>
+
+                            </strong>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="row">
+
+                <!-- uoc leo Immedeade past president's block -->
+                <div class="span4">
+
+                    <div class="testimonial">
+
+                        <p>"Youth is the turning point in life for everyone. Leoism provides the young generation opportunities to develop themselves with leadership, teamwork and also to be responsible because you are the next generation in line to take over the world"<br><br><br><br><br> </p>
+
+                        <div class="whopic">
+
+                            <div class="arrow"></div>
+
+                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/19chair.webp" class="centered" alt="client 1">
+
+                            <strong>Leo Sandun Perera
+
+                                <small> President <br />
+
+                                    Leo Club of University of Colombo</small>
+
+                            </strong>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- uoc charter president 2018/2019's block -->
+                <div class="span4">
+
+                    <div class="testimonial">
+
+                        <p>"Youth is the young blood having energy, fresh ideas and spirit who can change the world and lead to the great future. Leoism awakes your true potential and creates proactive leaders with high self confidence. If you are willingly walking down this path, eventually you will make progress. Have passion in what you do,it makes everything perfect !"<br /><br /><br /> </p>
+
+                        <div class="whopic">
+
+                            <div class="arrow"></div>
+
+                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/19sec.jpeg" class="centered" alt="client 3">
+
+                            <strong>Leo Hasini Umasha
+
+                                <small>
+                                    Secretary <br />
+                                    Leo Club of University of Colombo
+                                </small>
+
+                            </strong>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- uoc charter president 2017/2018's block -->
+                <div class="span4">
+
+                    <div class="testimonial">
+
+                        <p>"Starting my journey with leoism certainly helped me to learn new things regarding society, grab opportunities to participate in a lot of welfare programmes and leadership programmes and also to build friendships with many friends from different areas. In addition,I could also observe my own true potential.<br />
+                            For this reason, without any hesitation I would recommend this pathway to anyone."</p>
+
+                        <div class="whopic">
+
+                            <div class="arrow"></div>
+
+                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/19Tre.jpg" class="centered" alt="client 2">
+
+                            <strong>Leo Sachithri Sugamya
+
+                                <small>
+
+                                    Treasurer <br />
+                                    Leo Club of University of Colombo
+
+                                </small>
+
+                            </strong>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- uoc charter president 2016/2017's block -->
+                <div class="span4">
+
+                    <div class="testimonial">
+
+                        <p>"Youth is the strength to revolutionize the world"<br /><br /><br /><br /><br /><br /></p>
+
+                        <div class="whopic">
+
+                            <div class="arrow"></div>
+
+                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/19Vc.webp" class="centered" alt="client 2">
+
+                            <strong>Leo Kavini Bamunusinghe
+
+                                <small>
+
+                                    Vice President <br />
+                                    Leo Club of University of Colombo
+
+                                </small>
+
+                            </strong>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- uoc charter president 2015/2016's block -->
+                <div class="span4">
+
+                    <div class="testimonial">
+
+                        <p>"Leoism provides everyone with an opportunity to develop the leader within themselves. So grab all those opportunities, raise your performances to a higher standard and build your personality beyond its normal limitations to become a better version of yourself."</p>
+
+                        <div class="whopic">
+
+                            <div class="arrow"></div>
+
+                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/19Vs.jpg" class="centered" alt="client 2">
+
+                            <strong>Leo Yashoda Gunawardena
+
+                                <small>
+
+                                    Assistant Secretary <br />
+                                    Leo Club of University of Colombo
+
+                                </small>
+
+                            </strong>
+
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- uoc charter president 2014/2015's block -->
                 <div class="span4">
 
                     <div class="testimonial">
