@@ -390,29 +390,6 @@
 
         <!-- these are from 2020 -->
 
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/children's-day-2020.jpeg">
-            </div>
-            <div class="span4">
-                <p>
-                    Children are the future <br>
-                    The real owners of the tomorrow which we’re trying to build today. <br>
-                    Let’s nurture them , give them the wings they need to fly limitlessly and help them to keep their dreams alive forever. <br>
-                    <br>
-                    With lots of love and joy let’s make the CHILDREN’S DAY 2020 extra special since Every child is special in their own way❤️<br>
-                    <br>
-                    <b>
-                        #Happy_Children's_Day <br>
-                        #UOC_Leos <br>
-                        #Leo_District_306_C1 <br>
-                        #MD_306 <br>
-                        #🦁♥️
-                    </b>
-                </p>
-            </div>
-        </div>
-
         <h2 id="Ape_Hadagasma" style="margin-bottom:20px;margin-top:40px;text-align:center">අපේ හදගැස්ම</h2>
 
         <div class="row-fluid" style="margin-bottom:20px">
