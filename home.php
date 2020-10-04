@@ -390,20 +390,43 @@
 
         <!-- these are from 2020 -->
 
+        <div class="row-fluid" style="margin-bottom:20px">
+            <div class="span8">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/children's-day-2020.jpeg">
+            </div>
+            <div class="span4">
+                <p>
+                    Children are the future <br>
+                    The real owners of the tomorrow which we’re trying to build today. <br>
+                    Let’s nurture them , give them the wings they need to fly limitlessly and help them to keep their dreams alive forever. <br>
+                    <br>
+                    With lots of love and joy let’s make the CHILDREN’S DAY 2020 extra special since Every child is special in their own way❤️<br>
+                    <br>
+                    <b>
+                        #Happy_Children's_Day <br>
+                        #UOC_Leos <br>
+                        #Leo_District_306_C1 <br>
+                        #MD_306 <br>
+                        #🦁♥️
+                    </b>
+                </p>
+            </div>
+        </div>
+
         <h2 id="Ape_Hadagasma" style="margin-bottom:20px;margin-top:40px;text-align:center">අපේ හදගැස්ම</h2>
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.09.19.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.09.28.jpeg">
             </div>
             <div class="span4">
                 <p>
-                    <b>වසන්තයේ පිපුණු මල් මත බඹරු... 
-                    <br>නේක විධ සෙල්ලම් කරද්දිත් නිරතුරු...</b><br>
+                    <b>සනසන්න අන් හිතත්
+                        <br>තමන් විදිනා තරම් කදුලක්.....</b><br>
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ ඉරෝධා සංදීපනී<br>
-                        සාමාජික -  කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය (නීති  පීඨය)</i><br>
+                        ලියෝ තිළිණිකා<br>
+                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(කළමනාකරණ හා මූල්‍ය පීඨය)</i><br>
                     <br>
                     <b> #අපේ_හදගැස්ම<br>
                         #talenteduocleos<br>
@@ -437,7 +460,7 @@
 
 
 <!-- leaders' quotes section -->
-<div id="leaders">
+<!-- div id="leaders">
 
     <div class="section primary-section">
 
@@ -455,7 +478,7 @@
 
             <div class="row">
 
-                <!-- uoc leo chairperson's block -->
+                <!-- uoc leo chairperson's block ->
                 <div class="span4">
 
                     <div class="testimonial">
@@ -482,7 +505,7 @@
 
                 </div>
 
-                <!-- uoc leo secretary's block -->
+                <!-- uoc leo secretary's block ->
                 <div class="span4">
 
                     <div class="testimonial">
@@ -510,7 +533,7 @@
 
                 </div>
 
-                <!-- uoc leo Tresurer's's block -->
+                <!-- uoc leo Tresurer's's block ->
                 <div class="span4">
 
                     <div class="testimonial">
@@ -541,7 +564,7 @@
 
                 </div>
 
-                <!-- uoc leo Vc's block -->
+                <!-- uoc leo Vc's block ->
                 <div class="span4">
 
                     <div class="testimonial">
@@ -571,7 +594,7 @@
 
                 </div>
 
-                <!-- uoc leo Vs's block -->
+                <!-- uoc leo Vs's block ->
                 <div class="span4">
 
                     <div class="testimonial">
@@ -601,7 +624,7 @@
 
                 </div>
 
-                <!-- uoc leo Vt's block -->
+                <!-- uoc leo Vt's block ->
                 <div class="span4">
 
                     <div class="testimonial">
@@ -635,7 +658,7 @@
 
             <div class="row">
 
-                <!-- uoc leo Immedeade past president's block -->
+                <!-- uoc leo Immedeade past president's block ->
                 <div class="span4">
 
                     <div class="testimonial">
@@ -662,7 +685,7 @@
 
                 </div>
 
-                <!-- uoc charter president 2018/2019's block -->
+                <!-- uoc charter president 2018/2019's block ->
                 <div class="span4">
 
                     <div class="testimonial">
@@ -690,7 +713,7 @@
 
                 </div>
 
-                <!-- uoc charter president 2017/2018's block -->
+                <!-- uoc charter president 2017/2018's block ->
                 <div class="span4">
 
                     <div class="testimonial">
@@ -721,7 +744,7 @@
 
                 </div>
 
-                <!-- uoc charter president 2016/2017's block -->
+                <!-- uoc charter president 2016/2017's block ->
                 <div class="span4">
 
                     <div class="testimonial">
@@ -751,7 +774,7 @@
 
                 </div>
 
-                <!-- uoc charter president 2015/2016's block -->
+                <!-- uoc charter president 2015/2016's block ->
                 <div class="span4">
 
                     <div class="testimonial">
@@ -781,7 +804,7 @@
 
                 </div>
 
-                <!-- uoc charter president 2014/2015's block -->
+                <!-- uoc charter president 2014/2015's block ->
                 <div class="span4">
 
                     <div class="testimonial">
@@ -873,7 +896,7 @@
 
 <!-- start of downloads section -->
 
-<div class="section primary-section" id="downloads">
+<!--div class="section primary-section" id="downloads">
 
     <div class="triangle"></div>
 
