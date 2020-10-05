@@ -195,10 +195,34 @@
         {
             name:"Transition",
             leader:"Leo Ayeshmantha Gayan",
-            date:"May 2020",        //06
+            date:"June 2020",        //06
             venue:"Zoom Online Meeting Platform",
             discription:"Transition was the initiative taken by the University of Colombo Leo Club in order to face the challenges faced during the Covid- 19 pandemic situation in an innovative way. It was the first ever virtual leadership conference organized as the opening event of the Leoistic year 2020/21 under the leadership of the newly elected committee. ",
             category:"other" 
+        },
+        {
+            name:"5th Anniversary Celebration",
+            leader:"Thilini Madhumali",
+            date:"August 2020",        //16
+            venue:"Kalukapuge Luvis Perera elder's home ",
+            discription:"The glorious 5th year anniversary celebrated together with utmost admiration.",
+            category:"other"                 
+        },
+        {
+            name:"6th Installation Ceremony",
+            leader:"Leo Nimesh Thivanka ",
+            date:"September 2020",        //12
+            venue:"New Arts Theatre, University of Colombo ",
+            discription:"The most significant event of the Leoistic Year 2020/21 of Leo Club of University of Colombo, the 6th Annual Installation Ceremony led by Leo Nimesh Thivanka was held on 12th September 2020 at the New Arts Theatre, University of Colombo. The Ceremony was successfully concluded with the heartiest felicitations for the Newly Installed Regime for the Leositic Year 2020/21.",
+            category:"other"            
+        },
+        {
+            name:"Suwadanama",
+            leader:"Leo Gayathri Hatthotuwa",
+            date:"September 2020",        //25
+            venue:"Vidiyaloka Maha Vidiyalaya , Thennekumbura, Kandy",
+            discription:"Project “Suwadanama” will be conducted with 8 phases, which includes a two-day workshop, a practical session on first aid,and providing the material facilities required for the first aid units of 8 selected schools which are located in rural areas across the country.",
+            category:"other"     
         }
 
 
@@ -285,7 +309,7 @@ function renderSlide(i){
                     <div>
                         <span>Project </span>`+projects[i].name+`</div>
                     <div>
-                        <span>Leaded by </span>`+projects[i].leader+`</div>
+                        <span>Chaired by </span>`+projects[i].leader+`</div>
                     <div>
                         <span>Date </span>`+projects[i].date+`</div>
                     <div>
