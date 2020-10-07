@@ -349,22 +349,6 @@
             </div>
         </div>
 
-        <h2>Elation 2020 Most Popular Contestant Final Results</h2>
-        <div class="row-fluid" style="margin-bottom:20px">
-
-            <div class="span8">
-
-                <img src="<?php echo base_url() ?>assets/frontend/images/announcements/Elation_Results.jpg" padding="50px">
-            </div>
-            <div class="span4">
-                <p class="large-text"><br>Living your passion with hard work and dedication pays off in the end. Our heartiest congratulations goes towards Leo Pramod Kalhara Jagoda for being the Most popular Competitor in Elation 2020!🥇🏆<br>
-                    <b><br><br>
-                        #Elation2020<br>
-                        #Spirit_of_Leos<br>
-                        #MD306</b>
-                </p>
-            </div>
-        </div>
     </div>
 
 </div>
@@ -394,12 +378,12 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.09.28.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.10.07.jpeg">
             </div>
             <div class="span4">
-                <p>
-                    <b>සනසන්න අන් හිතත්
-                        <br>තමන් විදිනා තරම් කදුලක්.....</b><br>
+                <p style="font-size: larger;">
+                    <b>දරා නිති බැතින
+                        <br>සිතා හැම කල්.....</b><br>
                     <br>
                     <i>පබැදුම,<br>
                         ලියෝ තිළිණිකා<br>
