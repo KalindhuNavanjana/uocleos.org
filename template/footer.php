@@ -325,9 +325,9 @@
 
             <p><u style="color:black">Email : leoclub.uoc@gmail.com</u></p>
 
-            <p>Leo Sandun Perera (President) +94 76 739 3436</p>
-
-            <p>Leo Hasini Umasha (Secretary) +94 76 719 7083</p>
+            <p>Leo Nipuna Sandaruwan (President) +94 75 879 9201</p>
+            <p>Leo Sahan Nagahawatta (Vice President) +94 77 873 4039</p>
+            <p>Leo Nimesh Henadeera (Secretary) +94 77 237 5756</p>
 
             <div class="title">
 

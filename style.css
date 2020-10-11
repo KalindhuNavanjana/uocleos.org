@@ -914,3 +914,9 @@ p {
         margin-top:30px;
     }
 }
+
+@media (min-width:767px){
+    #vice-tre{
+        float: right;
+    }
+}

@@ -421,38 +421,39 @@
 
 
 <!-- leaders' quotes section -->
-<!-- div id="leaders">
+<!-- div id="leaders"->
 
-    <div class="section primary-section">
+<div class="section primary-section">
 
-        <div class="triangle"></div>
+    <div class="triangle"></div>
 
-        <div class="container">
+    <div class="container">
 
-            <div class="title">
+        <div class="title">
 
-                <h1 style="color:#ffffff">What Youth Says?</h1>
+            <h1 style="color:#ffffff">What Youth Says?</h1>
 
-                <p></p>
+            <p></p>
 
-            </div>
+        </div>
 
-            <div class="row">
+        <div class="row">
 
+            <div style="display: flex; justify-content: center;">
                 <!-- uoc leo chairperson's block ->
-                <div class="span4">
+                <div class="span6">
 
                     <div class="testimonial">
 
-                        <p>"Youth is the turning point in life for everyone. Leoism provides the young generation opportunities to develop themselves with leadership, teamwork and also to be responsible because you are the next generation in line to take over the world"<br><br><br><br><br> </p>
+                        <p>"Youth is the best period in one's life. Because it's the time you become to dream and trying to make your own way by establishing your own goals. Leoism helps to identify the leader within you and enables you to develop your skills by engaging in service vast range of projects and help you towards to achieve your goals."<br><br><br><br><br> </p>
 
                         <div class="whopic">
 
                             <div class="arrow"></div>
 
-                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/19chair.webp" class="centered" alt="client 1">
+                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Chair.jpeg" class="centered" alt="President">
 
-                            <strong>Leo Sandun Perera
+                            <strong>Leo Nipuna Sandaruwan
 
                                 <small> President <br />
 
@@ -465,184 +466,175 @@
                     </div>
 
                 </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="span6">
+                <div style="display: flex;justify-content:flex-end;">
+                    <!-- uoc leo Immediate Past President's block ->
+                    <div class="span4">
 
-                <!-- uoc leo secretary's block ->
-                <div class="span4">
+                        <div class="testimonial">
+                            <p>It is with much delight to mention that the club reached another milestone in its journey towards serving the community, by our guiding theme for the year of 209/20 “Lead the Way”. The voyage began with my appointment as the Club President for the leoistic year of 2019/20 of this prestigious club, </p>
+                            <div class="whopic">
 
-                    <div class="testimonial">
+                                <div class="arrow"></div>
 
-                        <p>"Youth is the young blood having energy, fresh ideas and spirit who can change the world and lead to the great future. Leoism awakes your true potential and creates proactive leaders with high self confidence. If you are willingly walking down this path, eventually you will make progress. Have passion in what you do,it makes everything perfect !"<br /><br /><br /> </p>
+                                <img src="<?php echo base_url() ?>assets/frontend/images/wus/19chair.webp" class="centered" alt="Immediate Past President">
 
-                        <div class="whopic">
+                                <strong>Leo Sandun Perera
 
-                            <div class="arrow"></div>
+                                    <small> Immediate Past President <br />
 
-                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/19sec.jpeg" class="centered" alt="client 3">
+                                        Leo Club of University of Colombo</small>
 
-                            <strong>Leo Hasini Umasha
+                                </strong>
 
-                                <small>
-                                    Secretary <br />
-                                    Leo Club of University of Colombo
-                                </small>
-
-                            </strong>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <!-- uoc leo Tresurer's's block ->
-                <div class="span4">
-
-                    <div class="testimonial">
-
-                        <p>"Starting my journey with leoism certainly helped me to learn new things regarding society, grab opportunities to participate in a lot of welfare programmes and leadership programmes and also to build friendships with many friends from different areas. In addition,I could also observe my own true potential.<br />
-                            For this reason, without any hesitation I would recommend this pathway to anyone."</p>
-
-                        <div class="whopic">
-
-                            <div class="arrow"></div>
-
-                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/19Tre.jpg" class="centered" alt="client 2">
-
-                            <strong>Leo Sachithri Sugamya
-
-                                <small>
-
-                                    Treasurer <br />
-                                    Leo Club of University of Colombo
-
-                                </small>
-
-                            </strong>
+                            </div>
 
                         </div>
-
                     </div>
-
                 </div>
-
-                <!-- uoc leo Vc's block ->
-                <div class="span4">
-
-                    <div class="testimonial">
-
-                        <p>"Youth is the strength to revolutionize the world"<br /><br /><br /><br /><br /><br /></p>
-
-                        <div class="whopic">
-
-                            <div class="arrow"></div>
-
-                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/19Vc.webp" class="centered" alt="client 2">
-
-                            <strong>Leo Kavini Bamunusinghe
-
-                                <small>
-
-                                    Vice President <br />
-                                    Leo Club of University of Colombo
-
-                                </small>
-
-                            </strong>
-
+            </div>
+            <div class="span6">
+                <div style="display: flex;justify-content:flex-start;">
+                    <!-- uoc leo Vc's block ->
+                    <div class="span4">
+                        <div class="testimonial">
+                            <p>"Be someone who isn't afraid of challenges that come your way. Face them whole heartedly with the aim of achieving the objectives. Leoism facilitates us to spend our time, skills and knowledge for the betterment of everyone and be a visionary that sets the path. "<br /><br /></p>
+                            <div class="whopic">
+                                <div class="arrow"></div>
+                                <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Vc.jpeg" class="centered" alt="Vice President">
+                                <strong>Leo Sahan Sandeepa
+                                    <small>
+                                        Vice President <br />
+                                        Leo Club of University of Colombo
+                                    </small>
+                                </strong>
+                            </div>
                         </div>
-
                     </div>
-
                 </div>
-
-                <!-- uoc leo Vs's block ->
-                <div class="span4">
-
-                    <div class="testimonial">
-
-                        <p>"Leoism provides everyone with an opportunity to develop the leader within themselves. So grab all those opportunities, raise your performances to a higher standard and build your personality beyond its normal limitations to become a better version of yourself."</p>
-
-                        <div class="whopic">
-
-                            <div class="arrow"></div>
-
-                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/19Vs.jpg" class="centered" alt="client 2">
-
-                            <strong>Leo Yashoda Gunawardena
-
-                                <small>
-
-                                    Assistant Secretary <br />
-                                    Leo Club of University of Colombo
-
-                                </small>
-
-                            </strong>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
-                <!-- uoc leo Vt's block ->
-                <div class="span4">
-
-                    <div class="testimonial">
-
-                        <p>"Who so neglects learning in his youth loses the past and is dead to the future."<br /><br /><br /><br /><br /><br /></p>
-
-                        <div class="whopic">
-
-                            <div class="arrow"></div>
-
-                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/19Vt.jpg" class="centered" alt="client 2">
-
-                            <strong>Leo Nisalanka Nipun
-
-                                <small>
-
-                                    Assistant Treasurer <br />
-                                    Leo Club of University of Colombo
-
-                                </small>
-
-                            </strong>
-
-                        </div>
-
-                    </div>
-
-                </div>
-
             </div>
 
-            <div class="row">
 
-                <!-- uoc leo Immedeade past president's block ->
-                <div class="span4">
+        </div>
+        <div class="row">
+            <div class="span6">
+                <div style="display: flex;justify-content:center;">
 
-                    <div class="testimonial">
-
-                        <p>"Youth is the turning point in life for everyone. Leoism provides the young generation opportunities to develop themselves with leadership, teamwork and also to be responsible because you are the next generation in line to take over the world"<br><br><br><br><br> </p>
-
-                        <div class="whopic">
-
-                            <div class="arrow"></div>
-
-                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/19chair.webp" class="centered" alt="client 1">
-
-                            <strong>Leo Sandun Perera
-
-                                <small> President <br />
-
-                                    Leo Club of University of Colombo</small>
-
-                            </strong>
-
+                    <!-- uoc leo secretary's block ->
+                    <div class="span4">
+                        <div class="testimonial">
+                            <p>"Leoism provides a wonderful space in which youthful energy can be utilized as a sword and a shield for the social betterment, where a smile can be added to another person's face and humble pleasure can be had. In the face of many experiences and opportunities along the bitter path, leoism seeks to bring out the leader within yourselves and gives birth to wonderful leaders."</p>
+                            <div class="whopic">
+                                <div class="arrow"></div>
+                                <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Sec.jpeg" class="centered" alt="Secretary">
+                                <strong>Leo Nimesh Thivanka
+                                    <small>
+                                        Secretary <br />
+                                        Leo Club of University of Colombo
+                                    </small>
+                                </strong>
+                            </div>
                         </div>
-
                     </div>
+
+                </div>
+            </div>
+            <div class="span6">
+                <div style="display: flex;justify-content:center;">
+
+                    <!-- uoc leo Tresurer's's block ->
+                    <div class="span4">
+                        <div class="testimonial">
+                            <p>"Leadership develepment is self development. As young blood, leoism is the right path to develop the best leader within yourselves. So grab this valuable opportunity & collect experiences, it will definitely upgrade you to a better version."<br> <br><br><br></p>
+                            <div class="whopic">
+                                <div class="arrow"></div>
+                                <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Tre.jpeg" class="centered" alt="Treasurer">
+                                <strong>Leo Isuru Dilshan
+                                    <small>
+                                        Treasurer <br />
+                                        Leo Club of University of Colombo
+                                    </small>
+                                </strong>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+
+        <div class="row">
+
+            <!-- uoc leo Vs's block ->
+            <div class="span4">
+                <div class="testimonial">
+                    <p>"It is a great privilege for me to serve as the Assistant Secretary of Leo Club of University of Colombo for the leoistic year of 2020/21. Leo was a choice that was made by me in 2 years back and a lifetime memories later, I call myself a Leo, with a certain degree of pride. I am extremely grateful for this moment which has become a great platform for me to emerge as a person with outstanding qualities. As well as, it has kept me grounded and sensitive to the challenges of the grassroots."</p>
+                    <div class="whopic">
+                        <div class="arrow"></div>
+                        <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Vs.jpeg" class="centered" alt="Assistant Secretary">
+                        <strong>Leo Dinu Meegama
+                            <small>
+                                Assistant Secretary <br />
+                                Leo Club of University of Colombo
+                            </small>
+                        </strong>
+                    </div>
+                </div>
+            </div>
+
+            <!-- uoc leo Vt's block ->
+            <div class="span4" id="vice-tre">
+                <div class="testimonial">
+                    <p>"On the journey to leadership, we must first have a good understanding of who we are and the range of our abilities. A great leader should always strive to shine his or her leadership with his or her potential. He or she should not use his or her position to strive. In other words, a good leader needs to be a keen follower too. I can unequivocally state that Leoism gives some valuable opportunity to nurture and enhance ones experience and skills."<br /></p>
+                    <div class="whopic">
+                        <div class="arrow"></div>
+                        <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Vt.jpeg" class="centered" alt="Assistant Treasurer">
+                        <strong>Leo Shilpa Devindi
+                            <small>
+                                Assistant Treasurer <br />
+                                Leo Club of University of Colombo
+                            </small>
+                        </strong>
+                    </div>
+                </div>
+            </div>
+
+            <!-- uoc leo Ce's block ->
+            <div class="span4">
+                <div class="testimonial">
+                    <p>“The only person you are destined to become is the person you decide to be”. Success as with most things starts with attitude. When you are struggling a small burst of inspiration can make a huge difference. Leoism is a great platform to all of us to showcase our talents and to unleash our hidden potential. So chase after your goals that commands your thoughts, liberates your energy and inspires your hopes." <br><br></p>
+                    <div class="whopic">
+                        <div class="arrow"></div>
+                        <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Ce.jpeg" class="centered" alt="Chief Editor">
+                        <strong>Leo Semini Gunasekara
+                            <small>
+                                Chief Editor<br />
+                                Leo Club of University of Colombo
+                            </small>
+                        </strong>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+
+
+
+
+
+
+
+
+
+
+        <!--div class="row">
+
+                
 
                 </div>
 
@@ -808,274 +800,274 @@
 
         </div>
 
+    </div-->
+
     </div>
+    <!-- end of leaders' quotes section  -->
 
-</div>
-<!-- end of leaders' quotes section  -->
-
-<!-- Projects section start -->
-<div class="section secondary-section " id="projects">
-    <div class="triangle"></div>
-    <div class="container">
-        <div class=" title">
-            <h1>Have you seen our projects</h1>
-            <p></p>
-        </div>
-        <ul class="nav nav-pills">
-            <li class="filter" data-filter="all">
-                <a href="#allProjects">All</a>
-            </li>
-            <li class="filter" data-filter="vision">
-                <a href="#visionProjects">Vision</a>
-            </li>
-            <li class="filter" data-filter="hunger">
-                <a href="#hungerProjects">Hunger</a>
-            </li>
-            <li class="filter" data-filter="environment">
-                <a href="#environmentProjects">Environment</a>
-            </li>
-            <li class="filter" data-filter="diabetes">
-                <a href="#diabetesProjects">Diabetes</a>
-            </li>
-            <li class="filter" data-filter="childCare">
-                <a href="#childCareProjects">Child Cancer</a>
-            </li>
-            <li class="filter" data-filter="other">
-                <a href="#otherProjects">Other</a>
-            </li>
-        </ul>
-
-        <div id="single-project"></div>
-
-        <ul id="portfolio-grid" class="thumbnails row">
-    </div>
-
-</div>
-
-<!-- end of Projects section  -->
-
-
-<!-- start of downloads section -->
-
-<!--div class="section primary-section" id="downloads">
-
-    <div class="triangle"></div>
-
-    <div class="container">
-
-        <div class="title">
-
-            <h1>Downloads</h1>
-
-            <p> </p>
-
-        </div>
-
+    <!-- Projects section start -->
+    <div class="section secondary-section " id="projects">
+        <div class="triangle"></div>
         <div class="container">
-            <div class="span3">
-                <div class="centered ">
-                    <h3>Club Directory</h3>
-                    <div class="zoom-in">
-                        <a href="<?php echo base_url() ?>/assets/downloads/club_derectory.pdf">
-                            <img class="img" src="<?php echo base_url() ?>assets/frontend/images/downloads/club_derectory_icon.jpg" alt="Club Drectory">
-                        </a>
-
-                    </div>
-                    <p></p>
-
-                </div>
+            <div class=" title">
+                <h1>Have you seen our projects</h1>
+                <p></p>
             </div>
+            <ul class="nav nav-pills">
+                <li class="filter" data-filter="all">
+                    <a href="#allProjects">All</a>
+                </li>
+                <li class="filter" data-filter="vision">
+                    <a href="#visionProjects">Vision</a>
+                </li>
+                <li class="filter" data-filter="hunger">
+                    <a href="#hungerProjects">Hunger</a>
+                </li>
+                <li class="filter" data-filter="environment">
+                    <a href="#environmentProjects">Environment</a>
+                </li>
+                <li class="filter" data-filter="diabetes">
+                    <a href="#diabetesProjects">Diabetes</a>
+                </li>
+                <li class="filter" data-filter="childCare">
+                    <a href="#childCareProjects">Child Cancer</a>
+                </li>
+                <li class="filter" data-filter="other">
+                    <a href="#otherProjects">Other</a>
+                </li>
+            </ul>
 
-            <div class="span3">
-                <div class="centered ">
-                    <h3>Leo Pledge</h3>
-                    <div class="zoom-in">
-                        <a href="<?php echo base_url() ?>/assets/downloads/leo_pledge.jpg">
-                            <img class="img" src="<?php echo base_url() ?>assets/frontend/images/downloads/leo_pledge_icon.jpg" alt="Leo Pledge">
-                        </a>
+            <div id="single-project"></div>
 
-                    </div>
-                    <p></p>
-
-                </div>
-            </div>
-
-            <div class="span3">
-                <div class="centered ">
-                    <h3>Pledge of Allegiance</h3>
-                    <div class="zoom-in">
-                        <a href="<?php echo base_url() ?>/assets/downloads/pledge_of_alligience.pdf">
-                            <img class="img" src="<?php echo base_url() ?>assets/frontend/images/downloads/leo_pledge_of_alligience_icon.jpg" alt="Pledge of Allegiance">
-                        </a>
-
-                    </div>
-                    <p></p>
-
-                </div>
-            </div>
+            <ul id="portfolio-grid" class="thumbnails row">
         </div>
-        <hr>
-
-
-        <div class="container">
-            <h1>Logos</h1>
-
-            <div class="span2">
-                <div class="centered ">
-                    <h4>Leo Alpha Logo</h4>
-                    <div class="zoom-in">
-                        <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Alpha Logo.jpg">
-                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Alpha Logo icon.jpg" alt="Leo Alpha Logo">
-                        </a>
-
-                    </div>
-                    <p></p>
-
-                </div>
-            </div>
-
-            <div class="span2">
-                <div class="centered ">
-                    <h4>Leo Omega Logo</h4>
-                    <div class="zoom-in">
-                        <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Omega Logo.jpg">
-                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Omega Logo icon.jpg" alt="Leo Alpha Logo">
-                        </a>
-
-                    </div>
-                    <p></p>
-
-                </div>
-            </div>
-
-            <div class="span2">
-                <div class="centered ">
-                    <h4>Leo Logo B&W</h4>
-                    <div class="zoom-in">
-                        <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Logo B&W.jpg">
-                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Logo B&W icon.jpg" alt="Leo Logo Black and White">
-                        </a>
-
-                    </div>
-                    <p></p>
-
-                </div>
-            </div>
-
-            <div class="span2">
-                <div class="centered ">
-                    <h4>Leo Logo Platinum</h4>
-                    <div class="zoom-in">
-                        <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Logo Platinum.jpg">
-                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Logo Platinum icon.jpg" alt="Leo Logo Platinum">
-                        </a>
-
-                    </div>
-                    <p></p>
-
-                </div>
-            </div>
-
-            <div class="span2">
-                <div class="centered ">
-                    <h4>Leo Logo UOC</h4>
-                    <div class="zoom-in">
-                        <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Logo Uoc.png">
-                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Logo Uoc icon.jpg" alt="Leo Logo UOC">
-                        </a>
-
-                    </div>
-                    <p></p>
-
-                </div>
-            </div>
-        </div>
-        <hr>
-
-
-        <div class="container">
-            <h1>Applications</h1>
-
-            <div class="span3">
-                <div class="centered ">
-
-                    <div class="zoom-in">
-                        <a href="<?php echo base_url() ?>/assets/downloads/applications/Excellence Award.pdf">
-                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Excelence_award_application_icon.jpg" alt="Exellence award nomination form">
-                        </a>
-
-                    </div>
-                    <h4>Exellence award nomination form</h4>
-                    <p></p>
-
-                </div>
-            </div>
-
-            <div class="span3">
-                <div class="centered ">
-
-                    <div class="zoom-in">
-                        <a href="<?php echo base_url() ?>/assets/downloads/applications/Serving Together Banner Patch Form.pdf">
-                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/serving_together_application_icon.jpg" alt="Serving together banner patch form">
-                        </a>
-
-                    </div>
-                    <h4>Serving together banner patch form</h4>
-                    <p></p>
-
-                </div>
-            </div>
-
-            <div class="span3">
-                <div class="centered ">
-
-                    <div class="zoom-in">
-                        <a href="<?php echo base_url() ?>/assets/downloads/applications/Spot Light On Children Banner Patch Form.pdf">
-                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/spot_light_on_children_icon.jpg" alt="Leo spot light on children recognition application">
-                        </a>
-
-                    </div>
-                    <h4>Leo spot light on children recognition application</h4>
-                    <p></p>
-
-                </div>
-            </div>
-
-            <div class="span3">
-                <div class="centered ">
-
-                    <div class="zoom-in">
-                        <a href="<?php echo base_url() ?>/assets/downloads/applications/Alpha Leos.pdf">
-                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/alpha_application_icon.jpg" alt="Leo Alpha Application">
-                        </a>
-
-                    </div>
-                    <h4>Leo Alpha Application</h4>
-                    <p></p>
-
-                </div>
-            </div>
-
-            <div class="span3">
-                <div class="centered ">
-
-                    <div class="zoom-in">
-                        <a href="<?php echo base_url() ?>/assets/downloads/applications/Omega Leos.pdf">
-                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/omega_application_icon.jpg" alt="Leo Omega Application">
-                        </a>
-
-                    </div>
-                    <h4>Leo Omega Application</h4>
-                    <p></p>
-
-                </div>
-            </div>
-
-        </div>
-
 
     </div>
 
-</div>
+    <!-- end of Projects section  -->
 
-<!-- end of downloads section -->
+
+    <!-- start of downloads section -->
+
+    <div class="section primary-section" id="downloads">
+
+        <div class="triangle row"></div>
+
+        <div class="container">
+
+            <div class="title">
+
+                <h1>Downloads</h1>
+
+                <p> </p>
+
+            </div>
+
+            <div class="container">
+                <div class="span3">
+                    <div class="centered ">
+                        <h3>Club Directory</h3>
+                        <div class="zoom-in">
+                            <a href="<?php echo base_url() ?>/assets/downloads/club_derectory.pdf">
+                                <img class="img" src="<?php echo base_url() ?>assets/frontend/images/downloads/club_derectory_icon.jpg" alt="Club Drectory">
+                            </a>
+
+                        </div>
+                        <p></p>
+
+                    </div>
+                </div>
+
+                <div class="span3">
+                    <div class="centered ">
+                        <h3>Leo Pledge</h3>
+                        <div class="zoom-in">
+                            <a href="<?php echo base_url() ?>/assets/downloads/leo_pledge.jpg">
+                                <img class="img" src="<?php echo base_url() ?>assets/frontend/images/downloads/leo_pledge_icon.jpg" alt="Leo Pledge">
+                            </a>
+
+                        </div>
+                        <p></p>
+
+                    </div>
+                </div>
+
+                <div class="span3">
+                    <div class="centered ">
+                        <h3>Pledge of Allegiance</h3>
+                        <div class="zoom-in">
+                            <a href="<?php echo base_url() ?>/assets/downloads/pledge_of_alligience.pdf">
+                                <img class="img" src="<?php echo base_url() ?>assets/frontend/images/downloads/leo_pledge_of_alligience_icon.jpg" alt="Pledge of Allegiance">
+                            </a>
+
+                        </div>
+                        <p></p>
+
+                    </div>
+                </div>
+            </div>
+            <hr>
+
+
+            <div class="container">
+                <h1>Logos</h1>
+
+                <div class="span2">
+                    <div class="centered ">
+                        <h4>Leo Alpha Logo</h4>
+                        <div class="zoom-in">
+                            <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Alpha Logo.jpg">
+                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Alpha Logo icon.jpg" alt="Leo Alpha Logo">
+                            </a>
+
+                        </div>
+                        <p></p>
+
+                    </div>
+                </div>
+
+                <div class="span2">
+                    <div class="centered ">
+                        <h4>Leo Omega Logo</h4>
+                        <div class="zoom-in">
+                            <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Omega Logo.jpg">
+                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Omega Logo icon.jpg" alt="Leo Alpha Logo">
+                            </a>
+
+                        </div>
+                        <p></p>
+
+                    </div>
+                </div>
+
+                <div class="span2">
+                    <div class="centered ">
+                        <h4>Leo Logo B&W</h4>
+                        <div class="zoom-in">
+                            <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Logo B&W.jpg">
+                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Logo B&W icon.jpg" alt="Leo Logo Black and White">
+                            </a>
+
+                        </div>
+                        <p></p>
+
+                    </div>
+                </div>
+
+                <div class="span2">
+                    <div class="centered ">
+                        <h4>Leo Logo Platinum</h4>
+                        <div class="zoom-in">
+                            <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Logo Platinum.jpg">
+                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Logo Platinum icon.jpg" alt="Leo Logo Platinum">
+                            </a>
+
+                        </div>
+                        <p></p>
+
+                    </div>
+                </div>
+
+                <div class="span2">
+                    <div class="centered ">
+                        <h4>Leo Logo UOC</h4>
+                        <div class="zoom-in">
+                            <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Logo Uoc.png">
+                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Logo Uoc icon.jpg" alt="Leo Logo UOC">
+                            </a>
+
+                        </div>
+                        <p></p>
+
+                    </div>
+                </div>
+            </div>
+            <hr>
+
+
+            <div class="container">
+                <h1>Applications</h1>
+
+                <div class="span3">
+                    <div class="centered ">
+
+                        <div class="zoom-in">
+                            <a href="<?php echo base_url() ?>/assets/downloads/applications/Excellence Award.pdf">
+                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Excelence_award_application_icon.jpg" alt="Exellence award nomination form">
+                            </a>
+
+                        </div>
+                        <h4>Exellence award nomination form</h4>
+                        <p></p>
+
+                    </div>
+                </div>
+
+                <div class="span3">
+                    <div class="centered ">
+
+                        <div class="zoom-in">
+                            <a href="<?php echo base_url() ?>/assets/downloads/applications/Serving Together Banner Patch Form.pdf">
+                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/serving_together_application_icon.jpg" alt="Serving together banner patch form">
+                            </a>
+
+                        </div>
+                        <h4>Serving together banner patch form</h4>
+                        <p></p>
+
+                    </div>
+                </div>
+
+                <div class="span3">
+                    <div class="centered ">
+
+                        <div class="zoom-in">
+                            <a href="<?php echo base_url() ?>/assets/downloads/applications/Spot Light On Children Banner Patch Form.pdf">
+                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/spot_light_on_children_icon.jpg" alt="Leo spot light on children recognition application">
+                            </a>
+
+                        </div>
+                        <h4>Leo spot light on children recognition application</h4>
+                        <p></p>
+
+                    </div>
+                </div>
+
+                <div class="span3">
+                    <div class="centered ">
+
+                        <div class="zoom-in">
+                            <a href="<?php echo base_url() ?>/assets/downloads/applications/Alpha Leos.pdf">
+                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/alpha_application_icon.jpg" alt="Leo Alpha Application">
+                            </a>
+
+                        </div>
+                        <h4>Leo Alpha Application</h4>
+                        <p></p>
+
+                    </div>
+                </div>
+
+                <div class="span3">
+                    <div class="centered ">
+
+                        <div class="zoom-in">
+                            <a href="<?php echo base_url() ?>/assets/downloads/applications/Omega Leos.pdf">
+                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/omega_application_icon.jpg" alt="Leo Omega Application">
+                            </a>
+
+                        </div>
+                        <h4>Leo Omega Application</h4>
+                        <p></p>
+
+                    </div>
+                </div>
+
+            </div>
+
+
+        </div>
+
+    </div>
+
+    <!-- end of downloads section -->
