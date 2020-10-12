@@ -378,16 +378,17 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.10.07.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.10.12.jpeg">
             </div>
             <div class="span4">
                 <p style="font-size: larger;">
-                    <b>දරා නිති බැතින
-                        <br>සිතා හැම කල්.....</b><br>
+                    <b>පලුදු ඇර ආ යනු ලියන කොට <br>
+                    දිග හැරුණු ද යනු වක්කොට....<br> 
+                    </b><br>
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ තිළිණිකා<br>
-                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(කළමනාකරණ හා මූල්‍ය පීඨය)</i><br>
+                        ලියෝ ඉරෝධා සංදීපනී<br>
+                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(නීති  පීඨය)</i><br>
                     <br>
                     <b> #අපේ_හදගැස්ම<br>
                         #talenteduocleos<br>
@@ -798,276 +799,277 @@
 
             </p>
 
-        </div>
-
-    </div-->
+        </div->
 
     </div>
-    <!-- end of leaders' quotes section  -->
 
-    <!-- Projects section start -->
-    <div class="section secondary-section " id="projects">
-        <div class="triangle"></div>
+</div-->
+
+<!-- end of leaders' quotes section  -->
+
+<!-- Projects section start -->
+<div class="section secondary-section " id="projects">
+    <div class="triangle"></div>
+    <div class="container">
+        <div class=" title">
+            <h1>Have you seen our projects</h1>
+            <p></p>
+        </div>
+        <ul class="nav nav-pills">
+            <li class="filter" data-filter="all">
+                <a href="#allProjects">All</a>
+            </li>
+            <li class="filter" data-filter="vision">
+                <a href="#visionProjects">Vision</a>
+            </li>
+            <li class="filter" data-filter="hunger">
+                <a href="#hungerProjects">Hunger</a>
+            </li>
+            <li class="filter" data-filter="environment">
+                <a href="#environmentProjects">Environment</a>
+            </li>
+            <li class="filter" data-filter="diabetes">
+                <a href="#diabetesProjects">Diabetes</a>
+            </li>
+            <li class="filter" data-filter="childCare">
+                <a href="#childCareProjects">Child Cancer</a>
+            </li>
+            <li class="filter" data-filter="other">
+                <a href="#otherProjects">Other</a>
+            </li>
+        </ul>
+
+        <div id="single-project"></div>
+
+        <ul id="portfolio-grid" class="thumbnails row">
+    </div>
+
+</div>
+
+<!-- end of Projects section  -->
+
+
+<!-- start of downloads section -->
+
+<div class="section primary-section" id="downloads">
+
+    <div class="triangle row"></div>
+
+    <div class="container">
+
+        <div class="title">
+
+            <h1>Downloads</h1>
+
+            <p> </p>
+
+        </div>
+
         <div class="container">
-            <div class=" title">
-                <h1>Have you seen our projects</h1>
-                <p></p>
+            <div class="span3">
+                <div class="centered ">
+                    <h3>Club Directory</h3>
+                    <div class="zoom-in">
+                        <a href="<?php echo base_url() ?>/assets/downloads/club_derectory.pdf">
+                            <img class="img" src="<?php echo base_url() ?>assets/frontend/images/downloads/club_derectory_icon.jpg" alt="Club Drectory">
+                        </a>
+
+                    </div>
+                    <p></p>
+
+                </div>
             </div>
-            <ul class="nav nav-pills">
-                <li class="filter" data-filter="all">
-                    <a href="#allProjects">All</a>
-                </li>
-                <li class="filter" data-filter="vision">
-                    <a href="#visionProjects">Vision</a>
-                </li>
-                <li class="filter" data-filter="hunger">
-                    <a href="#hungerProjects">Hunger</a>
-                </li>
-                <li class="filter" data-filter="environment">
-                    <a href="#environmentProjects">Environment</a>
-                </li>
-                <li class="filter" data-filter="diabetes">
-                    <a href="#diabetesProjects">Diabetes</a>
-                </li>
-                <li class="filter" data-filter="childCare">
-                    <a href="#childCareProjects">Child Cancer</a>
-                </li>
-                <li class="filter" data-filter="other">
-                    <a href="#otherProjects">Other</a>
-                </li>
-            </ul>
 
-            <div id="single-project"></div>
+            <div class="span3">
+                <div class="centered ">
+                    <h3>Leo Pledge</h3>
+                    <div class="zoom-in">
+                        <a href="<?php echo base_url() ?>/assets/downloads/leo_pledge.jpg">
+                            <img class="img" src="<?php echo base_url() ?>assets/frontend/images/downloads/leo_pledge_icon.jpg" alt="Leo Pledge">
+                        </a>
 
-            <ul id="portfolio-grid" class="thumbnails row">
+                    </div>
+                    <p></p>
+
+                </div>
+            </div>
+
+            <div class="span3">
+                <div class="centered ">
+                    <h3>Pledge of Allegiance</h3>
+                    <div class="zoom-in">
+                        <a href="<?php echo base_url() ?>/assets/downloads/pledge_of_alligience.pdf">
+                            <img class="img" src="<?php echo base_url() ?>assets/frontend/images/downloads/leo_pledge_of_alligience_icon.jpg" alt="Pledge of Allegiance">
+                        </a>
+
+                    </div>
+                    <p></p>
+
+                </div>
+            </div>
         </div>
+        <hr>
 
-    </div>
-
-    <!-- end of Projects section  -->
-
-
-    <!-- start of downloads section -->
-
-    <div class="section primary-section" id="downloads">
-
-        <div class="triangle row"></div>
 
         <div class="container">
+            <h1>Logos</h1>
 
-            <div class="title">
-
-                <h1>Downloads</h1>
-
-                <p> </p>
-
-            </div>
-
-            <div class="container">
-                <div class="span3">
-                    <div class="centered ">
-                        <h3>Club Directory</h3>
-                        <div class="zoom-in">
-                            <a href="<?php echo base_url() ?>/assets/downloads/club_derectory.pdf">
-                                <img class="img" src="<?php echo base_url() ?>assets/frontend/images/downloads/club_derectory_icon.jpg" alt="Club Drectory">
-                            </a>
-
-                        </div>
-                        <p></p>
+            <div class="span2">
+                <div class="centered ">
+                    <h4>Leo Alpha Logo</h4>
+                    <div class="zoom-in">
+                        <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Alpha Logo.jpg">
+                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Alpha Logo icon.jpg" alt="Leo Alpha Logo">
+                        </a>
 
                     </div>
-                </div>
+                    <p></p>
 
-                <div class="span3">
-                    <div class="centered ">
-                        <h3>Leo Pledge</h3>
-                        <div class="zoom-in">
-                            <a href="<?php echo base_url() ?>/assets/downloads/leo_pledge.jpg">
-                                <img class="img" src="<?php echo base_url() ?>assets/frontend/images/downloads/leo_pledge_icon.jpg" alt="Leo Pledge">
-                            </a>
-
-                        </div>
-                        <p></p>
-
-                    </div>
-                </div>
-
-                <div class="span3">
-                    <div class="centered ">
-                        <h3>Pledge of Allegiance</h3>
-                        <div class="zoom-in">
-                            <a href="<?php echo base_url() ?>/assets/downloads/pledge_of_alligience.pdf">
-                                <img class="img" src="<?php echo base_url() ?>assets/frontend/images/downloads/leo_pledge_of_alligience_icon.jpg" alt="Pledge of Allegiance">
-                            </a>
-
-                        </div>
-                        <p></p>
-
-                    </div>
                 </div>
             </div>
-            <hr>
 
-
-            <div class="container">
-                <h1>Logos</h1>
-
-                <div class="span2">
-                    <div class="centered ">
-                        <h4>Leo Alpha Logo</h4>
-                        <div class="zoom-in">
-                            <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Alpha Logo.jpg">
-                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Alpha Logo icon.jpg" alt="Leo Alpha Logo">
-                            </a>
-
-                        </div>
-                        <p></p>
+            <div class="span2">
+                <div class="centered ">
+                    <h4>Leo Omega Logo</h4>
+                    <div class="zoom-in">
+                        <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Omega Logo.jpg">
+                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Omega Logo icon.jpg" alt="Leo Alpha Logo">
+                        </a>
 
                     </div>
-                </div>
+                    <p></p>
 
-                <div class="span2">
-                    <div class="centered ">
-                        <h4>Leo Omega Logo</h4>
-                        <div class="zoom-in">
-                            <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Omega Logo.jpg">
-                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Omega Logo icon.jpg" alt="Leo Alpha Logo">
-                            </a>
-
-                        </div>
-                        <p></p>
-
-                    </div>
-                </div>
-
-                <div class="span2">
-                    <div class="centered ">
-                        <h4>Leo Logo B&W</h4>
-                        <div class="zoom-in">
-                            <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Logo B&W.jpg">
-                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Logo B&W icon.jpg" alt="Leo Logo Black and White">
-                            </a>
-
-                        </div>
-                        <p></p>
-
-                    </div>
-                </div>
-
-                <div class="span2">
-                    <div class="centered ">
-                        <h4>Leo Logo Platinum</h4>
-                        <div class="zoom-in">
-                            <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Logo Platinum.jpg">
-                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Logo Platinum icon.jpg" alt="Leo Logo Platinum">
-                            </a>
-
-                        </div>
-                        <p></p>
-
-                    </div>
-                </div>
-
-                <div class="span2">
-                    <div class="centered ">
-                        <h4>Leo Logo UOC</h4>
-                        <div class="zoom-in">
-                            <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Logo Uoc.png">
-                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Logo Uoc icon.jpg" alt="Leo Logo UOC">
-                            </a>
-
-                        </div>
-                        <p></p>
-
-                    </div>
                 </div>
             </div>
-            <hr>
 
-
-            <div class="container">
-                <h1>Applications</h1>
-
-                <div class="span3">
-                    <div class="centered ">
-
-                        <div class="zoom-in">
-                            <a href="<?php echo base_url() ?>/assets/downloads/applications/Excellence Award.pdf">
-                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Excelence_award_application_icon.jpg" alt="Exellence award nomination form">
-                            </a>
-
-                        </div>
-                        <h4>Exellence award nomination form</h4>
-                        <p></p>
+            <div class="span2">
+                <div class="centered ">
+                    <h4>Leo Logo B&W</h4>
+                    <div class="zoom-in">
+                        <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Logo B&W.jpg">
+                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Logo B&W icon.jpg" alt="Leo Logo Black and White">
+                        </a>
 
                     </div>
+                    <p></p>
+
                 </div>
-
-                <div class="span3">
-                    <div class="centered ">
-
-                        <div class="zoom-in">
-                            <a href="<?php echo base_url() ?>/assets/downloads/applications/Serving Together Banner Patch Form.pdf">
-                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/serving_together_application_icon.jpg" alt="Serving together banner patch form">
-                            </a>
-
-                        </div>
-                        <h4>Serving together banner patch form</h4>
-                        <p></p>
-
-                    </div>
-                </div>
-
-                <div class="span3">
-                    <div class="centered ">
-
-                        <div class="zoom-in">
-                            <a href="<?php echo base_url() ?>/assets/downloads/applications/Spot Light On Children Banner Patch Form.pdf">
-                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/spot_light_on_children_icon.jpg" alt="Leo spot light on children recognition application">
-                            </a>
-
-                        </div>
-                        <h4>Leo spot light on children recognition application</h4>
-                        <p></p>
-
-                    </div>
-                </div>
-
-                <div class="span3">
-                    <div class="centered ">
-
-                        <div class="zoom-in">
-                            <a href="<?php echo base_url() ?>/assets/downloads/applications/Alpha Leos.pdf">
-                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/alpha_application_icon.jpg" alt="Leo Alpha Application">
-                            </a>
-
-                        </div>
-                        <h4>Leo Alpha Application</h4>
-                        <p></p>
-
-                    </div>
-                </div>
-
-                <div class="span3">
-                    <div class="centered ">
-
-                        <div class="zoom-in">
-                            <a href="<?php echo base_url() ?>/assets/downloads/applications/Omega Leos.pdf">
-                                <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/omega_application_icon.jpg" alt="Leo Omega Application">
-                            </a>
-
-                        </div>
-                        <h4>Leo Omega Application</h4>
-                        <p></p>
-
-                    </div>
-                </div>
-
             </div>
 
+            <div class="span2">
+                <div class="centered ">
+                    <h4>Leo Logo Platinum</h4>
+                    <div class="zoom-in">
+                        <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Logo Platinum.jpg">
+                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Logo Platinum icon.jpg" alt="Leo Logo Platinum">
+                        </a>
+
+                    </div>
+                    <p></p>
+
+                </div>
+            </div>
+
+            <div class="span2">
+                <div class="centered ">
+                    <h4>Leo Logo UOC</h4>
+                    <div class="zoom-in">
+                        <a href="<?php echo base_url() ?>/assets/downloads/logo/Leo Logo Uoc.png">
+                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Leo Logo Uoc icon.jpg" alt="Leo Logo UOC">
+                        </a>
+
+                    </div>
+                    <p></p>
+
+                </div>
+            </div>
+        </div>
+        <hr>
+
+
+        <div class="container">
+            <h1>Applications</h1>
+
+            <div class="span3">
+                <div class="centered ">
+
+                    <div class="zoom-in">
+                        <a href="<?php echo base_url() ?>/assets/downloads/applications/Excellence Award.pdf">
+                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/Excelence_award_application_icon.jpg" alt="Exellence award nomination form">
+                        </a>
+
+                    </div>
+                    <h4>Exellence award nomination form</h4>
+                    <p></p>
+
+                </div>
+            </div>
+
+            <div class="span3">
+                <div class="centered ">
+
+                    <div class="zoom-in">
+                        <a href="<?php echo base_url() ?>/assets/downloads/applications/Serving Together Banner Patch Form.pdf">
+                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/serving_together_application_icon.jpg" alt="Serving together banner patch form">
+                        </a>
+
+                    </div>
+                    <h4>Serving together banner patch form</h4>
+                    <p></p>
+
+                </div>
+            </div>
+
+            <div class="span3">
+                <div class="centered ">
+
+                    <div class="zoom-in">
+                        <a href="<?php echo base_url() ?>/assets/downloads/applications/Spot Light On Children Banner Patch Form.pdf">
+                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/spot_light_on_children_icon.jpg" alt="Leo spot light on children recognition application">
+                        </a>
+
+                    </div>
+                    <h4>Leo spot light on children recognition application</h4>
+                    <p></p>
+
+                </div>
+            </div>
+
+            <div class="span3">
+                <div class="centered ">
+
+                    <div class="zoom-in">
+                        <a href="<?php echo base_url() ?>/assets/downloads/applications/Alpha Leos.pdf">
+                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/alpha_application_icon.jpg" alt="Leo Alpha Application">
+                        </a>
+
+                    </div>
+                    <h4>Leo Alpha Application</h4>
+                    <p></p>
+
+                </div>
+            </div>
+
+            <div class="span3">
+                <div class="centered ">
+
+                    <div class="zoom-in">
+                        <a href="<?php echo base_url() ?>/assets/downloads/applications/Omega Leos.pdf">
+                            <img class="img-square" src="<?php echo base_url() ?>assets/frontend/images/downloads/omega_application_icon.jpg" alt="Leo Omega Application">
+                        </a>
+
+                    </div>
+                    <h4>Leo Omega Application</h4>
+                    <p></p>
+
+                </div>
+            </div>
 
         </div>
 
+
     </div>
 
-    <!-- end of downloads section -->
+</div>
+
+<!-- end of downloads section -->
