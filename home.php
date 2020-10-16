@@ -378,17 +378,18 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.10.12.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.10.16.jpeg">
             </div>
             <div class="span4">
                 <p style="font-size: larger;">
-                    <b>පලුදු ඇර ආ යනු ලියන කොට <br>
-                    දිග හැරුණු ද යනු වක්කොට....<br> 
+                    <b>
+                        කිමද මේ සරසවිය...<br>
+                        රැය පුරා තනියම...<br>
                     </b><br>
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ ඉරෝධා සංදීපනී<br>
-                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(නීති  පීඨය)</i><br>
+                        ලියෝ ලක්ෂාන් ගාල්ලගේ<br>
+                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(කළමණාකරණ හා මූල්‍ය පීඨය)</i><br>
                     <br>
                     <b> #අපේ_හදගැස්ම<br>
                         #talenteduocleos<br>
