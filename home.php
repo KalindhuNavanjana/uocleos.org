@@ -378,18 +378,18 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.10.16.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.10.22.jpeg">
             </div>
             <div class="span4">
                 <p style="font-size: larger;">
                     <b>
-                        කිමද මේ සරසවිය...<br>
-                        රැය පුරා තනියම...<br>
+                        නුබ, නුඹ නම් අගේමැයි...<br>
+                        වරෙක ඝන කලු වළාපෙල...<br>
                     </b><br>
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ ලක්ෂාන් ගාල්ලගේ<br>
-                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(කළමණාකරණ හා මූල්‍ය පීඨය)</i><br>
+                        ලියෝ දමිත වික්‍රමසිංහ<br>
+                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය (කොළඹ විශ්වවිද්‍යාලයීය පරිඝණක අධ්‍යනායතනය)</i><br>
                     <br>
                     <b> #අපේ_හදගැස්ම<br>
                         #talenteduocleos<br>
