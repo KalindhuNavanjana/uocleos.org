@@ -378,18 +378,18 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.10.22.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.11.01.jpeg">
             </div>
             <div class="span4">
                 <p style="font-size: larger;">
                     <b>
-                        නුබ, නුඹ නම් අගේමැයි...<br>
-                        වරෙක ඝන කලු වළාපෙල...<br>
+                        හිතට දැනුනේ වේදනාවකි...<br>
+                        හීසර පහරක් වැදුනු ලෙසකින්...<br>
                     </b><br>
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ දමිත වික්‍රමසිංහ<br>
-                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය (කොළඹ විශ්වවිද්‍යාලයීය පරිඝණක අධ්‍යනායතනය)</i><br>
+                        ලියෝ රුවනි ධනංජනා<br>
+                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(කළමණාකරණ හා මූල්‍ය පීඨය)ෆෆ</i><br>
                     <br>
                     <b> #අපේ_හදගැස්ම<br>
                         #talenteduocleos<br>
