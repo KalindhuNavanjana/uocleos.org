@@ -374,14 +374,6 @@
 
         <!-- these are from 2020 -->
 
-
-
-        <h2 id="Diagon_Alley" style="margin-bottom:20px;margin-top:40px;text-align:center">Diagon Alley</h2>
-
-        <div class="row-fluid" style="margin-bottom:20px">
-        <iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fleo.uoc.306c1%2Fvideos%2F296873414712687%2F&width=1280" width="1280" height="720" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-        </div>
-
         <h2 id="Ape_Hadagasma" style="margin-bottom:20px;margin-top:40px;text-align:center">අපේ හදගැස්ම</h2>
 
         <div class="row-fluid" style="margin-bottom:20px">
