@@ -223,6 +223,14 @@
             venue:"Vidiyaloka Maha Vidiyalaya , Thennekumbura, Kandy",
             discription:"Project “Suwadanama” will be conducted with 8 phases, which includes a two-day workshop, a practical session on first aid,and providing the material facilities required for the first aid units of 8 selected schools which are located in rural areas across the country.",
             category:"other"     
+        },
+        {
+            name:"Diagon Alley",
+            leader:"Dinu Meegama ",
+            date:"November 2020",        //08
+            venue:"Zoom online platform",
+            discription:"The most awaited and extravagant event of Leo Club of University of Colombo, “Diagon Alley” - Annual Orientation Ceremony for the leostic year of 2020/21 was successfully held on the 8th of November via zoom online platform.",
+            category:"other"                   
         }
 
 
