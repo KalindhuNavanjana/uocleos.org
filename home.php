@@ -378,17 +378,18 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.11.14.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.11.18.jpeg">
             </div>
             <div class="span4">
                 <p style="font-size: larger;">
                     <b>
-                        දස මසක් කුස දරා..<br>
-                        සිහින පොදි හිස දරන්....<br>
+                        විදින විදවන මුහුණු අතරේ<br>
+                        ජීවිතේ සොය සොයා යදිමුන්<br>
+                        පියාසැරුවා මං.... <br>
                     </b><br>
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ රුවනි ධනංජනා<br>
+                        ලියෝ යසාරා<br>
                         සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(කළමණාකරණ හා මූල්‍ය පීඨය)</i><br>
                     <br>
                     <b> #අපේ_හදගැස්ම<br>
