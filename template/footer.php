@@ -31,9 +31,15 @@
             <ul class="row client-slider" id="clint-slider">
 
                 <li>
+                    <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol03-Issue06.pdf">
+                        <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol3-issue06.jpg" alt="vol 3 - issue 06">
+                        <p>Our_Esssence Vol03 Issue06 (Latest)</p>
+                    </a>
+                </li>
+                <li>
                     <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol03-Issue05.pdf">
                         <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol3-issue05.jpg" alt="vol 3 - issue 05">
-                        <p>Our_Esssence Vol03 Issue05 (Latest)</p>
+                        <p>Our_Esssence Vol03 Issue05</p>
                     </a>
                 </li>
                 <li>
