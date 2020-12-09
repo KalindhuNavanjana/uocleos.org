@@ -374,6 +374,30 @@
 
         <!-- these are from 2020 -->
 
+       <!--  <h2 id="Suwadanama" style="margin-bottom:20px;margin-top:40px;text-align:center">සුවදානම</h2>
+
+        <div class="row-fluid" style="margin-bottom:20px">
+            <div class="span8">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/Suwadanama_phase3.jpeg">
+            </div>
+            <div class="span4">
+                <p style="font-size: larger;">
+                    <b>“අවදානමට පෙර සූදානම”</b>යන තේමාව යටතේ ක්‍රියාත්මක වන සුවදානම ව්‍යාපෘතියේ තෙවන අදියර වශයෙන්,
+                    සැමවිටම සමාජ යහපත මූලික කරගෙන කටයුතු කරන අප,කොළඹ විශ්ව විද්‍යාලයීය ලියෝ සමාජය විසින් කෝවිඩ් වසංගතය
+                    හේතුවෙන් ශාරීරිකව පමණක් නොව මානසිකව ද බිඳ වැටී සිටින්නන්ට නැවත නැගී සිටීමට අත්වැලක් ලබා දීමට සූදානම්ව සිටිනවා. <br>
+                    එසේ නම් ඔබගේ විඩාබර මනසට නිවහනක් ලබා ගැනීමට ඔබත් එන්න අප සමග එක්වීමට. <br>
+                    <br>
+                    <i>"මෙය ඔබගේ අහිමි වූ මානසික සුවය නැවත ලබාගැනීමට හරි අපූරු තෝතැන්නක් වනු නොඅනුමානයි"</i><br>
+                    <br>
+                    <b> #සුවදානම <br>
+                        #තුම්මුල්ලේ_සිංහයෝ <br>
+                        #Leo_District_306_C1 <br>
+                        #MD_306
+                    </b>
+                </p>
+            </div>
+        </div> -->
+
         <h2 id="Ape_Hadagasma" style="margin-bottom:20px;margin-top:40px;text-align:center">අපේ හදගැස්ම</h2>
 
         <div class="row-fluid" style="margin-bottom:20px">
