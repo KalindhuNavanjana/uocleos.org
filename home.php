@@ -279,6 +279,33 @@
 
         </div>
 
+        <div id="Prakampana" class="row-fluid" style="margin-bottom:20px">
+            <div class="span8">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/Prakampana phase1.jpeg">
+            </div>
+            <div class="span4">
+                <p>
+                    Registrations are now open for the most awaited event of the year “Prakampana”<br>
+                    <br>
+                    The event will be conducted under two segments. <br>
+                    In the first session popular Youtubers: AyyoAyo & Lochi will join and for the second session popular musicians: Manuranga Wijesekara & Ridma Weerawardana will join with us to entertain you all!<br>
+                    <br>
+                    Hope this will be an unforgettable experience to all of you.
+                    
+                    <br>
+                    Let’s get together to enjoy and have fun. Wait is over! <br>
+                    <a href="https://forms.gle/UAmKjk5QaCSyu6Xf9">Here is the link </a><br>
+                    <br>
+                    <b> #ප්‍රකම්පන<br>
+                        #තුම්මුල්ලේ_සිංහයෝ <br>
+                        #UOC_Leos<br>
+                        #Leo_District_306_C1<br>
+                        #MD_306
+                    </b>
+                </p>
+            </div>
+        </div>
+
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
                 <img src="<?php echo base_url() ?>assets/contents/images/tempory/Niwarana 1day remaining.jpeg">
