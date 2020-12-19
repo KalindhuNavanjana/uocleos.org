@@ -221,7 +221,7 @@
             leader:"Leo Gayathri Hatthotuwa",
             date:"September 2020",        //25
             venue:"Vidiyaloka Maha Vidiyalaya , Thennekumbura, Kandy",
-            discription:"Project “Suwadanama” will be conducted with 8 phases, which includes a two-day workshop, a practical session on first aid,and providing the material facilities required for the first aid units of 8 selected schools which are located in rural areas across the country.",
+            discription:"The project <b>Suwadanama</b> was begun with the provision of keeping the health of the society in a standard level by identifying the health issues in advance and providing necessary pathways to resolve those issues before it rises to a significant level. To be exact it focuses on unfortunate mental and physical health conditions that society have had faced.",
             category:"other"     
         },
         {
