@@ -1,40 +1,40 @@
 <div class="snowflakes" aria-hidden="true">
-  <div class="snowflake">
-  ❅
-  </div>
-  <div class="snowflake">
-  ❆
-  </div>
-  <div class="snowflake">
-  ❅
-  </div>
-  <div class="snowflake">
-  ❆
-  </div>
-  <div class="snowflake">
-  ❅
-  </div>
-  <div class="snowflake">
-  ❆
-  </div>
-  <div class="snowflake">
-    ❅
-  </div>
-  <div class="snowflake">
-    ❆
-  </div>
-  <div class="snowflake">
-    ❅
-  </div>
-  <div class="snowflake">
-    ❆
-  </div>
-  <div class="snowflake">
-    ❅
-  </div>
-  <div class="snowflake">
-    ❆
-  </div>
+    <div class="snowflake">
+        ❅
+    </div>
+    <div class="snowflake">
+        ❆
+    </div>
+    <div class="snowflake">
+        ❅
+    </div>
+    <div class="snowflake">
+        ❆
+    </div>
+    <div class="snowflake">
+        ❅
+    </div>
+    <div class="snowflake">
+        ❆
+    </div>
+    <div class="snowflake">
+        ❅
+    </div>
+    <div class="snowflake">
+        ❆
+    </div>
+    <div class="snowflake">
+        ❅
+    </div>
+    <div class="snowflake">
+        ❆
+    </div>
+    <div class="snowflake">
+        ❅
+    </div>
+    <div class="snowflake">
+        ❆
+    </div>
 </div>
 
 <!-- Start home section -->
@@ -320,6 +320,31 @@
 
         <div id="Prakampana" class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/Suwadanama 4.jpeg">
+            </div>
+            <div class="span4">
+                <p>
+                    පාසල් අධ්‍යාපනය තුලින් දැනුමින් පිරි දරුවන් බිහි කරයි. <br>
+                    දැනුමින් පිරි දරුවන් රටක අනාගතය තීරණය කරයි.<br>
+                    <br>
+                    නමුත් කොවිඩ් හමුවේ,<br>
+                    වත්මන් පාසල් අධ්‍යාපනය ඇත්තේ අවදානම් තත්ත්වයකයි. <br>
+                    <br>
+                    එකී අවදානමට පෙර සූදානමක් සලසා රටෙහි අනාගතය සුරක්ෂිත කරනු වස්, සුවදානම සිව්වන පියවර මෙලෙස පියවර තබයි. <br>
+                    <br>
+                    <br>
+                    <b> #සුවදානම<br>
+                        #තුම්මුල්ලේ_සිංහයෝ <br>
+                        #UOC_Leos<br>
+                        #Leo_District_306_C1<br>
+                        #MD_306
+                    </b>
+                </p>
+            </div>
+        </div>
+
+        <div id="Prakampana" class="row-fluid" style="margin-bottom:20px">
+            <div class="span8">
                 <img src="<?php echo base_url() ?>assets/contents/images/tempory/Prakampana phase1.jpeg">
             </div>
             <div class="span4">
@@ -330,7 +355,7 @@
                     In the first session popular Youtubers: AyyoAyo & Lochi will join and for the second session popular musicians: Manuranga Wijesekara & Ridma Weerawardana will join with us to entertain you all!<br>
                     <br>
                     Hope this will be an unforgettable experience to all of you.
-                    
+
                     <br>
                     Let’s get together to enjoy and have fun. Wait is over! <br>
                     <a href="https://forms.gle/UAmKjk5QaCSyu6Xf9">Here is the link </a><br>
@@ -351,7 +376,7 @@
             </div>
             <div class="span4">
                 <p>
-                ඔබේ වටිනා කාලය , ශ්‍රමය වැය කරමින් කෙටි නාට්‍ය පිටපත් නිර්මාණ කර අප වෙත එවූ සියලුම දෙනාට ස්තූතිවන්ත වන අතර ම,<br>
+                    ඔබේ වටිනා කාලය , ශ්‍රමය වැය කරමින් කෙටි නාට්‍ය පිටපත් නිර්මාණ කර අප වෙත එවූ සියලුම දෙනාට ස්තූතිවන්ත වන අතර ම,<br>
                     <br>
                     🥇ජයග්‍රාහී නාට්‍ය පිටපත ලගදීම දැනුම් දෙනු ඇත.<br>
                     <br>
