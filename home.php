@@ -515,19 +515,19 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.11.18.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.12.25.jpeg">
             </div>
             <div class="span4">
                 <p style="font-size: larger;">
                     <b>
-                        විදින විදවන මුහුණු අතරේ<br>
-                        ජීවිතේ සොය සොයා යදිමුන්<br>
-                        පියාසැරුවා මං.... <br>
+                        මටත් නත්තල් තිබුණා හුගක් ඉස්සර<br>
+                        එයත් ගියපසු නොඑන්නම ඉස්සර<br>
+                        උනා දුක් කදුලු හදවතේ සේරම.... <br>
                     </b><br>
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ යසාරා<br>
-                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(කළමණාකරණ හා මූල්‍ය පීඨය)</i><br>
+                        ලියෝ ඉරෝධා සංදීපනී<br>
+                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(නීති පීඨය)</i><br>
                     <br>
                     <b> #අපේ_හදගැස්ම<br>
                         #talenteduocleos<br>
