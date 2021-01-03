@@ -485,19 +485,20 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2020.12.25.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/hadagasma-2021.01.03.jpeg">
             </div>
             <div class="span4">
                 <p style="font-size: larger;">
                     <b>
-                        මටත් නත්තල් තිබුණා හුගක් ඉස්සර<br>
-                        එයත් ගියපසු නොඑන්නම ඉස්සර<br>
-                        උනා දුක් කදුලු හදවතේ සේරම.... <br>
+                        නිදි නොලැබ දුක් විද<br>
+                        බිහි කළද මෙලොවට<br>
+                        තවම ඇය නිදි නොලැබ <br>
+                        දුක් විදියි.... <br>
                     </b><br>
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ ඉරෝධා සංදීපනී<br>
-                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(නීති පීඨය)</i><br>
+                        ලියෝ නිර්මලා පියුමි<br>
+                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(ශ්‍රී පාලි මණ්ඩපය)</i><br>
                     <br>
                     <b> #අපේ_හදගැස්ම<br>
                         #talenteduocleos<br>
