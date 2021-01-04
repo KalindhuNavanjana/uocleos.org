@@ -1,5 +1,6 @@
 //Project data section 
     const projects = [
+        
         {
             name:"Installation Ceremony",
             leader:"Leo Kavini Bamunusinghe",
@@ -231,6 +232,14 @@
             venue:"Zoom online platform",
             discription:"The most awaited and extravagant event of Leo Club of University of Colombo, “Diagon Alley” - Annual Orientation Ceremony for the leostic year of 2020/21 was successfully held on the 8th of November via zoom online platform.",
             category:"other"                   
+        },
+        {
+            name:"නිසාගිනි 3.0",
+            leader:"Leo Anne Dilshara",
+            date:"October & December 2020",        //25
+            venue:"The Nisagini 3.0 project was implemented in different areas of the country.",
+            discription:"Leo Club of University Of Colombo undertook the responsibility to continue project “නිසාගිනි 3.0” in the leostic year 20/21 with the main objective of “End hunger, achieve food security and improved nutrition and promote sustainable agriculture” which is published Goal 02- Zero hunger in United Nation Sustainability Development Goals to achieve in the year of 2030.The first phase of “නිසාගිනි 3.0” was successfully completed on 02nd October 2020 at Kannangara Vidyala Thilinagama, Mirigama as <b>පෝෂණයට ඉඩක් සුපෝෂිත දැයක්</b> with the intention of improving nutrition level of underprivileged school children. The program was consisted of an awareness program on healthy food patterns for children and parents. After which the children were provided with a nutritious breakfast and lunch. In addition some fruit plants were planted. The second phase of “නිසාගිනි 3.0” was named as <b>සාරධරණි</b> program carried with the intention of to empower the home gardening and agriculture to alleviate the  food shortage caused by the COVID-19 pandemic. Simultaneously, the monetary assistance was provided to a farmer who lives in Veyangoda Maa-Ibula village, that not have sufficient resources to cultivate his barren paddy field. In addition as the next step an online challenge named “සාරධරණි” Let’s grow challenge” was conducted through Social media, by planting food plants at home garden  during the week of 07th. On 23rd of December successfully concluded the 3rd phase of the project in different clusters of the country. By launching this phase we were able to provide dry rations for people where the hunger is their contemporary need due to the current COVID 19 situation in Sri Lanka. With that “නිසාගිනි 3.0” successfully concluded with achieving the goal of addressing the problem of hunger and giving solution for them.",
+            category:"hunger"                    
         }
 
 
