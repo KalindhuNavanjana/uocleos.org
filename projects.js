@@ -240,6 +240,22 @@
             venue:"The Nisagini 3.0 project was implemented in different areas of the country.",
             discription:"Leo Club of University Of Colombo undertook the responsibility to continue project “නිසාගිනි 3.0” in the leostic year 20/21 with the main objective of “End hunger, achieve food security and improved nutrition and promote sustainable agriculture” which is published Goal 02- Zero hunger in United Nation Sustainability Development Goals to achieve in the year of 2030.The first phase of “නිසාගිනි 3.0” was successfully completed on 02nd October 2020 at Kannangara Vidyala Thilinagama, Mirigama as <b>පෝෂණයට ඉඩක් සුපෝෂිත දැයක්</b> with the intention of improving nutrition level of underprivileged school children. The program was consisted of an awareness program on healthy food patterns for children and parents. After which the children were provided with a nutritious breakfast and lunch. In addition some fruit plants were planted. The second phase of “නිසාගිනි 3.0” was named as <b>සාරධරණි</b> program carried with the intention of to empower the home gardening and agriculture to alleviate the  food shortage caused by the COVID-19 pandemic. Simultaneously, the monetary assistance was provided to a farmer who lives in Veyangoda Maa-Ibula village, that not have sufficient resources to cultivate his barren paddy field. In addition as the next step an online challenge named “සාරධරණි” Let’s grow challenge” was conducted through Social media, by planting food plants at home garden  during the week of 07th. On 23rd of December successfully concluded the 3rd phase of the project in different clusters of the country. By launching this phase we were able to provide dry rations for people where the hunger is their contemporary need due to the current COVID 19 situation in Sri Lanka. With that “නිසාගිනි 3.0” successfully concluded with achieving the goal of addressing the problem of hunger and giving solution for them.",
             category:"hunger"                    
+        },
+        {
+            name:"ප්‍රාර්ථනා",
+            leader:"Leo Saduni Dulanjalee Silva",
+            date:"December 2020",        //date
+            venue:"Sri Angala Parameshwari Amman Kovil <br> Hilur Jumma Masjid Kaluthara <br> Dharmadutha Temple Narahenpita <br> Kaluaggala Wikshopamatha <br> Pu/Ana Maha Andarawewa School <br> and onine",
+            discription:"Leo Club of University Of Colombo, under the theme <b>peace</b>, religious and cultural activities organized the project Prarthana for the leoisitc year 2020/2021 which is published Goal 16 peace, Justice and strong institution in United Nation Sustainability Development goals achieve in the year of 2030.The first phase was done on 27th November 2020 in four religious places. Under this we distributed essential goods as well as dry food bags during this covid pandemic according to the requirements of these religious places. The second phase was completed on 18th December 2020 at Pu/Ana, Maha Andarawa School, Anamaduwa targeting the future generation with the aim of improving their trilingual language skills we distributed languages books and banners. The third phase of the project Prarthana online challenge by social media and song review evening online programme was completed on 14th January 2020 with great lyricist Mr. Bandara Ehaliyagoda which carried the message of peace.",
+            category:"other"                    
+        },
+        {
+            name:"Prakampana",
+            leader:"Leo Sachindu Akalanka",
+            date:"December 2020 & January 2021",        //27 , 17
+            venue:"online via Zoom, Facebook, YouTube",
+            discription:"Prakampana was successfully held as two phases on 27th December 2020 and 17th January 2021. <br> Popular social media influencers, Mrs. Ayomi Vithanage, Mr. Gihan Lakshitha, Mr. Arun Madumadawa and Mr. Theewaka Malinga and famed musicians, the lyricist Mr. Manuranga Wijesekara and the singer Mr. Ridma Weerawardana were present at the discussion of the first phase. We were able to purvey the youth on how to use social media effectively and discuss some more important facts. They were also entertaining the audience.  <br> The second phase was instigated with the presence of the popular musician Mr. Charitha Attalage who is a well-known among the youth as a music composer. He expounded himself and his career. <br> We successfully concluded the project addressing the needs of the society including the youth with the presence of a massive virtual audience where it exceeded 500 for each phase joined via Zoom platform, Facebook Live and YouTube Live. ",
+            category:"other"                   
         }
 
 
@@ -250,7 +266,7 @@
         {
             name:"projectName",
             leader:"LeadersName",
-            date:"October 2020",        //date
+            date:"October 2021",        //date
             venue:"places",
             discription:"discrpt",
             category:"other"                    // vision / hunger / environment / diabetes / childCare / other ;
