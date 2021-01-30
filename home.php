@@ -1,4 +1,3 @@
-
 <!-- Start home section -->
 
 <div id="home">
@@ -368,6 +367,28 @@
         </div>
 
         <!-- these are from 2020 -->
+
+        <h2 id="suwadanama" style="margin-bottom:20px;margin-top:40px;text-align:center">සුවදානම</h2>
+
+        <div class="row-fluid" style="margin-bottom:20px">
+            <div class="span8">
+                <img src="<?php echo base_url() ?>assets/contents/images/tempory/suwadanama_5.jpeg">
+            </div>
+            <div class="span4">
+                <p style="font-size: larger;">
+                    2021 වර්ෂයේ ගත වූ දින කිහිපය තුළ පමණක් ඩෙංගු රෝගීන් 1000කට අධික සංඛ්‍යාවක් වාර්තා වී ඇත! <br>
+                    ඔබේ වටිනා මිනිස් ජීවිතය මාරාන්තික ඩෙංගු වසංගතයේ මීළඟ ගොදුර බවට පත්වීම වළක්වනු වස්,<br>
+                    <br>
+                    සුවදානම පස්වන පියවර මෙලෙස පියවර තබයි.<br>
+                    <br>
+                    <b> #සුවදානම<br>
+                        #UOC_Leos<br>
+                        #Leo_District_306_C1<br>
+                        #MD_306
+                    </b>
+                </p>
+            </div>
+        </div>
 
         <h2 id="Ape_Hadagasma" style="margin-bottom:20px;margin-top:40px;text-align:center">අපේ හදගැස්ම</h2>
 
