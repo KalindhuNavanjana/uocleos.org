@@ -427,6 +427,15 @@ p {
     color: #FECE1A;
 }
 
+.primary-section a {
+    color: #FFF;
+}
+
+.primary-section a:hover {
+    color: #FECE1A;
+    text-decoration: underline;
+}
+
 .primary-section h1 {
     color: #FFF;
 }
