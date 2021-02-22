@@ -281,6 +281,34 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
+                <img src="<?php echo base_url() ?>assets/contents/images/announcements/aarogya.jpeg">
+            </div>
+            <div class="span4">
+                <p>
+                    කොරෝනා නතර කල ජිවිත..! <br>
+                    නතර කල තැනින් එතෙර කර දිරිය හිත් වලට අපේක්ෂාව රැගෙන.<br>
+                    සහෝදරත්වයේ දැත් දිගු කිරිමට ලියෝ සමාජීය අපි සුදනම්... <br>
+                    <br>
+                    ආරෝග්‍යා පළමු පියවර ... <br>
+                    <br>
+                    පෙබරවාරි 09 <br>
+                    උදෑසන10.00 <br>
+                    උතුරු කොළඹ ශික්ෂණ රෝහල-රාගම<br>
+                    <br>
+                    <br>
+                    <br><b>
+                        #ආරෝග්‍යා<br>
+                        #තුම්මුල්ලේ_සිංහයෝ<br>
+                        #UOC_Leos <br>
+                        #Leo_District_306_C1<br>
+                        #MD_306
+                    </b>
+                </p>
+            </div>
+        </div>
+
+        <div class="row-fluid" style="margin-bottom:20px">
+            <div class="span8">
                 <img src="<?php echo base_url() ?>assets/contents/images/announcements/boss_ladies.jpeg">
             </div>
             <div class="span4">
@@ -425,7 +453,7 @@
                     <br>
                     හරවත් අධ්‍යාපනයක් තුළින් මත්ද්‍රව්‍යවලට එරෙහි ආකල්ප සමාජය තුල බිහි කිරීමේ කාලීන වැඩසටහන සමඟ එක්වන්න.<br>
                     <br>
-                    <a  style="color: #fece1a;" href="https://forms.gle/KafDRdQX3CYz2fby9">https://forms.gle/KafDRdQX3CYz2fby9 <br></a>
+                    <a style="color: #fece1a;" href="https://forms.gle/KafDRdQX3CYz2fby9">https://forms.gle/KafDRdQX3CYz2fby9 <br></a>
                     <br>
                     වගකිවයුතු ශ්‍රී ලාංකිකයින් වශයෙන් ඔබ-අප සැමගේ වගකීම නිසි ලෙස ඉටුකරමු. <br>
                     <br>
@@ -474,35 +502,38 @@
             </div>
             <div class="span4">
                 <p style="font-size: larger;">
-                Are you a talented dancer, singer and are you talented in any other field? Then get registered yourself to face the ultimate Competition of Talented Leos in Sri Lanka. <br>
+                    Are you a talented dancer, singer and are you talented in any other field? Then get registered yourself to face the ultimate Competition of Talented Leos in Sri Lanka. <br>
                     <br>
                     <b>Elation 2021 </b> The place where you find the Spirit of Leos in Leo Multiple District 306!<br>
                     <br>
                     The biggest stage, the biggest audience and definitely the biggest memory that any Leo could wish for... <br>
-                    <br> </p>
-                    <a href="https://forms.gle/xYy2xTYxU5tzFhGJ9">
-                        <h3 style="text-align: center;"> <span>R E G I S T R A T I O N S <br>  A R E <br>  N O W <br>  O P E N !!!</span> </h3> 
-                    </a>
                     <br>
-                    <p>REGISTER YOURSELF BEFORE 15TH OF FEBRUARY 2020 <br>
+                </p>
+                <a href="https://forms.gle/xYy2xTYxU5tzFhGJ9">
+                    <h3 style="text-align: center;"> <span>R E G I S T R A T I O N S <br> A R E <br> N O W <br> O P E N !!!</span> </h3>
+                </a>
+                <br>
+                <p>REGISTER YOURSELF BEFORE 15TH OF FEBRUARY 2020 <br>
                     <br>
-                    Categories are as follows : </p>
-                    <ol>
+                    Categories are as follows :
+                </p>
+                <ol>
                     <li>Singing</li>
                     <li>Dancing</li>
                     <li>Other</li>
-                    </ol>
-                    <p>
+                </ol>
+                <p>
                     <br>
                     It's permitted to participate individually or as groups but make sure that everyone is a Leo. <br>
                     <br>
-                    For more details, Contact :- </p>
-                    <ul>
+                    For more details, Contact :-
+                </p>
+                <ul>
                     <li>Project Chairman - Leo Lalanka Samarakoon 0711598059</li>
                     <li>Project Secretary - Leo Ravindi Bowatte 0752057289</li>
                     <li>Project Treasurer - Leo Bimsara Dimal 0750332327</li>
-                    </ul>
-                    <p> 
+                </ul>
+                <p>
                     <b> #Elation2021<br>
                         #LeoMultipleDistrict306 <br>
                         #ItsThatTimeOfTheYear<br>
