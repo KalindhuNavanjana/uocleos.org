@@ -31,9 +31,15 @@
             <ul class="row client-slider" id="clint-slider">
 
                 <li>
+                    <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol03-Issue09.pdf">
+                        <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol3-issue09.jpg" alt="vol 3 - issue 09">
+                        <p>Our_Esssence Vol03 Issue09 (Latest)</p>
+                    </a>
+                </li>
+                <li>
                     <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol03-Issue08.pdf">
                         <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol3-issue08.jpg" alt="vol 3 - issue 08">
-                        <p>Our_Esssence Vol03 Issue08 (Latest)</p>
+                        <p>Our_Esssence Vol03 Issue08</p>
                     </a>
                 </li>
                 <li>
@@ -160,7 +166,8 @@
         <div class="sub-section">
             <div id="success-subscribe" class="alert alert-success invisible">
 
-                <strong>Well done!</strong>You successfully subscribet to our newsletter.</div>
+                <strong>Well done!</strong>You successfully subscribet to our newsletter.
+            </div>
 
             <div class="row-fluid">
 
@@ -286,7 +293,8 @@
 
                     <div id="successSend" class="alert alert-success invisible">
 
-                        <strong>Well done!</strong>Your message has been sent.</div>
+                        <strong>Well done!</strong>Your message has been sent.
+                    </div>
 
                     <div id="errorSend" class="alert alert-error invisible">There was an error.</div>
 
