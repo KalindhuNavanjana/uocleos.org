@@ -256,6 +256,14 @@
             venue:"online via Zoom, Facebook, YouTube",
             discription:"Prakampana was successfully held as two phases on 27th December 2020 and 17th January 2021. <br> Popular social media influencers, Mrs. Ayomi Vithanage, Mr. Gihan Lakshitha, Mr. Arun Madumadawa and Mr. Theewaka Malinga and famed musicians, the lyricist Mr. Manuranga Wijesekara and the singer Mr. Ridma Weerawardana were present at the discussion of the first phase. We were able to purvey the youth on how to use social media effectively and discuss some more important facts. They were also entertaining the audience.  <br> The second phase was instigated with the presence of the popular musician Mr. Charitha Attalage who is a well-known among the youth as a music composer. He expounded himself and his career. <br> We successfully concluded the project addressing the needs of the society including the youth with the presence of a massive virtual audience where it exceeded 500 for each phase joined via Zoom platform, Facebook Live and YouTube Live. ",
             category:"other"                   
+        },
+        {
+            name:"Miles of Smiles 2.0",
+            leader:"Leo Kaushalya Sandarangi",
+            date:"February 2021",        //?
+            venue:"Phase 01-At Sri Sangamitta Child Development Center,Pamamkada.Phase 02-At Lady Ridgeway Hospital,Colombo 08",
+            discription:"''Miles of Smiles 2.0'' is a project comprised of two phases categorized as ''Spotlight on Children.'' As the first phase, a spent a day was conducted at Sri Sangamitta Child Development  Center, Pamankada.As the second phase of the project, necessary materials were donated to the Lady Ridgeway Hospital for children in the premature infant unit, Colombo 08.",
+            category:"other"                    // Spotlight on Children
         }
 
 
@@ -266,7 +274,7 @@
         {
             name:"projectName",
             leader:"LeadersName",
-            date:"October 2021",        //date
+            date:"February 2021",        //date
             venue:"places",
             discription:"discrpt",
             category:"other"                    // vision / hunger / environment / diabetes / childCare / other ;
