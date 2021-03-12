@@ -279,7 +279,7 @@
 
         </div>
 
-        <div class="row-fluid" style="margin-bottom:20px">
+        <<!-- div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
                 <img src="<?php echo base_url() ?>assets/contents/images/announcements/aarogya.jpeg">
             </div>
@@ -305,98 +305,8 @@
                     </b>
                 </p>
             </div>
-        </div>
+        </div> -->
 
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/boss_ladies.jpeg">
-            </div>
-            <div class="span4">
-                <p>
-                    It is with much delight to invite everyone for the astounding venture organized by Leo Club of University of Colombo exclusively for the young talented female entrepreneurs in Sri Lanka. <br>
-                    <br>
-                    Let's be the voice for those unheard voices to arouse their moral spirits to become a boss lady by building their own empire <br>
-                    <br>
-                    <br><b>
-                        #දියණී<br>
-                        #තුම්මුල්ලේ_සිංහයෝ<br>
-                        #UOC_Leos <br>
-                        #Leo_District_306_C1<br>
-                        #MD_306
-                    </b>
-                </p>
-            </div>
-        </div>
-
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/hit_the_surf.jpeg">
-            </div>
-            <div class="span4">
-                <p>
-                    <b>"It only takes a moment!"</b><br>
-                    <br>
-                    <b>HIT THE SURF!</b><br>
-                    <br>
-                    The drowning management and prevention session is conducted with the contribution of Sri Lanka Life Saving Association.<br>
-                    <a href="https://forms.gle/BHftbwXBm5JYnhhQ8">https://forms.gle/BHftbwXBm5JYnhhQ8</a><br>
-                    <br>
-                    All participants will be awarded with a <b>valuable certificate</b> acknowledging your fruitful participation. <br>
-                    See you there!<br>
-                    <br>
-                    <br><b> #Survival_3.0<br>
-                        #තුම්මුල්ලේ_සිංහයෝ <br>
-                        #UOC_Leos<br>
-                        #Leo_District_306_C1 <br>
-                        #MD_306<br>
-                    </b>
-                </p>
-            </div>
-        </div>
-
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/fire_safety_programme.jpeg">
-            </div>
-            <div class="span4">
-                <p>
-                    <b>Be caution deflect fire!</b><br>
-                    <br>
-                    A fire safety training programme is organized to raise the awareness of the workforce on the fire safety at workplace!<br>
-                    <br>
-                    Know Safety, No Pain!<br>
-                    <br>
-                    <br><b> #Survival_3.0<br>
-                        #තුම්මුල්ලේ_සිංහයෝ <br>
-                        #UOC_Leos<br>
-                        #Leo_District_306_C1 <br>
-                        #MD_306<br>
-                    </b>
-                </p>
-            </div>
-        </div>
-
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/Sneha_Yathra.jpeg">
-            </div>
-            <div class="span4">
-                <p>
-                    හෙට දිනයේ විකසිත වන මල් කැකුළුවලට සෙනෙහසෙ අරුත කියන්නට කොළඹ විශ්ව විද්‍යාලයීය ලියොවරුන්ගේ සමාජ මෙහෙවර!<br>
-                    <br>
-                    <b>ස්නේහ යාත්‍රා <br>
-                        සෙනෙහසේ අරුත කියන්නට !</b><br>
-                    <br>
-                    <br>
-                    <br><b> #Miles_of_Smiles_2.0<br>
-                        #තුම්මුල්ලේ_සිංහයෝ <br>
-                        #UOC_Leos<br>
-                        #Leo_District_306_C1 <br>
-                        #MD_306<br>
-                    </b>
-                </p>
-            </div>
-        </div>
 
         <!-- <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
@@ -439,110 +349,6 @@
         </div>
 
         <!-- these are from 2020 -->
-
-        <h2 id="Niwarana" style="margin-bottom:20px;margin-top:40px;text-align:center">නිවාරණ</h2>
-
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/recents/Niwarana_Final.jpeg">
-            </div>
-            <div class="span4">
-                <p style="font-size: larger;">
-                    හෙට රාත්‍රී 7ට ඔබත් එක්වන්න<br>
-                    මතින් නිදහස් - සෞභාග්‍යමත් දේශයක් බිහිකිරීමෙහිලා කොළඹ විශ්වවිද්‍යාලීය ලියෝ සමාජයේ අප දරණ වෑයමේ දෙවන පියවර ලෙස,<br>
-                    <br>
-                    හරවත් අධ්‍යාපනයක් තුළින් මත්ද්‍රව්‍යවලට එරෙහි ආකල්ප සමාජය තුල බිහි කිරීමේ කාලීන වැඩසටහන සමඟ එක්වන්න.<br>
-                    <br>
-                    <a style="color: #fece1a;" href="https://forms.gle/KafDRdQX3CYz2fby9">https://forms.gle/KafDRdQX3CYz2fby9 <br></a>
-                    <br>
-                    වගකිවයුතු ශ්‍රී ලාංකිකයින් වශයෙන් ඔබ-අප සැමගේ වගකීම නිසි ලෙස ඉටුකරමු. <br>
-                    <br>
-                    <b> #සුවදානම<br>
-                        #UOC_Leos<br>
-                        #Leo_District_306_C1<br>
-                        #MD_306
-                    </b>
-                </p>
-            </div>
-        </div>
-
-        <h2 id="be_Their_Vision" style="margin-bottom:20px;margin-top:40px;text-align:center">Be Their Vision</h2>
-
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/recents/be_Their_Vision_2.jpeg">
-            </div>
-            <div class="span4">
-                <p style="font-size: larger;">
-                    ඔබේ නෙත් වලින් තවත් කෙනෙකුට ආලෝකයක් වන්නට ඔබත් කැමතිද? <br>
-                    <br>
-                    ඇස් හා පටක දන් දීම, ජීවිතය දන්දීමට පමණක් දෙවැනි වන බව ඔබ දැනසිටියාද?<br>
-                    <br>
-                    ඔබෙන් මතුවට ඔබේ දෙනුවන් තුලින් තවත් ජීවිතයක් ජීවත් කරවන...<br>
-                    ඒ උතුම් පුණ්‍ය ක්‍රියාවට ඔබත් දායක වන්න... <br>
-                    <br>
-                    <a style="color: #fece1a; " href="https://docs.google.com/forms/d/e/1FAIpQLSfKWrYK6qdW45XJNmtIQZZBb_xrsp6HxqVmi_6_bsGHLIrH_g/viewform?usp=sf_link">මෙම ගූගල් පෝරමය හරහා <br></a> <br>
-                    ඔබත් අදම <b>Be Their Vision 5.0</b> දෙවන පියවර සමග අත්වැල් බැඳගන්න.... <br>
-                    <br>
-                    <b> #Be_Their_Vision_5.0<br>
-                        #තුම්මුල්ලේ_සිංහයෝ <br>
-                        #UOC_Leos<br>
-                        #Leo_District_306_C1<br>
-                        #MD_306
-                    </b>
-                </p>
-            </div>
-        </div>Elation_2021
-
-        <h2 id="Elation_2021" style="margin-bottom:20px;margin-top:40px;text-align:center">Elation 2021</h2>
-
-        <div class="row-fluid" style="margin-bottom:20px">
-            <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/recents/Elation_2021.jpeg">
-            </div>
-            <div class="span4">
-                <p style="font-size: larger;">
-                    Are you a talented dancer, singer and are you talented in any other field? Then get registered yourself to face the ultimate Competition of Talented Leos in Sri Lanka. <br>
-                    <br>
-                    <b>Elation 2021 </b> The place where you find the Spirit of Leos in Leo Multiple District 306!<br>
-                    <br>
-                    The biggest stage, the biggest audience and definitely the biggest memory that any Leo could wish for... <br>
-                    <br>
-                </p>
-                <a href="https://forms.gle/xYy2xTYxU5tzFhGJ9">
-                    <h3 style="text-align: center;"> <span>R E G I S T R A T I O N S <br> A R E <br> N O W <br> O P E N !!!</span> </h3>
-                </a>
-                <br>
-                <p>REGISTER YOURSELF BEFORE 15TH OF FEBRUARY 2020 <br>
-                    <br>
-                    Categories are as follows :
-                </p>
-                <ol>
-                    <li>Singing</li>
-                    <li>Dancing</li>
-                    <li>Other</li>
-                </ol>
-                <p>
-                    <br>
-                    It's permitted to participate individually or as groups but make sure that everyone is a Leo. <br>
-                    <br>
-                    For more details, Contact :-
-                </p>
-                <ul>
-                    <li>Project Chairman - Leo Lalanka Samarakoon 0711598059</li>
-                    <li>Project Secretary - Leo Ravindi Bowatte 0752057289</li>
-                    <li>Project Treasurer - Leo Bimsara Dimal 0750332327</li>
-                </ul>
-                <p>
-                    <b> #Elation2021<br>
-                        #LeoMultipleDistrict306 <br>
-                        #ItsThatTimeOfTheYear<br>
-                        #StepForward<br>
-                        #PreliminaryRound
-                    </b>
-                </p>
-            </div>
-        </div>
 
         <h2 id="Ape_Hadagasma" style="margin-bottom:20px;margin-top:40px;text-align:center">අපේ හදගැස්ම</h2>
 
