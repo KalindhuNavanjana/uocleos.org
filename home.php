@@ -279,25 +279,20 @@
 
         </div>
 
-        <<!-- div class="row-fluid" style="margin-bottom:20px">
+        <!-- <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/aarogya.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/announcements/suwadanama_6.jpeg">
             </div>
             <div class="span4">
                 <p>
-                    කොරෝනා නතර කල ජිවිත..! <br>
-                    නතර කල තැනින් එතෙර කර දිරිය හිත් වලට අපේක්ෂාව රැගෙන.<br>
-                    සහෝදරත්වයේ දැත් දිගු කිරිමට ලියෝ සමාජීය අපි සුදනම්... <br>
+                    කොරෝනා අවදානම අභියස ඔබේ සුරක්ෂිතභාවය <br>
+                    අප අවට පරිසරයෙහි පවිත්‍රතාවයට වෙනුවෙන්,<br>
+                    සිය ආරක්ෂාව නොතකා අප වෙනුවෙන් වගකීම් ඉටුකරනා ඔවුන්ගේ ජීවිත අවදානමට පෙර... <br>
                     <br>
-                    ආරෝග්‍යා පළමු පියවර ... <br>
-                    <br>
-                    පෙබරවාරි 09 <br>
-                    උදෑසන10.00 <br>
-                    උතුරු කොළඹ ශික්ෂණ රෝහල-රාගම<br>
-                    <br>
+
                     <br>
                     <br><b>
-                        #ආරෝග්‍යා<br>
+                        #සුවදානම<br>
                         #තුම්මුල්ලේ_සිංහයෝ<br>
                         #UOC_Leos <br>
                         #Leo_District_306_C1<br>

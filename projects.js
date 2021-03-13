@@ -258,10 +258,18 @@
             category:"other"                   
         },
         {
+            name:"Survival 3.0",
+            leader:"Leo Gayan Lakshitha",
+            date:"January and & February 2021",        //?
+            venue:"Phase 01 - Via Zoom Platform and Facebook, <br>Phase 02- At Mount Lavinia Beach Phase 03 - Shakthi Industries, Homagama",
+            discription:"Survival 3.0 is a consecutive project comprised of three phases categorized under Disaster Management and Prevention. As the first phase, an online webinar was conducted on “how to manage and prevent the natural disaster?”. A training program on drowning management and prevention: Hit the Surf was conducted at Mount Lavinia Beach as the second phase. As the final phase, a fire safety program was conducted for the employees of Shakthi Industries, Homagama.",
+            category:"other"                    // vision / hunger / environment / diabetes / childCare / other ;
+        },
+        {
             name:"Miles of Smiles 2.0",
             leader:"Leo Kaushalya Sandarangi",
             date:"February 2021",        //?
-            venue:"Phase 01-At Sri Sangamitta Child Development Center,Pamamkada.Phase 02-At Lady Ridgeway Hospital,Colombo 08",
+            venue:"Phase 01-At Sri Sangamitta Child Development Center,Pamankada.Phase 02-At Lady Ridgeway Hospital,Colombo 08",
             discription:"''Miles of Smiles 2.0'' is a project comprised of two phases categorized as ''Spotlight on Children.'' As the first phase, a spent a day was conducted at Sri Sangamitta Child Development  Center, Pamankada.As the second phase of the project, necessary materials were donated to the Lady Ridgeway Hospital for children in the premature infant unit, Colombo 08.",
             category:"other"                    // Spotlight on Children
         }
