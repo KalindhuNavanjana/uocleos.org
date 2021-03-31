@@ -280,6 +280,14 @@
             venue:"1st phase - Zoom platform , 2nd phase - Udappuwa lagoon , 3rd phase - Social media",
             discription:"Project “Sidu Nala Raksha” which is organized under the category of ''Wildlife and Life below water'' by Leo Club of the University of Colombo was conducted for the fourth consecutive time in the Leostic year of 20/21 with three phases as an effort to put an end to increasing environmental pollution in order to give quality of life and sustainable future to next generations.<br>As the world needs to pay attention on wildlife and environmental conservation more than ever before, we hope this project was very productive to create a great positive impact towards the society.<br>The first phase was implemented as an online awareness session on Marine life conservation and the second phase was implemented as a Mangrove plantation program at Udappuwa lagoon. For the final phase a Wildlife Photography Competition was conducted to increase the awareness on Wildlife conservation and their importance.",
             category:"other"                    // Wildlife and Life below water
+        },
+        {
+            name:"Sahurda Yathra 2.0",
+            leader:"Leo Milhan Isar",
+            date:"From January 2021 to March 2021",        //date
+            venue:"1st Phase - Youtube platform, 2nd Phase - Sujatha Elder's Home in Kalutara North, 3rd Phase - Sri Lanka Army Volunteer Force in Kosgama",
+            discription:"Sahurda Yathra 2.0 is the project under the category of helping hand to differently-abled, consisting of three phases with the prime purpose of encouraging people with disabilities to start their own business or a job to improve their living standards and to improve their physical and mental health. <br>As the first phase we conducted a series of videos via YouTube platform, including four episodes and as the second phase we conducted a medical check-up program for physically, mentally and sensory disabled people who lives in Sujatha Elder's Home, Kalutara North. For the final phase we attended a ceremony to provide essentials to uplift the living standards of our dependent war heroes at Sri Lanka Army Volunteer Force in Kosgama.",
+            category:"other"                    // Helping Hand to Differently Abled;
         }
 
 
