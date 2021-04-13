@@ -288,6 +288,46 @@
             venue:"1st Phase - Youtube platform, 2nd Phase - Sujatha Elder's Home in Kalutara North, 3rd Phase - Sri Lanka Army Volunteer Force in Kosgama",
             discription:"Sahurda Yathra 2.0 is the project under the category of helping hand to differently-abled, consisting of three phases with the prime purpose of encouraging people with disabilities to start their own business or a job to improve their living standards and to improve their physical and mental health. <br>As the first phase we conducted a series of videos via YouTube platform, including four episodes and as the second phase we conducted a medical check-up program for physically, mentally and sensory disabled people who lives in Sujatha Elder's Home, Kalutara North. For the final phase we attended a ceremony to provide essentials to uplift the living standards of our dependent war heroes at Sri Lanka Army Volunteer Force in Kosgama.",
             category:"other"                    // Helping Hand to Differently Abled;
+        },
+        {
+            name:"One Drop 3.0",
+            leader:"Leo Akash Malinda",
+            date:"From January 2021 to March 2021",        //date
+            venue:"Phase 01 - Through YouTube platform <br> Phase 02 - At Vijayaraja Junior school in Puttalam District <br> Phase 03 - At Dangass Wewa,Padaviya Wewa,Pahaiya Wewa",
+            discription:"One Drop 3.0 is a consecutive project comprised of three phases categorized under Clean Water and Energy Conservation. As the first phase, awareness documentary on Clean Water and Energy Conservation was published through our YouTube platform. As the second phase, purified water system was established for Vijayaraja junior school  in Puttalam District.As the final phase, Kumbuk saplings were planted  along the river banks of three different areas within Sri Lanka.",
+            category:"other"                    // Clean Water and Energy Conservation 
+        },
+        {
+            name:"කෘතගුණ 3.0",
+            leader:"Leo Ama Thisaruni Sabihela",
+            date:"From December 2020 to March 2021",        //23/03/2021
+            venue:"1st phase- Bopitiya elder homes,Marassna <br> 2nd phase-  retirement planning via zoom platform <br> 3rd phase- kurunagala wasana elder home",
+            discription:`"Kruthaguna" the project under Senior Citizen Development is primarily focused on developing the livelihood of senior citizen of Sri Lanka with the aim of enabling them to continue being an integral part of our community. As the first phase we donated dry foods, immunization medicines,and a wheelchair  to Marassana, Bopitaya elder home. As the second phase we conducted a wealth management programme via Zoom platform with the help of AIA Insurance Lanka Ltd. Final phase  we donated Buddha's statue, a retainer of the statue and a wheelchair to Kurunegala, Wasana elder home.`,
+            category:"other"                    // Senior citizens 
+        },
+        {
+            name:"Niwarana",
+            leader:"Leo Madushika Samarakoon",
+            date:"From December 2020 to March 2021",        //date
+            venue:"Phase 01 –Online platform <br> Phase 02 – Zoom and Facebook live to stream <br> Phase 03 – Around Kandy, Galle, Peradeniya",
+            discription:"The project Niwarana was implemented under the category Drug of Prevention and Rehabilitation by Leo Club of University of Colombo in the Leostic year 2020/21. <br>As the first phase of the project Niwarana was conducted under a Scriptwriting competition for the Overall general public including children, youngsters, and adults, from 03rd of December to 15th of December 2020.<br>As the second phase of the project Niwarana, an awareness program was conducted under two platforms. The program was conducting an awareness program via Zoom, Facebook lives streaming on the 14th of February 2021 from 7 PM to 8 PM. The awareness program was conducted by Mr Kavindu Ganegama who works as a Co-Founder, Project coordinator of Youth Action Network Sri Lanka. <br>The third phase of the project NIWARANA was holding a sticker campaign in public transportation intending to eliminate the general public from drugs and alcohol by giving an erudite message. It was held on the 14th of March. ",
+            category:"other"                    // Drug Prevention and Rehabilitation
+        },
+        {
+            name:"Be their vision 5.0",
+            leader:"Leo Anuradha Sampath",
+            date:"From January 2021 to February 2021",        //date
+            venue:"Phase 1 - Zoom Cloud Meetings and Facebook live <br> Phase 2 - Google Forms",                // <br>
+            discription:"The project ‘Be Their Vision 5.0’ is undertaken by the Leo Club of University of Colombo under the category of Vision for the Leostic year 2020/21 continuously for the fifth time. The project was introduced while mainly focusing on defeating one of the most common issues in the global context; which is eye impairment among any age group of the society. The necessary steps of the project was implemented under two phases as an eye health.",
+            category:"vision"                   
+        },
+        {
+            name:"Elation 2021",
+            leader:"Leo Lalanka Samarakoon ",
+            date:"From February 2021 to April 2021",        //Preliminary round: 21st February 2021 &  Finals:4th April 2021
+            venue:"Preliminary round: Leos Home & Lions Activity Centre – Colombo 07  <br> Finals: NADA Auditorium.",                // <br>
+            discription:`Elation; “The largest Talent Hunt” in the history of Leo Multiple 306 Sri Lanka was held for the 3rd consecutive time. Opening for all the Leos in Sri Lanka, Elation provides the necessary platform to showcase the own hidden talents of the artistic Leos. As an initiating concept of Leo Club of University of Colombo 306 C1, Elation gave a brand-new definition to talent platforms organized throughout the Leo Multiple District 306 by joining hands with several other high performing clubs within the country.`,
+            category:"other"                    // Joint Inter-District Project
         }
 
 
@@ -299,8 +339,8 @@
             name:"projectName",
             leader:"LeadersName",
             date:"February 2021",        //date
-            venue:"places",
-            discription:"discrpt",
+            venue:`places`,                // <br>
+            discription:`discrpt`,
             category:"other"                    // vision / hunger / environment / diabetes / childCare / other ;
         }
 
