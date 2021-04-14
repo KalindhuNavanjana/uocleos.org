@@ -328,6 +328,14 @@
             venue:"Preliminary round: Leos Home & Lions Activity Centre – Colombo 07  <br> Finals: NADA Auditorium.",                // <br>
             discription:`Elation; “The largest Talent Hunt” in the history of Leo Multiple 306 Sri Lanka was held for the 3rd consecutive time. Opening for all the Leos in Sri Lanka, Elation provides the necessary platform to showcase the own hidden talents of the artistic Leos. As an initiating concept of Leo Club of University of Colombo 306 C1, Elation gave a brand-new definition to talent platforms organized throughout the Leo Multiple District 306 by joining hands with several other high performing clubs within the country.`,
             category:"other"                    // Joint Inter-District Project
+        },
+        {
+            name:"Suraki Hetak 4.0",
+            leader:"Leo Dinendrika Sewwandi",
+            date:"From January 2021 to April 2021",        //date
+            venue:`1st phase - YouTube platform <br>2nd phase-Stage 01:Kureekotuwa Junior School, Veyangoda <br>2nd phase-Stage 02:Kumbaloluwa junction and Ilukhena junction <br>3rd phase- zoom application`,                // <br>
+            discription:`Suraki Hetak 4.0 is under the category of crime and accident prevention awareness consisting three phases. The first phase was a video series through YouTube that covered five accident types. The second phase was consisted two stages including a road signs painting program and an accidents warning board installation. Third phase were a virtual awareness program and a research under the theme of legal background for cybercrimes. overall goal was building a safer environment for all individuals.`,
+            category:"other"                    // Crime and Accidents prevention awareness
         }
 
 
