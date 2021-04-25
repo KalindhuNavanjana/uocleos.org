@@ -336,6 +336,14 @@
             venue:`1st phase - YouTube platform <br>2nd phase-Stage 01:Kureekotuwa Junior School, Veyangoda <br>2nd phase-Stage 02:Kumbaloluwa junction and Ilukhena junction <br>3rd phase- zoom application`,                // <br>
             discription:`Suraki Hetak 4.0 is under the category of crime and accident prevention awareness consisting three phases. The first phase was a video series through YouTube that covered five accident types. The second phase was consisted two stages including a road signs painting program and an accidents warning board installation. Third phase were a virtual awareness program and a research under the theme of legal background for cybercrimes. overall goal was building a safer environment for all individuals.`,
             category:"other"                    // Crime and Accidents prevention awareness
+        },
+        {
+            name:"Plant a Hope 3.0",
+            leader:"Leo Chanaka Wickramasinghe",
+            date:"April 2021",        //22
+            venue:`Hanthana Reservation Area`,                // <br>
+            discription:`Leo Club of University of Colombo initiated the project “Plant a Hope 3.0” for the third consecutive time under project category of “Environment” for leostic year 2020/2021. Plant a Hope 3.0 is a project that we are working on increasing the Earth's green cover.<br>Plant a Hope 3.0 was released on 22nd of April 2021at  Hanthana reservation area from 8.00 a.m. onwards  with the intention of making the planet greener. We collaborated with five societies of university of Peradeniya.`,
+            category:"environment"                    
         }
 
 
