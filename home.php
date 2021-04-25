@@ -1,3 +1,4 @@
+<div id="container"></div>
 <!-- Start home section -->
 
 <div id="home">
