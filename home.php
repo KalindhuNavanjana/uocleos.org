@@ -282,19 +282,22 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/Diabcure_0.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/announcements/Plant a Hope_3.0.jpeg">
             </div>
             <div class="span4">
                 <p style="color: #181A1C;">
-                    <b>First phase of project Diabcure 3.0 takes place which helps to make a platform for the elders to aware about their health status by checking their sugar and blood pressure levels. The main purpose of this phase is to identify the diabetic patients among the elders who do not have their childrens' love and affection.</b>  <br>
+                    <b>Plant a Hope 3.0 will be launched on 22nd of April, 2021 at 8.00 A.M. onwards in Hanthana Reservation Area, in collaboration with five societies of University of Peradeniya. 🌱💚</b>  <br>
                     <br>
-                    ⭕Date - 10th April 2021<br>
-                    ⭕Venue - Mayura Elders' Home Mathugama<br>
-                    ⭕Time - 8.30 a.m onwards<br>
+                    🔹Hanthana Conservation Society<br>
+                    🔹Green Heart Society<br>
+                    🔹Rotaract Club of University of Peradeniya<br>
+                    🔹Explorer's Club<br>
+                    🔹Agriculture Faculty Forestry Society<br>
+                    will join hands with the Leo Club of University of Colombo to decorate the Earth with more trees.🌳<br>
                     <br>
                     <br>
                     <strong>
-                        #Diabcure 3.0<br>
+                        #Plant a Hope_3.0<br>
                         #තුම්මුල්ලේ_සිංහයෝ<br>
                         #UOC_Leos <br>
                         #Leo_District_306_C1<br>
