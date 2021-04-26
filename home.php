@@ -282,22 +282,20 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/Plant a Hope_3.0.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/announcements/The_Elicit.jpeg">
             </div>
             <div class="span4">
                 <p style="color: #181A1C;">
-                    <b>Plant a Hope 3.0 will be launched on 22nd of April, 2021 at 8.00 A.M. onwards in Hanthana Reservation Area, in collaboration with five societies of University of Peradeniya. 🌱💚</b>  <br>
+                    <b>We, Leo Club of University of Colombo is initiating a research on the topic " Issues Regarding health and well being in Sri Lanka  ". We would like to request your valuable contribution by filling the below form .</b><br>
                     <br>
-                    🔹Hanthana Conservation Society<br>
-                    🔹Green Heart Society<br>
-                    🔹Rotaract Club of University of Peradeniya<br>
-                    🔹Explorer's Club<br>
-                    🔹Agriculture Faculty Forestry Society<br>
-                    will join hands with the Leo Club of University of Colombo to decorate the Earth with more trees.🌳<br>
+                    <a href="https://docs.google.com/forms/d/1_kWEChmzfCBlrYP_7osLnnNgOo-OA6iz6_0A4sgjAV8/edit">https://docs.google.com/forms</a>
+                    <br>
+                    <br>
+                    Further, the information provided by the participants is confidential and used only for the research purpose.<br>
                     <br>
                     <br>
                     <strong>
-                        #Plant a Hope_3.0<br>
+                        #The_Elicit<br>
                         #තුම්මුල්ලේ_සිංහයෝ<br>
                         #UOC_Leos <br>
                         #Leo_District_306_C1<br>
