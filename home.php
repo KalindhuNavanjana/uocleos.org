@@ -282,32 +282,25 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/wisandamu_2.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/announcements/Lead_C1.jpeg">
             </div>
             <div class="span4">
-                <p>
-                    <b>අතිශයින්ම යුක්තිය උදෙසායි ⚖️🖤</b> <br>
+                <p style="color: #181A1C;">
+                    <b>English Gate</b>  <br>
                     <br>
-                    ⭕ දීපව්‍යාප්තව බෙදාහරිනු ලැබූ විද්‍යුත් තොරතුරු පත්‍රිකා  හරහා  එක්රැස් කරගත් ඔබගේ නෛතික ගැටළු සඳහා රජයේ නීතීඥවරුන් ප්‍රමුඛ ශ්‍රී ලංකා නීති ආධාර කොමිෂන් සභාව<br>
-                    🛑 විසඳුම් ලබා දීමට සූදානම් <br>
+                    Session 2<br>
                     <br>
-                    ⭕ නිසි නීති උපදෙස් ලබා ගනිමින් යුක්තිය සහ සාධාරණත්වය  ඉටු කර ගනිමු.<br>
+                    We have organized a four month English Scholarship Program for a group of after O/L students📝<br>
                     <br>
-                    👉2021/04/23 දින <br>
-                    👉ප.ව 2.30 සිට<br>
+                    It’s a great opportunity where students can enhance their English Knowledge in different areas<br>
                     <br>
-                    🛑 ශ්‍රී ලංකා නීතී ආධාර කොමිෂන් සභාවේ සහ රජයේ නීතී නිලධාරීන්ගේ ප්‍රධානත්වයෙන් සජීවීව පැවැත්වේ.<br>
+                    Additionally Career Guidance and Team Building session also will be conducted tomorrow to enhance skills such as communication, team building, personality development of students<br>
                     <br>
-                    ⭕ අනුග්‍රහය,<br>
-                    <i>විසඳමු 2021 කමිටුව සහ<br>
-                    ශ්‍රී ලංකා නීතී ආධාර කොමිෂන් සභාව <br>
-                    </i>
-                    <br>
-                    <b>විසඳමු 2021 ♥️⚖️</b>
+                    So we invite you to be a part of this program<br>
                     <br>
                     <br>
                     <strong>
-                        #විසඳමු<br>
+                        #Lead_C1_2021<br>
                         #තුම්මුල්ලේ_සිංහයෝ<br>
                         #UOC_Leos <br>
                         #Leo_District_306_C1<br>
