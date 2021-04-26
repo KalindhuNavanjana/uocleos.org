@@ -282,17 +282,15 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/DiabCure_2.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/announcements/Diabcure_0.jpeg">
             </div>
             <div class="span4">
                 <p style="color: #181A1C;">
-                    <b>Second phase of the project "Diabcure 3.0" takes place for Advanced Level students who are considered as more vulnerable group for diabetes. The main purpose of this phase is to make aware the youth group in order to prevent them from diabetes which will be helpful for them to lead a healthy life.</b>  <br>
+                    <b>First phase of project Diabcure 3.0 takes place which helps to make a platform for the elders to aware about their health status by checking their sugar and blood pressure levels. The main purpose of this phase is to identify the diabetic patients among the elders who do not have their childrens' love and affection.</b>  <br>
                     <br>
-                    23rd April 2021<br>
-                    10.00 a.m. onwards<br>
-                    Nawuththuduwa M.V., Nawuththuduwa<br>
-                    <br>
-                    We kindly invite you to be with us in this event to make it a success.<br>
+                    ⭕Date - 10th April 2021<br>
+                    ⭕Venue - Mayura Elders' Home Mathugama<br>
+                    ⭕Time - 8.30 a.m onwards<br>
                     <br>
                     <br>
                     <strong>
