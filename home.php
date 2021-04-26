@@ -282,15 +282,17 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/DiabCure_1.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/announcements/DiabCure_2.jpeg">
             </div>
             <div class="span4">
                 <p style="color: #181A1C;">
-                    <b>Second programme of phase 1 of project Diabcure 3.0 takes place for selected parents from low income families who do not have much concern about their health. The main purpose of this programme is to identify diabetic patients among the selected community by checking the sugar and blood pressure levels along with the BMI. </b>  <br>
+                    <b>Second phase of the project "Diabcure 3.0" takes place for Advanced Level students who are considered as more vulnerable group for diabetes. The main purpose of this phase is to make aware the youth group in order to prevent them from diabetes which will be helpful for them to lead a healthy life.</b>  <br>
                     <br>
-                    21st April 2021<br>
-                    9.00 a.m. onwards<br>
-                    Saralankaratissa K.V., Indigasthuduwa<br>
+                    23rd April 2021<br>
+                    10.00 a.m. onwards<br>
+                    Nawuththuduwa M.V., Nawuththuduwa<br>
+                    <br>
+                    We kindly invite you to be with us in this event to make it a success.<br>
                     <br>
                     <br>
                     <strong>
