@@ -282,25 +282,19 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/Lead_C1.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/announcements/DiabCure_1.jpeg">
             </div>
             <div class="span4">
                 <p style="color: #181A1C;">
-                    <b>English Gate</b>  <br>
+                    <b>Second programme of phase 1 of project Diabcure 3.0 takes place for selected parents from low income families who do not have much concern about their health. The main purpose of this programme is to identify diabetic patients among the selected community by checking the sugar and blood pressure levels along with the BMI. </b>  <br>
                     <br>
-                    Session 2<br>
-                    <br>
-                    We have organized a four month English Scholarship Program for a group of after O/L students📝<br>
-                    <br>
-                    It’s a great opportunity where students can enhance their English Knowledge in different areas<br>
-                    <br>
-                    Additionally Career Guidance and Team Building session also will be conducted tomorrow to enhance skills such as communication, team building, personality development of students<br>
-                    <br>
-                    So we invite you to be a part of this program<br>
+                    21st April 2021<br>
+                    9.00 a.m. onwards<br>
+                    Saralankaratissa K.V., Indigasthuduwa<br>
                     <br>
                     <br>
                     <strong>
-                        #Lead_C1_2021<br>
+                        #Diabcure 3.0<br>
                         #තුම්මුල්ලේ_සිංහයෝ<br>
                         #UOC_Leos <br>
                         #Leo_District_306_C1<br>
