@@ -282,20 +282,25 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/The_Elicit.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/announcements/Lead_C1_2.jpeg">
             </div>
             <div class="span4">
                 <p style="color: #181A1C;">
-                    <b>We, Leo Club of University of Colombo is initiating a research on the topic " Issues Regarding health and well being in Sri Lanka  ". We would like to request your valuable contribution by filling the below form .</b><br>
+                    <b>Absolute Adventures Outbound Training Program</b><br>
                     <br>
-                    <a href="https://docs.google.com/forms/d/1_kWEChmzfCBlrYP_7osLnnNgOo-OA6iz6_0A4sgjAV8/edit">https://docs.google.com/forms</a>
+                    This is the opportunity for all adventurous and enthusiastic Leos and Non-Leos who are striving for a change in your monotonous life to take part in a thrilling and exciting adventure program✨<br>
                     <br>
+                    It focus on leadership development, team bonding, creativity and much more through a variety of training and adventure leisure activities<br>
                     <br>
-                    Further, the information provided by the participants is confidential and used only for the research purpose.<br>
+                    You will be receiving a special package inclusive of lunch and beverages. Traveling is free of charge<br>
+                    <br>
+                    <a href="https://forms.gle/mvsbcPhoc7t9wYK37">Click here to get registered today and grab the chance of gaining a memorable experience!✨</a><br>
+                    <br>
+                    Join with us to Evoke your true potentials✨♥️<br>
                     <br>
                     <br>
                     <strong>
-                        #The_Elicit<br>
+                        #Lead_C1<br>
                         #තුම්මුල්ලේ_සිංහයෝ<br>
                         #UOC_Leos <br>
                         #Leo_District_306_C1<br>
