@@ -282,25 +282,25 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/Lead_C1_2.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/announcements/Alert_2.jpeg">
             </div>
             <div class="span4">
                 <p style="color: #181A1C;">
-                    <b>Absolute Adventures Outbound Training Program</b><br>
+                    <b>මහරගම අපේක්ෂා රෝහලේ පුංචි හදවත් වල ඉක්මන් සුවය වෙනුවෙන් ඔවුන්ට ඉතාමත් අත්‍යාවශ්‍ය වන බෙහෙත් වර්ගයක් පරිත්‍යාග කිරීම..</b><br>
                     <br>
-                    This is the opportunity for all adventurous and enthusiastic Leos and Non-Leos who are striving for a change in your monotonous life to take part in a thrilling and exciting adventure program✨<br>
+                    🛑"අපේක්ෂා" දෙවන අදියර, <br>
                     <br>
-                    It focus on leadership development, team bonding, creativity and much more through a variety of training and adventure leisure activities<br>
+                    2021/04/27 <br>
+                    මහරගම අපේක්ෂා රෝහල <br>
+                    පෙ.ව. 10.00<br>
                     <br>
-                    You will be receiving a special package inclusive of lunch and beverages. Traveling is free of charge<br>
+                    හෙට අපෙත් ඔබෙත් සෙනෙහස අරගෙන අපි යනවා ඔවුන් සතුටු කරන්න<br>
                     <br>
-                    <a href="https://forms.gle/mvsbcPhoc7t9wYK37">Click here to get registered today and grab the chance of gaining a memorable experience!✨</a><br>
-                    <br>
-                    Join with us to Evoke your true potentials✨♥️<br>
+                    තවද, රටේ පවතින අයහපත් තත්වය නිසාවෙන් මෙම කටයුත්ත සදහා ඉතා සුලු පිරිසකට පමණක් සහභාගි වීමට අවසර ලැබී ඇති බව කරුණාවෙන් සළකන්න.<br>
                     <br>
                     <br>
                     <strong>
-                        #Lead_C1<br>
+                        #Alert_4.0<br>
                         #තුම්මුල්ලේ_සිංහයෝ<br>
                         #UOC_Leos <br>
                         #Leo_District_306_C1<br>
