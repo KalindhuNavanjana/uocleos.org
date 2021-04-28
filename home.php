@@ -282,25 +282,24 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/Alert_2.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/announcements/DiabCure_4.jpeg">
             </div>
             <div class="span4">
                 <p style="color: #181A1C;">
-                    <b>මහරගම අපේක්ෂා රෝහලේ පුංචි හදවත් වල ඉක්මන් සුවය වෙනුවෙන් ඔවුන්ට ඉතාමත් අත්‍යාවශ්‍ය වන බෙහෙත් වර්ගයක් පරිත්‍යාග කිරීම..</b><br>
+                    <b>Third phase of the project "Diabcure 3.0" takes place for diabetic patients who take daily insulin therapy. The main purpose of this phase is to distribute the insulin carriers for the type 1 and type 2 diabetic patients which can be used to make a proper way to carry their daily insulin treatments.</b><br>
                     <br>
-                    🛑"අපේක්ෂා" දෙවන අදියර, <br>
+                    28th April 2021<br>
+                    8.00 a.m. onwards<br>
+                    Katugahahena Hospital, Katugahahena.<br>
                     <br>
-                    2021/04/27 <br>
-                    මහරගම අපේක්ෂා රෝහල <br>
-                    පෙ.ව. 10.00<br>
+                    12.00 p.m. onwards<br>
+                    Waththawa Hospital, Mathugama<br>
                     <br>
-                    හෙට අපෙත් ඔබෙත් සෙනෙහස අරගෙන අපි යනවා ඔවුන් සතුටු කරන්න<br>
-                    <br>
-                    තවද, රටේ පවතින අයහපත් තත්වය නිසාවෙන් මෙම කටයුත්ත සදහා ඉතා සුලු පිරිසකට පමණක් සහභාගි වීමට අවසර ලැබී ඇති බව කරුණාවෙන් සළකන්න.<br>
+                    We kindly invite you to be with us in this event to make it a success. <br>
                     <br>
                     <br>
                     <strong>
-                        #Alert_4.0<br>
+                        #Diabcure_3.0<br>
                         #තුම්මුල්ලේ_සිංහයෝ<br>
                         #UOC_Leos <br>
                         #Leo_District_306_C1<br>
