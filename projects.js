@@ -344,6 +344,22 @@
             venue:`Hanthana Reservation Area`,                // <br>
             discription:`Leo Club of University of Colombo initiated the project “Plant a Hope 3.0” for the third consecutive time under project category of “Environment” for leostic year 2020/2021. Plant a Hope 3.0 is a project that we are working on increasing the Earth's green cover.<br>Plant a Hope 3.0 was released on 22nd of April 2021at  Hanthana reservation area from 8.00 a.m. onwards  with the intention of making the planet greener. We collaborated with five societies of university of Peradeniya.`,
             category:"environment"                    
+        },
+        {
+            name:"Eco Clan 4.0",
+            leader:"Leo Dilshan Edirisinghe",
+            date:"January 2021 to April 2021",        //date
+            venue:`phase 1- Zoom meeting and Facebook live <br>Phase 2- Dirisaru Piyasa ,Bandaragama. Viharamahadevi Children house, Biyagama., Sri Punyawardanaramaya, Biyagama ., Sri Sucharitharamaya,Kandewaththa., Sri Darma Wijayaramaya, Gamahitiyawa.`,                // <br>
+            discription:`Eco clan 4.0 is the project under the catagory of Responsible consumption and Waste Management, Consisting of two phases . As the first phase we conducted a virtual discussion via zoom and Facebook, we were able to provide necessary education on irregular disposal of surgical waste & the effect of that. As the second phase of project ,we provided 10 waste disposble barrels for Temples and Childrenhouses in Biyagama and Bandaragama areas, with the aimed promotion of proper disposable methods.`,
+            category:"other"                    // Responsible Consumption and Waste Management 
+        },
+        {
+            name:"Lead C1",
+            leader:"Leo Semini Gunasekara",
+            date:"April 2021",        //date
+            venue:`Phase 01- Che Adventure park, Hanwella.<br>Phase 2 - New Montana Institute, Gampaha. <br>Phase 3- zoom cloud meetings.`,                // <br>
+            discription:`The project Lead C1 organized on behalf of the Leo District 306 C1 under the project category of Youth Empowerment. As the first phase an Outbound Training program was held  The Second phase was held on 2nd of April at New Montana institute of Gampaha which is four month English Scholarship program to group of after OLs studnets with skills development workshops. The third phase was held on 10 th of April through zoom application which is a webinar on Career Guidance and Employability skills.`,
+            category:"other"                    // Youth Empowerment 
         }
 
 
