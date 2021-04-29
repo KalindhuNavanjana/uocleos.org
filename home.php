@@ -282,24 +282,25 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/DiabCure_4.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/announcements/Lead_C1_3.jpeg">
             </div>
             <div class="span4">
                 <p style="color: #181A1C;">
-                    <b>Third phase of the project "Diabcure 3.0" takes place for diabetic patients who take daily insulin therapy. The main purpose of this phase is to distribute the insulin carriers for the type 1 and type 2 diabetic patients which can be used to make a proper way to carry their daily insulin treatments.</b><br>
+                    <b>Career Vision</b><br>
                     <br>
-                    28th April 2021<br>
-                    8.00 a.m. onwards<br>
-                    Katugahahena Hospital, Katugahahena.<br>
+                    As the 3rd phase of project Lead C1 we have organized a webinar on career guidance and employability skills in collaboration with *“Career Me” * Student Career Counselling Office. <br>
                     <br>
-                    12.00 p.m. onwards<br>
-                    Waththawa Hospital, Mathugama<br>
+                    All young Leos, non-Leos and students after ALs are invited!!!<br>
                     <br>
-                    We kindly invite you to be with us in this event to make it a success. <br>
+                    Here you will get a proper guidance to figure out the right career path and to move up in the career ladder.<br>
+                    <br>
+                    One to one consultancy will be also provided as an additional facility. <br>
+                    <br>
+                    Get register now through <a href="https://forms.gle/7ZKPvWANzKAcSWn79">this link</a><br>
                     <br>
                     <br>
                     <strong>
-                        #Diabcure_3.0<br>
+                        #Lead_C1_2021<br>
                         #තුම්මුල්ලේ_සිංහයෝ<br>
                         #UOC_Leos <br>
                         #Leo_District_306_C1<br>
