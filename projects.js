@@ -384,6 +384,22 @@
             venue:`1 Phase - Colombo North Teaching Hospital,Ragama <br>2nd phase-Specialized School for Boys Development and Home,Madiwela road,Nugegoda.`,                // <br>
             discription:`<b>Arogya</b> is a project which comes under the category of health and nutrition. Here we especially focus on the people that do not have sufficient resources which is necessary to protect and improve their health and safety.<br>As the 1st phase we donated medical equipments and face shields to the Colombo North Teaching Hospital, Ragama and as the second phase we were able to provide dry cereals and essential medicine to the Boys Development and Home,Nugegoda.`,
             category:"other"                    //Health and nutrition 
+        },
+        {
+            name:"DiabCure 3.0",
+            leader:"Leo Isuru Kalansooriya",
+            date:"April 2021",        //date
+            venue:`<b>1st Phase -</b> Mayura Elders' Home, Mathugama, Saralankara Thissa Vidyalaya, Indigasthuduwa,<br> <b>2nd Phase -</b> Nawuththuduwa M.V.,<br> <b>3rd Phase -</b> Divisional Hospital Katugahahena, District Hospital Mathugama`,                // <br>       <b></b>
+            discription:`Leo Club of University of Colombo conducted <b>Diabcure 3.0</b> for the third consecutive time under the project category <b>"Diabetes"</b>.<br>As the first phase, we conducted two diabetic checkups at the <i>Mayura Elders' Home</i> Mathugama, and <i>Saralankara Thissa Vidyalaya</i>, Indigasthuduwa. As second phase we conducted an awareness programme for A/L students at <i>Nawuththuduwa M.V.</i> As the 3rd phase, we distributed insulin carriers for diabetic patients at <i>Divisional Hospital Katugahahena</i>, District Hospital Mathugama. `,
+            category:"diabetes"       
+        },
+        {
+            name:"Diyani 4.0",
+            leader:"Thilini Madumali ",
+            date:" December 2020 to April 2021",        //date
+            venue:`<b>1st Phase -</b> via virtual platform <br><b>2nd Phase -</b> Community Education Centre in Malabe<br><b>3rd Phase -</b> Maariarawa Secondary School in Monaragala`,                // <br>          <b></b>
+            discription:`Project "Diyani" is one of the most outstanding projects organized by Leo Club of University of Colombo under the project category of women empowerment.<br>As the Leo movement goes beyond the acronym "LEO", we must contribute our best to the society. Accordingly, our sole responsibility must be formed upon to uplift the lives of those in need.<br>Thereby, we were able to successfully conclude the project "Diyani" under three phases with the intention of empowering women and girls across the world.`,
+            category:"other"                    // Women empowerment 
         }
 
 
@@ -395,7 +411,7 @@
             name:"projectName",
             leader:"LeadersName",
             date:"February 2021",        //date
-            venue:`places`,                // <br>
+            venue:`places`,                // <br>          <b></b>
             discription:`discrpt`,
             category:"other"                    // vision / hunger / environment / diabetes / childCare / other ;
         }
