@@ -360,10 +360,34 @@
             venue:`Phase 01- Che Adventure park, Hanwella.<br>Phase 2 - New Montana Institute, Gampaha. <br>Phase 3- zoom cloud meetings.`,                // <br>
             discription:`The project Lead C1 organized on behalf of the Leo District 306 C1 under the project category of Youth Empowerment. As the first phase an Outbound Training program was held  The Second phase was held on 2nd of April at New Montana institute of Gampaha which is four month English Scholarship program to group of after OLs studnets with skills development workshops. The third phase was held on 10 th of April through zoom application which is a webinar on Career Guidance and Employability skills.`,
             category:"other"                    // Youth Empowerment 
+        },
+        {
+            name:"විසඳමු 2021",
+            leader:"Leo Chanuka Pelpita",
+            date:"April 2021",        //2021.04.21 / 2021.04.23
+            venue:`Sri Lanka Legal aid commission `,                // <br>
+            discription:`1st phase - Awareness program about legal aid and legal aid commission of Sri Lanka.<br>2nd phase - First time in Sri Lanka we organized legal aid camp via online platform collaborate with sri Lanka legal aid commission `,
+            category:"other"                    // Joint project with an outside organization 
+        },
+        {
+            name:"Alert 4.0",
+            leader:"Leo Bhanuka Samarajeewa",
+            date:"December 2020 to April 2021",        //date
+            venue:`Maharagama Apeksha Hospital`,                // <br>
+            discription:`Project <b>Alert 4.0 ‘අපේක්ෂා’</b> is two phases project under the category of pediatric cancer with the objective of developing pain management system of children's ward of canser hospital.<br>As the first phase of project, we donate an essential medicine named EMLA which is never been available in that hospital and also a sound system for mental therapy and contribute to their one of special nourishments. In second phase we donate another essential medicines for the children ward.`,
+            category:"other"                    // Pediatric Cancer
+        },
+        {
+            name:"Arogya",
+            leader:"Leo Supun Dilshan",
+            date:"February 2021 to February 2021",        //1 Phase- 09th of February 2021      2nd Phase -18th of April 2021
+            venue:`1 Phase - Colombo North Teaching Hospital,Ragama <br>2nd phase-Specialized School for Boys Development and Home,Madiwela road,Nugegoda.`,                // <br>
+            discription:`<b>Arogya</b> is a project which comes under the category of health and nutrition. Here we especially focus on the people that do not have sufficient resources which is necessary to protect and improve their health and safety.<br>As the 1st phase we donated medical equipments and face shields to the Colombo North Teaching Hospital, Ragama and as the second phase we were able to provide dry cereals and essential medicine to the Boys Development and Home,Nugegoda.`,
+            category:"other"                    //Health and nutrition 
         }
 
 
-
+        
         /*
         
         ,
