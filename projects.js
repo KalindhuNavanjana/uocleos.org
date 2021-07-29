@@ -400,6 +400,14 @@
             venue:`<b>1st Phase -</b> via virtual platform <br><b>2nd Phase -</b> Community Education Centre in Malabe<br><b>3rd Phase -</b> Maariarawa Secondary School in Monaragala`,                // <br>          <b></b>
             discription:`Project "Diyani" is one of the most outstanding projects organized by Leo Club of University of Colombo under the project category of women empowerment.<br>As the Leo movement goes beyond the acronym "LEO", we must contribute our best to the society. Accordingly, our sole responsibility must be formed upon to uplift the lives of those in need.<br>Thereby, we were able to successfully conclude the project "Diyani" under three phases with the intention of empowering women and girls across the world.`,
             category:"other"                    // Women empowerment 
+        },
+        {
+            name:"projectName",
+            leader:"LeadersName",
+            date:"February 2021",        //date
+            venue:`places`,                // <br>          <b></b>
+            discription:`The annual research project of Leo club of University of Colombo “The Elicit 2021” has successfully completed in the month of April under the topic “Issues regarding health and wellbeing in the Sri Lankan community”. A survey was conducted under the participation of more than 200 participants. At the end of the research project, the solutions and the recommendations are provided. `,
+            category:"other"                    // vision / hunger / environment / diabetes / childCare / other ;
         }
 
 

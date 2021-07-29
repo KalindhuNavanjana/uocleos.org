@@ -281,21 +281,25 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/announcements/eid_mubarak_2021.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/announcements/fathers day 2021.jpeg">
             </div>
             <div class="span4">
                 <p style="color: #181A1C;">
-                    <b>Eid Mubarak !!! ✨🌙 </b><br>
+                    <b>HAPPY FATHER'S DAY TO MY HERO.....!🧔🏻❤️ </b><br>
                     <br>
-                    Eid is a day to be grateful to Allah for all of his heavenly blessings on us and is finally here to grace us with happiness and prosperity.<br>
+                    In all the things I try to do
+                    I want to do them just like you 🥺❤️
+                    I'm watching every move you make
+                    And try to take each step you take.👨‍👧‍👦❤️<br>
                     <br>
-                    May this Eid bring joy and love to your heart and create all the opportunities of success for you !!!<br>
+                    Along the way I hope I’ll be half the amazing person you are;<br>
                     <br>
-                    Wishing You a Happy Eid!!!<br>
+                    Brave & smart with a heart full of unconditional love...<br>
+                    cause I love you❤️<br>
                     <br>
-                    <br>
+                    Thank you for everything you have done for our family.🌈✨ <br>
                     <strong>
-                        #Roar_of_Hearts<br>
+                        #Happy_Father's_Day<br>
                         #තුම්මුල්ලේ_සිංහයෝ<br>
                         #UOC_Leos <br>
                         #Leo_District_306_C1<br>
