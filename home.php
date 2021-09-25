@@ -279,7 +279,7 @@
 
         </div>
 
-        <div class="row-fluid" style="margin-bottom:20px">
+        <!-- <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
                 <img src="<?php echo base_url() ?>assets/contents/images/announcements/fathers day 2021.jpeg">
             </div>
@@ -303,7 +303,7 @@
                     </strong>
                 </p>
             </div>
-        </div>
+        </div> -->
 
 
         <!-- <div class="row-fluid" style="margin-bottom:20px">
@@ -352,24 +352,25 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/recents/hadagasma-2021.01.21.jpg">
+                <img src="<?php echo base_url() ?>assets/contents/images/recents/hadagasma-2021.09.22.jpeg">
             </div>
             <div class="span4">
                 <p style="font-size: larger;">
                     <b>
-                        විහිදමින් සිය අතුපතර<br>
-                        විසල් හිසට නොව හිතට සලසමින් සෙවණක් ...<br>
+                    "සොබාසිරි විඳගන්න - සොබාදම රකින්න"<br>
                     </b><br>
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ ඉරෝධා සංදීපනී<br>
-                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය(නීති පීඨය)</i><br>
+                        ලියෝ සුමීෂා ප්‍රනාන්දු<br>
+                        දෙවන වසර - තාක්ෂණික පීඨය<br>
+                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය</i><br>
                     <br>
                     <b> #අපේ_හදගැස්ම<br>
-                        #talenteduocleos<br>
-                        #UOC_Leos<br>
-                        #LeoDistrict306C1<br>
-                        #leomd306
+                    #talenteduocleos<br>
+                    #uocleos<br>
+                    #leosofc1<br>
+                    #leomd306<br>
+                    #lionsclubsinternational<br>
                     </b>
                 </p>
             </div>
