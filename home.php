@@ -357,7 +357,7 @@
             <div class="span4">
                 <p style="font-size: larger;">
                     <b>
-                    "සොබාසිරි විඳගන්න - සොබාදම රකින්න"<br>
+                        "සොබාසිරි විඳගන්න - සොබාදම රකින්න"<br>
                     </b><br>
                     <br>
                     <i>පබැදුම,<br>
@@ -366,11 +366,11 @@
                         සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය</i><br>
                     <br>
                     <b> #අපේ_හදගැස්ම<br>
-                    #talenteduocleos<br>
-                    #uocleos<br>
-                    #leosofc1<br>
-                    #leomd306<br>
-                    #lionsclubsinternational<br>
+                        #talenteduocleos<br>
+                        #uocleos<br>
+                        #leosofc1<br>
+                        #leomd306<br>
+                        #lionsclubsinternational<br>
                     </b>
                 </p>
             </div>
@@ -422,15 +422,15 @@
 
                         <div class="testimonial">
 
-                            <p>"Youth is the best period in one's life. Because it's the time you become to dream and trying to make your own way by establishing your own goals. Leoism helps to identify the leader within you and enables you to develop your skills by engaging in service vast range of projects and help you towards to achieve your goals."<br><br><br> </p>
+                            <p> <b> "In order to become an exceptional leader you should have the ability to inspire others through your actions while letting them dream bigger and help them become a better version of themselves."<br><br><br> </b></p>
 
                             <div class="whopic">
 
                                 <div class="arrow"></div>
 
-                                <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Chair.jpeg" class="centered" alt="President">
+                                <img src="<?php echo base_url() ?>assets/frontend/images/wus/21Chair.jpg" class="centered" alt="President">
 
-                                <strong>Leo Nipuna Sandaruwan
+                                <strong>Leo Lalanka Samarakoon
 
                                     <small> President <br />
 
@@ -446,26 +446,55 @@
                 </div>
             </div>
             <div class="row">
+
+                <div style="display: flex; justify-content: center;">
+                    <!-- uoc leo Immediate Past President's block -->
+                    <div class="span6">
+
+                        <div class="testimonial">
+
+                            <p>"Youth is the best period in one's life. Because it's the time you become to dream and trying to make your own way by establishing your own goals. Leoism helps to identify the leader within you and enables you to develop your skills by engaging in service vast range of projects and help you towards to achieve your goals."<br><br><br> </p>
+
+                            <div class="whopic">
+
+                                <div class="arrow"></div>
+
+                                <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Chair.jpeg" class="centered" alt="President">
+
+                                <strong>Leo Nipuna Sandaruwan
+
+                                    <small> Immediate Past President <br />
+
+                                        Leo Club of University of Colombo</small>
+
+                                </strong>
+
+                            </div>
+
+                        </div>
+
+                    </div>
+                </div>
+            </div>
+            <div class="row">
                 <div class="span6">
                     <div style="display: flex;justify-content:flex-end;">
-                        <!-- uoc leo Immediate Past President's block -->
+                        <!-- uoc leo Vc's block 1 -->
                         <div class="span4">
 
                             <div class="testimonial">
-                                <p>If you are passionate to explore new dimensions and develop yourself to serve the community at your best, you should have a perfect pathway which is bounded by good companions. <br>
-
-                                    I'm indeed proud to mention that Leo Club of University of Colombo is the place which showed the correct pathway for me to discover new dimensions and great companions. <br>
-
-                                    Be a proud Leo of Leo Club of University of Colombo and discover new horizons to serve the community at your best bounded with good companions.</p>
+                                <p>"The challange of leadership is to be strong, be kind, be humble and be proud. Leoism is the path of betterment which someone else while improving your own skills, attitudes, experiences and even it gives a fantastic enjoyment for us. The great things are never done by one person, thoes are done by a team of people. Be a proud leo, we act for everyone's betterment, then automatically grown ourselves."
+                                    <br>
+                                </p>
                                 <div class="whopic">
 
                                     <div class="arrow"></div>
 
-                                    <img src="<?php echo base_url() ?>assets/frontend/images/wus/19chair.webp" class="centered" alt="Immediate Past President">
+                                    <img src="<?php echo base_url() ?>assets/frontend/images/wus/21Vc1.jpeg" class="centered" alt="Immediate Past President">
 
-                                    <strong>Leo Sandun Perera
+                                    <strong>Leo Milan Ishara
 
-                                        <small> Immediate Past President <br />
+                                        <small> Vice President <br />
 
                                             Leo Club of University of Colombo</small>
 
@@ -479,14 +508,18 @@
                 </div>
                 <div class="span6">
                     <div style="display: flex;justify-content:flex-start;">
-                        <!-- uoc leo Vc's block -->
+                        <!-- uoc leo Vc's block 2 -->
                         <div class="span4">
                             <div class="testimonial">
-                                <p>"Be someone who isn't afraid of challenges that come your way. Face them whole heartedly with the aim of achieving the objectives. <br> Leoism facilitates us to spend our time, skills and knowledge for the betterment of everyone and be a visionary that sets the path. "<br /><br /> <br></p>
+                                <p>"I believe that the leader needs to be a servant. If it happens like that, we can go ahead as a team. It is not enough to work with just only one member, everyone must need to work together. Only then we can move forward to success."<br />
+                                    <br />
+                                    I guess we can get all these experiences from the leoism.<br>
+                                    <br>
+                                </p>
                                 <div class="whopic">
                                     <div class="arrow"></div>
-                                    <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Vc.jpeg" class="centered" alt="Vice President">
-                                    <strong>Leo Sahan Sandeepa
+                                    <img src="<?php echo base_url() ?>assets/frontend/images/wus/21Vc2.jpg" class="centered" alt="Vice President">
+                                    <strong>Leo Chanuka Pelpita
                                         <small>
                                             Vice President <br />
                                             Leo Club of University of Colombo
@@ -501,17 +534,18 @@
 
             </div>
             <div class="row">
-                <div class="span6">
+                <div class="span4">
                     <div style="display: flex;justify-content:center;">
-
                         <!-- uoc leo secretary's block -->
                         <div class="span4">
                             <div class="testimonial">
-                                <p>"Leoism provides a wonderful space in which youthful energy can be utilized as a sword and a shield for the social betterment, where a smile can be added to another person's face and humble pleasure can be had. In the face of many experiences and opportunities along the bitter path, leoism seeks to bring out the leader within yourselves and gives birth to wonderful leaders."</p>
+                                <p>"We can't always build the future for our youth, but we can build our youth for the future!✨<br>
+                                    Leo Club of University of Colombo is a leading club established for the Undergraduates of University of Colombo, to meet at one of the milestones in their journey to build their future. <br>
+                                    Becoming a proud LEO of UOC helps them to identify the leaders within themselves and improve their skills by engaging a wide range of club projects and activities. Furthermore, it provides a right direction to the life goals of youngsters who are willing to thrive!"</p>
                                 <div class="whopic">
                                     <div class="arrow"></div>
-                                    <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Sec.jpeg" class="centered" alt="Secretary">
-                                    <strong>Leo Nimesh Thivanka
+                                    <img src="<?php echo base_url() ?>assets/frontend/images/wus/21Sec.jpg" class="centered" alt="Secretary">
+                                    <strong>Leo Kuvindi Sandaleka
                                         <small>
                                             Secretary <br />
                                             Leo Club of University of Colombo
@@ -523,42 +557,46 @@
 
                     </div>
                 </div>
-                <div class="span6">
-                    <div style="display: flex;justify-content:center;">
-
-                        <!-- uoc leo Tresurer's's block -->
-                        <div class="span4">
-                            <div class="testimonial">
-                                <p>"Leadership develepment is self development. As young blood, leoism is the right path to develop the best leader within yourselves. So grab this valuable opportunity & collect experiences, it will definitely upgrade you to a better version."<br> <br><br><br></p>
-                                <div class="whopic">
-                                    <div class="arrow"></div>
-                                    <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Tre.jpeg" class="centered" alt="Treasurer">
-                                    <strong>Leo Isuru Dilshan
-                                        <small>
-                                            Treasurer <br />
-                                            Leo Club of University of Colombo
-                                        </small>
-                                    </strong>
-                                </div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="row">
-
-                <!-- uoc leo Vs's block -->
+                <!-- uoc leo Vs's block 1 -->
                 <div class="span4">
                     <div class="testimonial">
-                        <p>Leoism is the best platform for any individual who is seeking to be visionary leader. <br> Along side time, it will open up new horizons that you can create an impact in this world. <br>
-                            While overcoming the obstacles, Be a LEO who can redefine the game to be a greater benefit to the nation. <br></p>
+                        <p>"Leoism is a great platform to enhance our talents, skills and self-confidence while working with others to make a meaningful contribution to a better community.<br>
+                            <br>
+                            It’s a valuable opportunity that shouldn’t be missed or ignored by any youngster who is willing to become an outstanding leader in the future."<br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                            <br>
+                        </p>
                         <div class="whopic">
                             <div class="arrow"></div>
-                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Vs.jpeg" class="centered" alt="Assistant Secretary">
-                            <strong>Leo Dinu Meegama
+                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/21Vs1.jpeg" class="centered" alt="Assistant Secretary">
+                            <strong>Leo Jayani Dinushika
+                                <small>
+                                    Assistant Secretary <br />
+                                    Leo Club of University of Colombo
+                                </small>
+                            </strong>
+                        </div>
+                    </div>
+                </div>
+                <!-- uoc leo Vs's block 2 -->
+                <div class="span4">
+                    <div class="testimonial">
+                        <p>"Leoism is much more than being a mere member of a club. It’s about being a part of a team and working towards contributing to the betterment of the community, while creating memories of a lifetime.<br>
+                            <br>
+                            <br>
+                            The Leo Club of University of Colombo will continuously give opportunities to every single member to improve and challenge themselves in order to be a better version themselves." <br>
+                            <br>
+                            <br>
+                            <br>
+                        </p>
+                        <div class="whopic">
+                            <div class="arrow"></div>
+                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/21Vs2.jpeg" class="centered" alt="Assistant Secretary">
+                            <strong>Leo Nelum Bandara
                                 <small>
                                     Assistant Secretary <br />
                                     Leo Club of University of Colombo
@@ -568,14 +606,54 @@
                     </div>
                 </div>
 
+
+            </div>
+
+            <div class="row">
+
+                <div class="span4">
+                    <div style="display: flex;justify-content:center;">
+                        <!-- uoc leo Tresurer's's block -->
+                        <div class="span4">
+                            <div class="testimonial">
+                                <p><i>"<b>Take Risks ,Take Challenges, Aim high</b>"</i><br>
+                                    <br>
+                                    Every Teenager get this opportunity in Leoism.<br>
+                                    <br>
+                                    Leo Movement create a platform to groom a great leader. Sharpen your skills and Be a great leader<br>
+                                    <br>
+                                    Guys poddak ehe mehe karala hadaganna 💔<br>
+                                    <br>
+                                    <br>
+                                    <br>
+                                </p>
+                                <div class="whopic">
+                                    <div class="arrow"></div>
+                                    <img src="<?php echo base_url() ?>assets/frontend/images/wus/21Tre.jpg" class="centered" alt="Treasurer">
+                                    <strong>Leo Supun Dilshan
+                                        <small>
+                                            Treasurer <br />
+                                            Leo Club of University of Colombo
+                                        </small>
+                                    </strong>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
                 <!-- uoc leo Vt's block -->
-                <div class="span4" id="vice-tre">
+                <div class="span4">
                     <div class="testimonial">
-                        <p>"On the journey to leadership, we must first have a good understanding of who we are and the range of our abilities. A great leader should always strive to shine his or her leadership with his or her potential. He or she should not use his or her position to strive. In other words, a good leader needs to be a keen follower too. I can unequivocally state that Leoism gives some valuable opportunity to nurture and enhance ones experience and skills."<br /></p>
+                        <p>"It was such a great experience to work with leos learnt a lot from that I was able to improve my communication skills,Leadership skills and many other skills by working with UOC leos not only that when I am looking back there are so many unmemorable and pleasant memories with our leos and according to my point of view this is the best place to improve your soft skills and this is the place to build plenty of networks which are very helpful for your future coporate life."<br />
+                            <br>
+                            <br>
+                            <br>
+                        </p>
                         <div class="whopic">
                             <div class="arrow"></div>
-                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Vt.jpeg" class="centered" alt="Assistant Treasurer">
-                            <strong>Leo Shilpa Devindi
+                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/21Vt1.jpg" class="centered" alt="Assistant Treasurer">
+                            <strong>Leo Anuradha Sampath
                                 <small>
                                     Assistant Treasurer <br />
                                     Leo Club of University of Colombo
@@ -588,13 +666,13 @@
                 <!-- uoc leo Ce's block -->
                 <div class="span4">
                     <div class="testimonial">
-                        <p>“The only person you are destined to become is the person you decide to be”. Success as with most things starts with attitude. When you are struggling a small burst of inspiration can make a huge difference. Leoism is a great platform to all of us to showcase our talents and to unleash our hidden potential. So chase after your goals that commands your thoughts, liberates your energy and inspires your hopes." <br><br></p>
+                        <p>“In our life we have to go through junctions where we need to choose a correct path, likewise in my First year at University of Colombo i saw different kind of paths and fortunately I selected the Leoism which was a magical thing happened in my life. Since i got to this path i could see many developments in my mental life, skills and attitudes, confidence level and more and more. Hence this is the best junction I selected in my entire life from which i could gain valuable experience to my life. And as a result of the successful journey with leoism today I am here, as Assistant treasure of UOC leo club"</p>
                         <div class="whopic">
                             <div class="arrow"></div>
-                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/20Ce.jpeg" class="centered" alt="Chief Editor">
-                            <strong>Leo Semini Gunasekara
+                            <img src="<?php echo base_url() ?>assets/frontend/images/wus/21Vt2.jpeg" class="centered" alt="Chief Editor">
+                            <strong>Leo Priyadarshani Eric
                                 <small>
-                                    Chief Editor<br />
+                                    Assistant Treasurer<br />
                                     Leo Club of University of Colombo
                                 </small>
                             </strong>
