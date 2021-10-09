@@ -422,7 +422,14 @@
 
                         <div class="testimonial">
 
-                            <p> <b> "In order to become an exceptional leader you should have the ability to inspire others through your actions while letting them dream bigger and help them become a better version of themselves."<br><br><br> </b></p>
+                            <p>" <b> 'Youth' </b>is a group of people with a an unimaginable power and they hold a special role in renewing the prevailing state of our society"<br>
+                                <br>
+                                A leader should be made through their energy, creativity and idealism. They should practice challenge entrenched patterns of exclusion or injustice and should be at the forefront of global change and innovation.<br>
+                                <br>
+                                From what I believe, in order to become an exceptional young leader; you should contain the ability to inspire others through your actions while letting them dream bigger, helping them become a better version of themselves. To complete this task I believe that Leoism is the best platform. It will facilitate a platform to motivate young leaders of tomorrow and give the experience of a lifetime.<br>
+                                <br>
+                                Leo Club of University of Colombo is the best place to identify your potential and to become an exceptional leader<br>
+                            </p>
 
                             <div class="whopic">
 
@@ -539,9 +546,9 @@
                         <!-- uoc leo secretary's block -->
                         <div class="span4">
                             <div class="testimonial">
-                                <p>"We can't always build the future for our youth, but we can build our youth for the future!✨<br>
+                                <p>"We can't always build the future for our youth, but we can build our youth for the future!<br>
                                     Leo Club of University of Colombo is a leading club established for the Undergraduates of University of Colombo, to meet at one of the milestones in their journey to build their future. <br>
-                                    Becoming a proud LEO of UOC helps them to identify the leaders within themselves and improve their skills by engaging a wide range of club projects and activities. Furthermore, it provides a right direction to the life goals of youngsters who are willing to thrive!"</p>
+                                    Becoming a proud LEO of UOC help them to identify the leaders within themselves and improve their skills by engaging in a wide range of club projects and activities. Furthermore, it provides a right direction to the life goals of youngsters who are willing to thrive!"</p>
                                 <div class="whopic">
                                     <div class="arrow"></div>
                                     <img src="<?php echo base_url() ?>assets/frontend/images/wus/21Sec.jpg" class="centered" alt="Secretary">
@@ -616,13 +623,14 @@
                         <!-- uoc leo Tresurer's's block -->
                         <div class="span4">
                             <div class="testimonial">
-                                <p><i>"<b>Take Risks ,Take Challenges, Aim high</b>"</i><br>
+                                <p><i>"Take Risks ,Take Challenges, Aim high"</i><br>
                                     <br>
-                                    Every Teenager get this opportunity in Leoism.<br>
+                                    The youth not only in Sri Lanka but in the global context get this invaluble opportunity through Leoism.<br>
                                     <br>
-                                    Leo Movement create a platform to groom a great leader. Sharpen your skills and Be a great leader<br>
+                                    The Leo Movement create a platform to groom a great leader.<br>
                                     <br>
-                                    Guys poddak ehe mehe karala hadaganna 💔<br>
+                                    Sharpen your skills and Be a great leader<br>
+                                    <br>
                                     <br>
                                     <br>
                                     <br>
