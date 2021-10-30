@@ -409,7 +409,14 @@
             discription:`The annual research project of Leo club of University of Colombo “The Elicit 2021” has successfully completed in the month of April under the topic “Issues regarding health and wellbeing in the Sri Lankan community”. A survey was conducted under the participation of more than 200 participants. At the end of the research project, the solutions and the recommendations are provided. `,
             category:"other"                    // vision / hunger / environment / diabetes / childCare / other ;
         }
-
+        {
+            name:"Comienzo 2021",
+            leader:"Priyadarshani Eric",
+            date:"2021/09/18",        
+            venue:`Zoom Platform`,               
+            discription:`Orientation Program of Leo Club of University of Colombo for the leoistic year 2021/22, which is taking place for the seventh consecutive time, in order to provide prospectors with a rudimentary knowledge about leoism.`,
+            category:"Meeting"                
+        }
 
         
         /*
