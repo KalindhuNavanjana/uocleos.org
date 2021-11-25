@@ -352,25 +352,27 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/recents/hadagasma-2021.09.22.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/recents/hadagasma-2021.11.24.jpeg">
             </div>
             <div class="span4">
                 <p style="font-size: larger;">
                     <b>
-                        "සොබාසිරි විඳගන්න - සොබාදම රකින්න"<br>
+                        "ජූලියේ අඳුරු හවසක"<br>
                     </b><br>
+                    කළු ජූලියට දිවි අහිමි වූවන්ට උපහාරක් වේවා! <br>
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ සුමීෂා ප්‍රනාන්දු<br>
-                        දෙවන වසර - තාක්ෂණික පීඨය<br>
-                        සාමාජික - කොළඹ විශ්විද්‍යාලීය ලියෝ සමාජය</i><br>
+                        ලියෝ සමන්ත දසනායක<br>
+                        පළමු වසර - නීති පීඨය<br>
+                        සාමාජික- කොළඹ විශ්වවිද්‍යාලය ලියෝ සමාජය</i><br>
                     <br>
-                    <b> #අපේ_හදගැස්ම<br>
-                        #talenteduocleos<br>
-                        #uocleos<br>
-                        #leosofc1<br>
-                        #leomd306<br>
-                        #lionsclubsinternational<br>
+                    <b> #Towards_Eminence_with_Pride<br>
+                        #අපේ_හදගැස්ම<br>
+                        #Talented_UoC_Leos<br>
+                        #UoC_Leos <br>
+                        #Leo_District_306_C1<br>
+                        #MD_306<br>
+                        #Lions_Clubs_International<br>
                     </b>
                 </p>
             </div>
