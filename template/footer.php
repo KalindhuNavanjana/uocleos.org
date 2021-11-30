@@ -29,10 +29,22 @@
         <!-- Newsletters list goes here. top most is the latest -->
         <div class="row-fluid">
             <ul class="row client-slider" id="clint-slider">
-            <li>
+                <li>
+                    <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol04-Issue05.pdf">
+                        <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol4-issue05.jpg" alt="vol 4 - issue 05">
+                        <p>Our_Esssence Vol04 Issue05 (Latest)</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol04-Issue04.pdf">
+                        <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol4-issue04.jpg" alt="vol 4 - issue 03">
+                        <p>Our_Esssence Vol04 Issue04</p>
+                    </a>
+                </li>
+                <li>
                     <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol04-Issue03.pdf">
                         <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol4-issue03.jpg" alt="vol 4 - issue 03">
-                        <p>Our_Esssence Vol04 Issue03 (Latest)</p>
+                        <p>Our_Esssence Vol04 Issue03</p>
                     </a>
                 </li>
                 <li>
