@@ -409,6 +409,15 @@
             venue:`Zoom Platform`,               
             discription:`Orientation Program of Leo Club of University of Colombo for the leoistic year 2021/22, which is taking place for the seventh consecutive time, in order to provide prospectors with a rudimentary knowledge about leoism.`,
             category:"other"                //Meeting
+        },
+
+        {
+            name:"Prarthana 4.0",
+            leader:"Dhananji Ranasingha ",
+            date:"<b>1st phase - </b>2021.10.16 <br/><b>2nd phase - </b>2021.11.06 <br/><b> 3rd phase - </b>2021.12.01",        //2021/09/18        
+            venue:`<b>1st phase & 2nd phase - </b>Zoom platform <br/><b>3rd phase - </b>R/NIWWI/ Wewalkandura college `,               
+            discription:`The project “Prarthana 4.0” under the project category of “Peace, Religion and Cultural Activities”. The main purpose of implementing the project “Prarthana 4.0” was to spread love, peace and unity among various communities. It was successfully held under three phases. The 1st phase was focused on religious coexistence  while the 2nd phase was aimed for awareness about cultural diversity. Also, the 3rd phase was conducted to overcome the language barriers among people.`,
+            category:"other"                //Peace, Religion and Cultural Activities 
         }
         
         /*
