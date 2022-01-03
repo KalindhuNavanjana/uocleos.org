@@ -348,22 +348,22 @@
 
         <!-- these are from 2020 -->
 
-        <h2 id="Ape_Hadagasma" style="margin-bottom:20px;margin-top:40px;text-align:center">අපේ හදගැස්ම</h2>
+        <h2 id="Mihi_Mawa_Ayai" style="margin-bottom:20px;margin-top:40px;text-align:center">මිහි මව ඇයයි</h2>
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/recents/hadagasma-2021.11.24.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/recents/mihimawa-2022.01.03.jpeg">
             </div>
             <div class="span4">
                 <p style="font-size: larger;">
                     <b>
-                        "ජූලියේ අඳුරු හවසක"<br>
+                        "යුතුකම එයයි - රැකගමු  අද මෙන් හෙටට"<br>
                     </b><br>
-                    කළු ජූලියට දිවි අහිමි වූවන්ට උපහාරක් වේවා! <br>
+                    <!--කළු ජූලියට දිවි අහිමි වූවන්ට උපහාරක් වේවා! <br>-->
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ සමන්ත දසනායක<br>
-                        පළමු වසර - නීති පීඨය<br>
+                        ලියෝ රුසිරි ලංකාතිලක<br>
+                        <!--පළමු වසර - නීති පීඨය<br>-->
                         සාමාජික- කොළඹ විශ්වවිද්‍යාලය ලියෝ සමාජය</i><br>
                     <br>
                     <b> #Towards_Eminence_with_Pride<br>
