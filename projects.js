@@ -418,6 +418,15 @@
             venue:`<b>1st phase & 2nd phase - </b>Zoom platform <br/><b>3rd phase - </b>R/NIWWI/ Wewalkandura college `,               
             discription:`The project “Prarthana 4.0” under the project category of “Peace, Religion and Cultural Activities”. The main purpose of implementing the project “Prarthana 4.0” was to spread love, peace and unity among various communities. It was successfully held under three phases. The 1st phase was focused on religious coexistence  while the 2nd phase was aimed for awareness about cultural diversity. Also, the 3rd phase was conducted to overcome the language barriers among people.`,
             category:"other"                //Peace, Religion and Cultural Activities 
+        },
+
+        {
+            name:"Alert 5.0",
+            leader:"Leo Shehan De Mel",
+            date:"<b>1st phase - </b>2021/10/30 <br/><b>2nd phase - </b>2021/12/23 <br/><b> 3rd phase - </b>2021/12/30",        //2021/09/18        
+            venue:`<b>1st phase - </b>"Prana Suraksha" - Zoom Platform & FB Live <br/><b>2nd phase - </b>"Apeksha"- Apeksha Hospital Maharagama<br/><b>3rd phase - </b>"Athwala"- Apeksha Hospital Maharagama `,               
+            discription:`Alert 5.0 is a project comes under the category of pediatric cancer. In the first phase, an awareness program was conducted via Zoom & FB live . In the second phase of the project, we were able to provide essential medicines and other necessities to 125 children in Maharagama National Cancer Hospital and in the final phase of the project, which was organized to donate books and stationaries for the library at Maharagama National Cancer Hospital.`,
+            category:"other"                //Pediatric Cancer 
         }
         
         /*
