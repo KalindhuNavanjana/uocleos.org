@@ -412,6 +412,15 @@
         },
 
         {
+            name:"Towards Eminence with Pride ",
+            leader:"Leo Priyadarshani Eric",
+            date:"2021/10/24",        //2021/09/18        
+            venue:`Hotel Royal Grand Paradise, Kalaniya | zoom application `,               
+            discription:`Leo club of University of Colombo has come a glorious, victorious journey within a short period of time under the extraordinary leadership and guidance of six different leaders. The 7th installation ceremony of the club took place successfully on 24th of October 2021 at Hotel Royal Grand Paradise in order to appoint new office bearers.`,
+            category:"other"                //Fellowship 
+        },
+
+        {
             name:"Prarthana 4.0",
             leader:"Dhananji Ranasingha ",
             date:"<b>1st phase - </b>2021.10.16 <br/><b>2nd phase - </b>2021.11.06 <br/><b> 3rd phase - </b>2021.12.01",        //2021/09/18        
@@ -427,6 +436,18 @@
             venue:`<b>1st phase - </b>"Prana Suraksha" - Zoom Platform & FB Live <br/><b>2nd phase - </b>"Apeksha"- Apeksha Hospital Maharagama<br/><b>3rd phase - </b>"Athwala"- Apeksha Hospital Maharagama `,               
             discription:`Alert 5.0 is a project comes under the category of pediatric cancer. In the first phase, an awareness program was conducted via Zoom & FB live . In the second phase of the project, we were able to provide essential medicines and other necessities to 125 children in Maharagama National Cancer Hospital and in the final phase of the project, which was organized to donate books and stationaries for the library at Maharagama National Cancer Hospital.`,
             category:"other"                //Pediatric Cancer 
+        },
+
+        {
+            name:"DiabCure 4.0",
+            leader:"K A J Chathurka",
+            date:"2022.01.03",        //2021/09/18        
+            venue:`Negombo`,               
+            discription:`<b>First phase</b> - Virtual session about Diabetes <br/>
+            <b>Second phase</b> - NCD screening clinic in Sri Dhumindaramaya temple,Negombo<br/>
+            <b>Third Phase</b> - Donating essential instruments to Negombo Hospital
+            `,
+            category:"Diabetes"                //Diabetes
         }
         
         /*
