@@ -29,10 +29,16 @@
         <!-- Newsletters list goes here. top most is the latest -->
         <div class="row-fluid">
             <ul class="row client-slider" id="clint-slider">
-            <li>
+                <li>
+                    <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol04-Issue07.pdf">
+                        <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol4-issue07.jpg" alt="vol 4 - issue 07">
+                        <p>Our_Esssence Vol04 Issue07 (Latest)</p>
+                    </a>
+                </li>
+                <li>
                     <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol04-Issue06.pdf">
-                        <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol4-issue06.jpg" alt="vol 4 - issue 05">
-                        <p>Our_Esssence Vol04 Issue06 (Latest)</p>
+                        <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol4-issue06.jpg" alt="vol 4 - issue 06">
+                        <p>Our_Esssence Vol04 Issue06</p>
                     </a>
                 </li>
                 <li>
@@ -43,7 +49,7 @@
                 </li>
                 <li>
                     <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol04-Issue04.pdf">
-                        <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol4-issue04.jpg" alt="vol 4 - issue 03">
+                        <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol4-issue04.jpg" alt="vol 4 - issue 04">
                         <p>Our_Esssence Vol04 Issue04</p>
                     </a>
                 </li>

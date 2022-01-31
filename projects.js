@@ -412,7 +412,7 @@
         },
 
         {
-            name:"Towards Eminence with Pride ",
+            name:"Towards Eminence with Pride",
             leader:"Leo Priyadarshani Eric",
             date:"2021/10/24",        //2021/09/18        
             venue:`Hotel Royal Grand Paradise, Kalaniya | zoom application `,               
