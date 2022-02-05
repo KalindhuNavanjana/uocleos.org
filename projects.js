@@ -445,9 +445,20 @@
             venue:`Negombo`,               
             discription:`<b>First phase</b> - Virtual session about Diabetes <br/>
             <b>Second phase</b> - NCD screening clinic in Sri Dhumindaramaya temple,Negombo<br/>
-            <b>Third Phase</b> - Donating essential instruments to Negombo Hospital
-            `,
+            <b>Third Phase</b> - Donating essential instruments to Negombo Hospital`,
             category:"Diabetes"                //Diabetes
+        },
+
+        {
+            name:"Miles of Smiles 3.0",
+            leader:"Leo Uvini de Silva",
+            date:"<b>1st phase - </b>2021/11/13 <br/><b>2nd phase - </b>2021/12/04 <br/><b> 3rd phase - </b>2022/01/13",      
+            venue:`<b>First phase</b> - Zoom Platform <br/>
+            <b>Second phase</b> - MO/ Wellassa Subhagya Vidyalaya, Kubukkana<br/>
+            <b>Third Phase</b> - Sri Susila Kanishta Vidyalaya,Urapola,/ Thalpawila Central College,Dondra, /Homes of underpriviledged children in the cities of the commitee members
+            `,               
+            discription:`Miles of Smiles 3.0 is being implemented with the noble aim of empowering the little ones who are striving to conquer the world in the face of various obstacles. We provided assistance to children who have been subjected to persecution from an early age due to the insecurities of today's society, as well as met the basic needs of children suffering from financial hardship, and also assisting children who have dropped out of school due to financial difficulties. `,
+            category:"ChildCare"                //Child Care
         }
         
         /*
