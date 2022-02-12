@@ -348,21 +348,22 @@
 
         <!-- these are from 2020 -->
 
-        <h2 id="Mihi_Mawa_Ayai" style="margin-bottom:20px;margin-top:40px;text-align:center">මිහි මව ඇයයි</h2>
+        <h2 id="Mihi_Mawa_Ayai" style="margin-bottom:20px;margin-top:40px;text-align:center">වැහි වළාවට ඇරයුම්</h2>
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/recents/mihimawa-2022.01.03.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/recents/arayuma-2022.02.12.jpeg">
             </div>
             <div class="span4">
                 <p style="font-size: larger;">
-                    <b>
+                    <!-- <b>
                         "යුතුකම එයයි - රැකගමු  අද මෙන් හෙටට"<br>
-                    </b><br>
+                    </b><br> -->
                     <!--කළු ජූලියට දිවි අහිමි වූවන්ට උපහාරක් වේවා! <br>-->
                     <br>
                     <i>පබැදුම,<br>
-                        ලියෝ රුසිරි ලංකාතිලක<br>
+                    ලියෝ ජනේන්ද්‍රා ලක්ශානි ( සාමාජික)<br>
+                        නීති පීඨය<br>-->
                         <!--පළමු වසර - නීති පීඨය<br>-->
                         සාමාජික- කොළඹ විශ්වවිද්‍යාලය ලියෝ සමාජය</i><br>
                     <br>
