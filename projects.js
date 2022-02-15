@@ -459,7 +459,22 @@
             `,               
             discription:`Miles of Smiles 3.0 is being implemented with the noble aim of empowering the little ones who are striving to conquer the world in the face of various obstacles. We provided assistance to children who have been subjected to persecution from an early age due to the insecurities of today's society, as well as met the basic needs of children suffering from financial hardship, and also assisting children who have dropped out of school due to financial difficulties. `,
             category:"ChildCare"                //Child Care
-        }
+        },
+
+        {
+            name:"Be Their Vision 6.0",
+            leader:"Leo Udeshika Ganegoda",
+            date:"<b>1st phase - </b>6th November 2021<br/><b>2nd phase - </b>From 17th November 2021 to 18th December 2021<br/><b> 3rd phase - </b>3rd February 2022",        //2021/09/18        
+            venue:`<b>First phase</b> - Zoom and Facebook live<br/>
+            <b>Second phase</b> - Google Forms and Bellanvila Raja Maha Viharaya<br/>
+            <b>Third Phase</b> - National Eye Hospital, Colombo 10`,                 
+            discription:`
+            The project "Be Their Vision 6.0" is a project which is conducted under the category of Vision and was initiated with the aim of eliminating avoidable blindness by raising awareness of good eye health practices and bridging the gap between demand and supply of corneas. The project consisted of three phases:<br>
+            <b>First phase</b> - "You n Eye" eye health awareness session <br/>
+            <b>Second phase</b> - "Nethra" Eye donor registration program<br/>
+            <b>Third Phase</b> - "Hithethi Manudama" Medical equipment donation to the National Eye Hospital`,
+            category:"Vision"                //Vision
+        },
         
         /*
         

@@ -352,19 +352,14 @@
 
         <div class="row-fluid" style="margin-bottom:20px">
             <div class="span8">
-                <img src="<?php echo base_url() ?>assets/contents/images/recents/arayuma-2022.02.12.jpeg">
+                <img src="<?php echo base_url() ?>assets/contents/images/recents/arayuma20220212.jpeg">
             </div>
             <div class="span4">
                 <p style="font-size: larger;">
-                    <!-- <b>
-                        "යුතුකම එයයි - රැකගමු  අද මෙන් හෙටට"<br>
-                    </b><br> -->
-                    <!--කළු ජූලියට දිවි අහිමි වූවන්ට උපහාරක් වේවා! <br>-->
                     <br>
                     <i>පබැදුම,<br>
                     ලියෝ ජනේන්ද්‍රා ලක්ශානි ( සාමාජික)<br>
-                        නීති පීඨය<br>-->
-                        <!--පළමු වසර - නීති පීඨය<br>-->
+                        නීති පීඨය<br>
                         සාමාජික- කොළඹ විශ්වවිද්‍යාලය ලියෝ සමාජය</i><br>
                     <br>
                     <b> #Towards_Eminence_with_Pride<br>
