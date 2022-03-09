@@ -475,6 +475,15 @@
             <b>Third Phase</b> - "Hithethi Manudama" Medical equipment donation to the National Eye Hospital`,
             category:"Vision"                //Vision
         },
+
+        {
+            name:"Kruthaguna 4.0",
+            leader:"Leo Jeewani Thakshila",
+            date:"<b>1st phase - </b>19th December 2021<br/><b>2nd phase - </b>20th February 2022<br/><b> 3rd phase - </b>23rd/24th February 2022",        //2021/09/18        
+            venue:`<b>1st phase - </b>Dharma Shasthrodhaya Pirivena Piliyandala Phase<br/><b>2nd phase - </b>Via Zoom platform, live-streamed on Facebook and uploaded on Youtube.<br/><b>3rd phase - </b>7 elders homes (Janadara Elders Home ,   Salina Alwis Elders Home     , Iresha Elders Home  ,    Sausiri Elders Home   , Jayawardhana Elders Home ,Aloka Elders Home and Diyawanawa Luxury Elders Residence`,               
+            discription:`The project Kruthaguna 4.0 was implemented by the Leo Club of University of Colombo with the aim of uplifting the mental and physical well-being of senior citizens. The adult medical check-up campaign was the 1st phase.  The 2nd phase was an online awareness session on "Retirement Plan and Wealth Management ". As the 3rd phase, a Kavi Bana blessing program and an entertainment program for elders were carried out. Moreover, there were donation programs to five selected elders’ homes successfully.`,
+            category:"other"                //Senior Citizens Development 
+        },
         
         /*
         
