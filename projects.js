@@ -488,7 +488,7 @@
         {
             name:"Sahurda Yathra 3.0",
             leader:"Leo Rushani Ushetti ",
-            date:"<b>1st phase - </b>11th February 2022<br/><b>2nd phase - </b>27th February 2022<br/><b> 3rd phase - </b>23rd/13th March 2022",        //2021/09/18        
+            date:"<b>1st phase - </b>11th February 2022<br/><b>2nd phase - </b>27th February 2022<br/><b> 3rd phase - </b>13th March 2022",        //2021/09/18        
             venue:`<b>1st phase - </b>Fort Railway Station<br/><b>2nd phase - </b>Sri Lanka Sinha Regiment Army Camp- Ambepussa<br/><b>3rd phase - </b>Siviraja Children's Development Center- Mahawewa`,               
             discription:`Sahurda Yathra 3.0' is a project consists of three phases, launched under the category of 'helping hand to differently abled'. The 1st phase of the project was the distribution of stickers as an awareness program to dispel misunderstandings about the disability. The 2nd phase was the donation of wheelchairs and other sanitary items to disabled war heroes to uplift their living standards. The final phase was conducted as an entertainment program for disabled children to present their talents.`,
             category:"other"                //Senior Citizens Development 
