@@ -29,12 +29,19 @@
         <!-- Newsletters list goes here. top most is the latest -->
         <div class="row-fluid">
             <ul class="row client-slider" id="clint-slider">
-            <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol04-Issue08.pdf">
-                        <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol4-issue08.jpg" alt="vol 4 - issue 08">
-                        <p>Our_Esssence Vol04 Issue08 (Latest)</p>
+                <li>
+                    <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol04-Issue09.pdf">
+                        <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol4-issue09.jpg" alt="vol 4 - issue 09">
+                        <p>Our_Esssence Vol04 Issue09 (Latest)</p>
                     </a>
                 </li>
-            <li>
+                   <li>
+                    <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol04-Issue08.pdf">
+                        <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol4-issue08.jpg" alt="vol 4 - issue 08">
+                        <p>Our_Esssence Vol04 Issue08</p>
+                    </a>
+                </li>
+                <li>
                     <a href="<?php echo base_url() ?>/assets/contents/newsletters/Our_Esssence_Vol04-Issue07.pdf">
                         <img src="<?php echo base_url() ?>/assets/frontend/images/newsletters/vol4-issue07.jpg" alt="vol 4 - issue 07">
                         <p>Our_Esssence Vol04 Issue07</p>
