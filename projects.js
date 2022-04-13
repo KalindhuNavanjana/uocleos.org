@@ -493,6 +493,24 @@
             discription:`Sahurda Yathra 3.0' is a project consists of three phases, launched under the category of 'helping hand to differently abled'. The 1st phase of the project was the distribution of stickers as an awareness program to dispel misunderstandings about the disability. The 2nd phase was the donation of wheelchairs and other sanitary items to disabled war heroes to uplift their living standards. The final phase was conducted as an entertainment program for disabled children to present their talents.`,
             category:"other"                //Senior Citizens Development 
         },
+
+        {
+            name:"Nisagini 4.0",
+            leader:"Leo Chathuprabha Kasthuriarachchige",
+            date:"2022/04/05",        //2021/09/18        
+            venue:`<b>1st phase - </b>Zoom<br/><b>2nd phase - </b>A.E. Gunasinghe Vidyalaya<br/><b>3rd phase - </b>Maternity Clinic, Udumulla, Mulleriyawa`,               
+            discription:`The project ""Nisagini 4.0"" basically focused on relieving hunger in the community. The first phase was successfully completed on 16th January via Zoom and it was conducted bilingually on the theme “Food Patterns and Healthy Eating”. The second phase was organized with the aim of motivating school children in highly urbanized areas to make their own gardens. The third phase was a dry ration distribution program which was aimed at relieving hunger and promoting maternal health.`,
+            category:"Hunger"                //Hunger 
+        },
+        
+        {
+            name:"Thirasara",
+            leader:"Leo Shashikala Udayangani ",
+            date:"2022/04/11",        //2021/09/18        
+            venue:`Akkara 10, Thorayaya, Kurunegala`,               
+            discription:`With the purpose of uplifting living standards and making a path for self-employment of a low-income level family, our team provided the necessary facilities along with a counseling service for domestic poultry management.`,
+            category:"Other"                //Poverty and better life 
+        },
         
         /*
         
