@@ -512,6 +512,14 @@
             category:"Other"                //Poverty and better life 
         },
         
+        {
+            name:"Arogya 4.0",
+            leader:"Leo Haritha Vimukthi",
+            date:"<b>1st phase - </b>2022/03/20<br/><b>2nd phase - </b>2022/04/11<br/><b> 3rd phase - </b>2022/04/12",        //2021/09/18        
+            venue:`<b>1st phase - </b>Gangodawila Girl's child development center and Galanigama Dharmachakra child foundation<br/><b>2nd phase - </b>National Institute of Infectious Diseases and MOH office Millaniya<br/><b>3rd phase - </b>Medical centers in Colombo, Gampaha, Panadura, Negombo, Kandy, Kurunegala, Rathnapua, Galle`,               
+            discription:`The project "Arogya 4.0” concluded successfully by the Leo Club of University of Colombo under the category of health, nutrition and food safety. Nutritious food packs were offered to two orphanages in the first phase. In the second phase, we donated 100 liters of sanitizer to Infectious Diseases Hospital, Constructed a vaccination room and renovated the clinical building at Millaniya MOH and donated medicine. We displayed posters on food safety in medical centers as the third phase.`,
+            category:"Other"                //Health, Nutrition and Food Safety 
+        },
         /*
         
         ,
