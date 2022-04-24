@@ -520,6 +520,14 @@
             discription:`The project "Arogya 4.0” concluded successfully by the Leo Club of University of Colombo under the category of health, nutrition and food safety. Nutritious food packs were offered to two orphanages in the first phase. In the second phase, we donated 100 liters of sanitizer to Infectious Diseases Hospital, Constructed a vaccination room and renovated the clinical building at Millaniya MOH and donated medicine. We displayed posters on food safety in medical centers as the third phase.`,
             category:"Other"                //Health, Nutrition and Food Safety 
         },
+        {
+            name:"One Drop 4.0 ",
+            leader:"Harini Hettiarachchi",
+            date:"<b>1st phase - </b>2021/12/22<br/><b>2nd phase - </b>2022/02/07<br/><b> 3rd phase - </b>2022/04/08",        //2021/09/18        
+            venue:`<b>1st phase - </b>Uduwaka waterfall, Uduwaka<br/><b>2nd phase - </b>Via Zoom and Facebook live<br/><b>3rd phase - </b>Karandeniya, Diwiyagahawila `,               
+            discription:`The project One Drop 4.0 was concluded successfully by the Leo Club of University of Colombo, under the category of the clean water and energy conservation. As the first phase , a cleanup campaign was conducted within a water catchment area. In the second phase an awareness program was conducted about water pollution. Under the third phase a water supply system consisted with an automated tube well and a water tank was constructed.`,
+            category:"Other"                //Clean water and Energy conservation 
+        },
         /*
         
         ,
