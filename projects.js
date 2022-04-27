@@ -520,6 +520,7 @@
             discription:`The project "Arogya 4.0” concluded successfully by the Leo Club of University of Colombo under the category of health, nutrition and food safety. Nutritious food packs were offered to two orphanages in the first phase. In the second phase, we donated 100 liters of sanitizer to Infectious Diseases Hospital, Constructed a vaccination room and renovated the clinical building at Millaniya MOH and donated medicine. We displayed posters on food safety in medical centers as the third phase.`,
             category:"Other"                //Health, Nutrition and Food Safety 
         },
+
         {
             name:"One Drop 4.0 ",
             leader:"Harini Hettiarachchi",
@@ -528,6 +529,16 @@
             discription:`The project One Drop 4.0 was concluded successfully by the Leo Club of University of Colombo, under the category of the clean water and energy conservation. As the first phase , a cleanup campaign was conducted within a water catchment area. In the second phase an awareness program was conducted about water pollution. Under the third phase a water supply system consisted with an automated tube well and a water tank was constructed.`,
             category:"Other"                //Clean water and Energy conservation 
         },
+
+        {
+            name:"Apekama",
+            leader:"Leo Mihiri Gamage",
+            date:"2022/04/17",        //2021/09/18        
+            venue:`Polonnaruwa`,               
+            discription:`The Leo Club of University of Colombo has organized the project "Apekama" for the leostic year 2021/2022, with the aim of supporting low income families who are suffering from impacts of adverse economic condition in Sri Lanka. Particularly, we decided to conduct a dry food distributing program and the entire project was successfully completed on 17th April 2022, by distributing dry food packages for 90 families who live in rural areas near to Polonnaruwa.`,
+            category:"Hunger"                //Hunger
+        },
+
         /*
         
         ,
