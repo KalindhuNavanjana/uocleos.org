@@ -519,6 +519,19 @@
             venue:`<b>1st phase - </b>Gangodawila Girl's child development center and Galanigama Dharmachakra child foundation<br/><b>2nd phase - </b>National Institute of Infectious Diseases and MOH office Millaniya<br/><b>3rd phase - </b>Medical centers in Colombo, Gampaha, Panadura, Negombo, Kandy, Kurunegala, Rathnapua, Galle`,               
             discription:`The project "Arogya 4.0” concluded successfully by the Leo Club of University of Colombo under the category of health, nutrition and food safety. Nutritious food packs were offered to two orphanages in the first phase. In the second phase, we donated 100 liters of sanitizer to Infectious Diseases Hospital, Constructed a vaccination room and renovated the clinical building at Millaniya MOH and donated medicine. We displayed posters on food safety in medical centers as the third phase.`,
             category:"Other"                //Health, Nutrition and Food Safety 
+        },  
+
+        {
+            name:"Together As Humans",
+            leader:"Leo Methma Athauda ",
+            date:"<b>1st phase - </b>2022/03/12<br/><b>2nd phase - </b>2022/03/17<br/><b> 3rd phase - </b>2022/04/03 - 2022/04/05",        //2021/09/18        
+            venue:`<b>1st phase - </b>Online<br/><b>2nd phase - </b>Community Hall,Meerigama<br/><b>3rd phase - </b> Koongolla Vidyalaya Katupotha Kurunagala, Rusigama Maha Vidyalaya Matale, K.B Rathnayake College, Anuradhapura`,               
+            discription:`TAH 5.0 project was implemented island wide successfully to meet the quality education and literacy development needs of school children and adults in 3 phases.</br>
+                            P1:Conducted an online course, awarded certificates and 100 aat scholarships to children from 5 provinces.</br>
+                            P2: Distributed manuals, conducted a lecture on reporting to several clubs in youth federation.</br>
+                            P3: Donated computers and study packs for students from 5 underprivileged schools.</br>
+            The project concluded benefitting 2500+ students.`,
+            category:"Other"                //Quality education and literacy development  
         },
 
         {
